@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #22d3ee;
+    --accent-2: #f472b6;
+    --accent-3: #facc15;
+    --accent-4: #a3e635;
+    --accent-5: #fb923c;
+    --accent-6: #c084fc;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #22d3ee;
+    --accent-2: #f472b6;
+    --accent-3: #facc15;
+    --accent-4: #a3e635;
+    --accent-5: #fb923c;
+    --accent-6: #c084fc;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #0891b2;
+    --accent-2: #db2777;
+    --accent-3: #ca8a04;
+    --accent-4: #65a30d;
+    --accent-5: #ea580c;
+    --accent-6: #9333ea;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="85.0" y2="85.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svgb7bdda73-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="svgb7bdda73-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svgb7bdda73-arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="var(--accent-1)"/>
+    </marker>
+    <filter id="svgb7bdda73-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <radialGradient id="svgb7bdda73-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svgb7bdda73-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svgb7bdda73-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svgb7bdda73-card-panel-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.20"/>
+      <stop offset="48%" stop-color="var(--inverse-text)" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.16"/>
+    </linearGradient>
+    <radialGradient id="svgb7bdda73-card-icon-glow" cx="50%" cy="35%" r="62%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svgb7bdda73-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svgb7bdda73-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" font-size="48" font-weight="700" fill="#f1f5f9" text-anchor="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Sacred Sites of Berwickshire</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="25" width="1652" height="70" fill="none"/>
+  <g id="DIAGRAM_MAIN">
+    <rect id="ITEM_1_BG" x="485" y="170" width="480" height="410" rx="16" fill="var(--accent-3)" stroke="var(--accent-1)" stroke-width="2" filter="url(#svgb7bdda73-shadow)" fill-opacity="0.4"/>
+    <rect x="485" y="170" width="480" height="410" rx="16" fill="url(#svgb7bdda73-card-panel-sheen)" opacity="0.88"/>
+    <rect x="485" y="186" width="460" height="12" fill="var(--accent-1)"/>
+    <rect id="ITEM_1_HEAD_FRAME" x="500" y="288" width="450" height="96" fill="none"/>
+    <rect id="ITEM_1_BODY_FRAME" x="500" y="382" width="450" height="168" fill="none"/>
+    <circle id="ITEM_1_PAD" cx="715" cy="231" r="55" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle cx="715" cy="231" r="44" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
+    <circle id="ITEM_1_BADGE" cx="715" cy="231" r="43" fill="var(--accent-1)" stroke="var(--background)" stroke-width="4" fill-opacity="0.35" opacity="0.85" stroke-opacity="0.75"/>
+    <g id="ITEM_1_ICON" transform="translate(682, 198)" data-icon-size="66">
+      <g transform="translate(-16.29736842105263,-15.168421052631578) scale(0.1881578947368421)" vector-effect="non-scaling-stroke" fill="#ffffff" fill-opacity="1.0" stroke="none">
+        <path fill="#ffffff" d="m86.236 28.564l-41.248 110h422.024l-41.248-110zm32.764 128v176.07c76.024 28.87 197.976 28.87 274 0v-176.07h-18v137.428c-7.16-3.66-15.96-6.65-26.307-9.236c-24.208-6.052-56.74-9.64-92.693-9.64c-7.85 0-15.526.18-23 .51c-.017-12.01.002-24.02.04-36.032l24.013-60.03H238.05L215 237.194v39.566c-19.528 1.612-37.125 4.354-51.693 7.996c-10.346 2.586-19.147 5.577-26.307 9.236V156.564zm89 23v16h4.266l6.4-16zm68.44 0l-25.6 64h17.867l25.602-64zm-196.44 23v18h21v-18zm75 0v18h42v-18zm149.492 0l-16.4 41H304v-23h53v-18zm106.508 0v18h12v80h57v-18h-39v-80zm-155 90.55c34.738 0 66.208 3.575 88.326 9.105c11.06 2.763 19.795 6.09 25.035 9.186c4.377 2.587 5.365 4.425 5.576 4.71c.04-.057.064-.074.064 0c0 .073-.023.055-.064 0c-.21.283-1.2 2.12-5.575 4.706c-5.24 3.098-13.975 6.425-25.034 9.19c-22.118 5.53-53.588 9.103-88.326 9.103s-66.208-3.574-88.326-9.103c-11.06-2.765-19.795-6.092-25.035-9.19c-4.377-2.586-5.365-4.423-5.576-4.707c-.04.056-.064.074-.064 0c0-.073.023-.056.064 0c.21-.284 1.2-2.122 5.575-4.71c5.24-3.096 13.975-6.422 25.034-9.186c12.965-3.243 29.16-5.805 47.326-7.376v28.72h18v-29.91c7.456-.347 15.138-.54 23-.54zm137 58.665c-32.96 11.616-71.95 18.42-112 20.417v27.45c40.88-2.024 80.4-9.035 112-21.038zm-274 .02v26.83c9.95 3.777 20.683 7.063 32 9.852V361.16c-11.143-2.664-21.856-5.785-32-9.36zm50 13.202v27.408c29.46 5.657 61.842 8.253 94 7.81v-27.447c-31.99.444-64.16-2.134-94-7.77zm224 32.777a303 303 0 0 1-16 5.146v25.158a254 254 0 0 0 16-5.46zm-274 .01v24.827c27.454 10.426 60.89 17.082 96 19.98v-25.44c-34.372-2.842-67.45-9.302-96-19.366zm240 9.837c-38.988 9.09-83.038 12.637-126 10.67v25.445c43.22 1.968 87.805-1.613 126-10.777zM119 441.78c1.642 9.154 8.428 17.585 16 21.704v-16.558a303 303 0 0 1-16-5.147zm274 .007c-12.8 4.513-26.5 8.312-40.834 11.373v19.73c16.52-4.255 40.596-15.226 40.834-31.103m-240 9.84v19.275c33.85 9.257 73.556 12.422 103 12.534c29.185 0 56.113-2.365 78.166-6.493v-20.37c-58.66 9.767-125.146 8.115-181.166-4.946" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <text id="ITEM_1_HEAD" x="725.0" y="288.0" font-weight="700" font-size="26" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_1_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="725.0" dy="56.25px">St Andrew’s Well</tspan>
+    </text>
+    <text id="ITEM_1_BODY" x="725.0" y="382.0" font-size="21" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_1_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="725.0" dy="42.44px">Located in Coldingham for healing</tspan>
+      <tspan x="725.0" dy="29.90px">and spiritual protection</tspan>
+    </text>
+    <rect id="ITEM_2_BG" x="975" y="170" width="480" height="410" rx="16" fill="var(--accent-4)" stroke="var(--accent-2)" stroke-width="2" filter="url(#svgb7bdda73-shadow)" fill-opacity="0.4"/>
+    <rect x="975" y="170" width="480" height="410" rx="16" fill="url(#svgb7bdda73-card-panel-sheen)" opacity="0.88"/>
+    <rect x="975" y="186" width="460" height="12" fill="var(--accent-2)"/>
+    <rect id="ITEM_2_HEAD_FRAME" x="990" y="288" width="450" height="96" fill="none"/>
+    <rect id="ITEM_2_BODY_FRAME" x="990" y="382" width="450" height="168" fill="none"/>
+    <circle id="ITEM_2_PAD" cx="1205" cy="231" r="55" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle cx="1205" cy="231" r="44" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
+    <circle id="ITEM_2_BADGE" cx="1205" cy="231" r="43" fill="var(--accent-2)" stroke="var(--background)" stroke-width="4" fill-opacity="0.35" opacity="0.85" stroke-opacity="0.75"/>
+    <g id="ITEM_2_ICON" transform="translate(1172, 198)" data-icon-size="66">
+      <g transform="translate(-15.974336283185838,-15.594690265486722) scale(3.0371681415929204)">
+        <path d="M20.824 18H22.03V11.53L16.02 7L10.03 11.53V18H11.224L4.03003 22.5V29H28.03V22.5L20.824 18Z" fill="#FFCE7C"/>
+        <path d="M18.03 22C18.03 20.9 17.13 20 16.03 20C14.93 20 14.03 20.9 14.03 22V28H18.03V22Z" fill="#321B41"/>
+        <path d="M14.45 16C14.22 16 14.03 15.81 14.03 15.58V13C14.03 11.9 14.93 11 16.03 11C17.13 11 18.03 11.9 18.03 13V15.58C18.03 15.81 17.84 16 17.61 16H14.45ZM12.03 24.57C12.03 23.7 11.33 23 10.46 23C9.59001 23 8.89001 23.7 8.89001 24.57V28H12.02V24.57H12.03ZM21.59 23C22.46 23 23.17 23.71 23.17 24.58V28H20.01V24.58C20.01 23.71 20.72 23 21.59 23Z" fill="#00A6ED"/>
+        <path d="M16.52 3H17.02C17.29 3 17.52 3.23 17.52 3.5C17.52 3.78 17.3 4 17.02 4H16.52V6.08174C16.66 6.13023 16.7948 6.19967 16.92 6.29006L22.81 10.4901C23.03 10.6501 23.16 10.9001 23.16 11.1701C23.16 11.8501 22.4 12.2401 21.85 11.8501L16.8 8.24006C16.34 7.91006 15.72 7.91006 15.26 8.24006L10.21 11.8501C9.65999 12.2401 8.9 11.8501 8.88 11.1701C8.88 10.9001 9.01 10.6501 9.23 10.4901L15.12 6.29006C15.2452 6.19966 15.38 6.13022 15.52 6.08173V4H15.02C14.74 4 14.52 3.78 14.52 3.5C14.52 3.22 14.74 3 15.02 3H15.52V2.5C15.52 2.22 15.74 2 16.02 2C16.3 2 16.52 2.22 16.52 2.5V3ZM30.03 29.99H2V29.33C2 28.59 2.6 27.99 3.34 27.99H28.69C29.43 27.99 30.03 28.59 30.03 29.33V29.99ZM2.41002 22.41C2.17002 22.5601 2.03001 22.8101 2.03001 23.09H2.02002V23.2C2.02002 23.83 2.72002 24.22 3.25002 23.88L14.38 16.85C15.71 16.06 16.26 16.05 17.69 16.85L28.8 23.77C29.34 24.11 30.03 23.7201 30.03 23.09C30.03 22.8101 29.88 22.5601 29.65 22.41L17.42 14.76C16.58 14.23 15.51 14.23 14.66 14.76L2.41002 22.41Z" fill="#8C5543"/>
+      </g>
+    </g>
+    <text id="ITEM_2_HEAD" x="1215.0" y="288.0" font-weight="700" font-size="26" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_2_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1215.0" dy="56.25px">St Bathan’s Well</tspan>
+    </text>
+    <text id="ITEM_2_BODY" x="1215.0" y="382.0" font-size="21" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_2_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1215.0" dy="42.44px">Preserves older beliefs at Abbey St</tspan>
+      <tspan x="1215.0" dy="29.90px">Bathans site</tspan>
+    </text>
+    <rect id="ITEM_3_BG" x="485" y="600" width="480" height="410" rx="16" fill="var(--accent-5)" stroke="var(--accent-3)" stroke-width="2" filter="url(#svgb7bdda73-shadow)" fill-opacity="0.4"/>
+    <rect x="485" y="600" width="480" height="410" rx="16" fill="url(#svgb7bdda73-card-panel-sheen)" opacity="0.88"/>
+    <rect x="485" y="616" width="460" height="12" fill="var(--accent-3)"/>
+    <rect id="ITEM_3_HEAD_FRAME" x="500" y="718" width="450" height="96" fill="none"/>
+    <rect id="ITEM_3_BODY_FRAME" x="500" y="812" width="450" height="168" fill="none"/>
+    <circle id="ITEM_3_PAD" cx="715" cy="661" r="55" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle cx="715" cy="661" r="44" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
+    <circle id="ITEM_3_BADGE" cx="715" cy="661" r="43" fill="var(--accent-3)" stroke="var(--background)" stroke-width="4" fill-opacity="0.35" opacity="0.85" stroke-opacity="0.75"/>
+    <g id="ITEM_3_ICON" transform="translate(682, 628)" data-icon-size="66">
+      <g transform="translate(-17.492920353982303,-15.974336283185838) scale(3.0371681415929204)">
+        <path d="M6.93848 21.5947C6.3135 22.0949 5.18873 25.8774 6.12647 28.5348" stroke="#636363" stroke-width="3" stroke-linecap="round"/>
+        <path d="M6.93839 21.5953C6.31341 22.0954 7.22006 26.8785 9.31405 28.5355" stroke="#9B9B9B" stroke-width="3" stroke-linecap="round"/>
+        <path d="M7.73309 16.2824C8.20206 18.2207 7.12015 23.1172 13.4027 27.9945" stroke="#636363" stroke-width="4" stroke-linecap="round"/>
+        <path d="M7.73257 16.2823C8.2015 18.2207 10.4836 23.6608 18.2364 26.1932" stroke="#9B9B9B" stroke-width="4" stroke-linecap="round"/>
+        <path d="M7.98283 13.3125C8.10107 13.7403 12.3282 23.3797 21.7378 22.8482" stroke="#636363" stroke-width="4" stroke-linecap="round"/>
+        <path d="M10.7657 14.0619C11.1721 13.2178 15.2674 19.3769 24.0831 18.7204" stroke="#9B9B9B" stroke-width="5" stroke-linecap="round"/>
+        <path d="M11.0156 10.9668C11.1734 11.294 17.8835 16.1066 26.4289 13.8909" stroke="#636363" stroke-width="5" stroke-linecap="round"/>
+        <path d="M10.0459 9.21986C10.4373 9.38674 19.4466 12.3523 27.0429 8.15768" stroke="#9B9B9B" stroke-width="6" stroke-linecap="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M29.3283 4.7537C30.0202 4.29805 30.2116 3.3678 29.756 2.67594C29.3003 1.98408 28.3701 1.7926 27.6782 2.24825C21.2659 6.47136 12.4631 6.07384 10.8778 6.00225C10.7648 5.99715 10.6885 5.9937 10.6523 5.9937C10.6275 5.9937 10.6028 5.99431 10.5783 5.9955C10.5531 5.99509 10.5279 5.99488 10.5026 5.99488C8.0838 5.99488 6.1106 7.90282 6.00556 10.296L3.0168 28.8407C2.92892 29.3859 3.29969 29.8992 3.84494 29.987C4.39019 30.0749 4.90344 29.7041 4.99132 29.1589L6.84852 17.6353C6.9997 18.166 7.23188 18.7105 7.57425 19.2455C7.77008 19.5516 8.17696 19.6408 8.48305 19.4448C8.78914 19.2488 8.87852 18.8418 8.68269 18.5358C8.35147 18.0181 8.15029 17.4862 8.03831 16.9718C8.41843 17.4142 8.8877 17.8321 9.46663 18.1835C9.77713 18.3719 10.1815 18.2726 10.3699 17.9616C10.5583 17.6507 10.4592 17.2458 10.1487 17.0573C9.59603 16.7218 9.16786 16.3057 8.83625 15.865C9.42589 16.2747 10.1377 16.6206 10.9831 16.8058C11.3379 16.8836 11.6884 16.6587 11.7659 16.3034C11.8434 15.9482 11.6186 15.5972 11.2638 15.5195C10.7258 15.4016 10.2541 15.1993 9.84373 14.9508C10.0588 14.9824 10.2788 14.9987 10.5026 14.9987C12.9887 14.9987 15.004 12.9831 15.004 10.4968C15.004 9.96987 14.9135 9.4641 14.7472 8.99417C15.4775 8.95609 16.2784 8.89451 17.1291 8.79865C20.7428 8.39146 25.3828 7.35217 29.3283 4.7537Z" fill="#BEBEBE"/>
+        <path d="M9.50267 13.9648C11.9887 13.9648 14.0041 11.9492 14.0041 9.4629C14.0041 9.05725 13.9504 8.66412 13.8499 8.29024C13.7761 8.01602 14.1011 7.77661 14.2579 8.01334C14.7295 8.72514 15.0041 9.57879 15.0041 10.4966C15.0041 12.9829 12.9887 14.9985 10.5027 14.9985C9.5314 14.9985 8.63198 14.6909 7.89651 14.1677C7.66512 14.0031 7.91502 13.6864 8.18662 13.7694C8.6029 13.8964 9.0448 13.9648 9.50267 13.9648Z" fill="#DADADA"/>
+      </g>
+    </g>
+    <text id="ITEM_3_HEAD" x="725.0" y="718.0" font-weight="700" font-size="26" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_3_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="725.0" dy="56.25px">Fairy Well</tspan>
+    </text>
+    <text id="ITEM_3_BODY" x="725.0" y="812.0" font-size="21" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_3_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="725.0" dy="42.44px">Situated at Ladykirk for local</tspan>
+      <tspan x="725.0" dy="29.90px">religious customs</tspan>
+    </text>
+    <rect id="ITEM_4_BG" x="975" y="600" width="480" height="410" rx="16" fill="var(--accent-6)" stroke="var(--accent-4)" stroke-width="2" filter="url(#svgb7bdda73-shadow)" fill-opacity="0.4"/>
+    <rect x="975" y="600" width="480" height="410" rx="16" fill="url(#svgb7bdda73-card-panel-sheen)" opacity="0.88"/>
+    <rect x="975" y="616" width="460" height="12" fill="var(--accent-4)"/>
+    <rect id="ITEM_4_HEAD_FRAME" x="990" y="718" width="450" height="96" fill="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="990" y="812" width="450" height="168" fill="none"/>
+    <circle id="ITEM_4_PAD" cx="1205" cy="661" r="55" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle cx="1205" cy="661" r="44" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
+    <circle id="ITEM_4_BADGE" cx="1205" cy="661" r="43" fill="var(--accent-4)" stroke="var(--background)" stroke-width="4" fill-opacity="0.35" opacity="0.85" stroke-opacity="0.75"/>
+    <g id="ITEM_4_ICON" transform="translate(1172, 628)" data-icon-size="66">
+      <g transform="translate(-22.15714285714286,-25.221428571428575) scale(4.669387755102041)" vector-effect="non-scaling-stroke" fill="#ffffff" fill-opacity="1.0" stroke="none">
+        <path fill="#ffffff" d="M11.5 7.63a.976.976 0 0 1 1.36.37c.28.47.11 1.09-.36 1.36l-8.23 4.75a.998.998 0 1 1-1-1.73zM7 21l-1.21-6.03l7.42-4.28c.79-.43 1.29-1.25 1.29-2.19a2.5 2.5 0 0 0-3.79-2.14L4.76 9.79L4 6H3V4h18v2h-1l-3 15z" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <text id="ITEM_4_HEAD" x="1215.0" y="718.0" font-weight="700" font-size="26" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_4_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1215.0" dy="56.25px">Our Lady's Well</tspan>
+    </text>
+    <text id="ITEM_4_BODY" x="1215.0" y="812.0" font-size="21" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_4_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1215.0" dy="42.44px">Historical site located</tspan>
+      <tspan x="1215.0" dy="29.90px">at Whitekirk for sacred water</tspan>
+    </text>
+  </g>
+</svg>

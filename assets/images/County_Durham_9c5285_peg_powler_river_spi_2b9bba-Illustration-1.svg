@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #22d3ee;
+    --accent-2: #38bdf8;
+    --accent-3: #60a5fa;
+    --accent-4: #818cf8;
+    --accent-5: #a78bfa;
+    --accent-6: #2dd4bf;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #22d3ee;
+    --accent-2: #38bdf8;
+    --accent-3: #60a5fa;
+    --accent-4: #818cf8;
+    --accent-5: #a78bfa;
+    --accent-6: #2dd4bf;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #0891b2;
+    --accent-2: #0284c7;
+    --accent-3: #2563eb;
+    --accent-4: #4f46e5;
+    --accent-5: #7c3aed;
+    --accent-6: #0d9488;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="95.0" y2="95.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svg87be58c7-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="svg87be58c7-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <radialGradient id="svg87be58c7-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg87be58c7-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg87be58c7-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="svg87be58c7-venn-center-glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg87be58c7-venn-label-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="svg87be58c7-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <marker id="svg87be58c7-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svg87be58c7-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg87be58c7-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-weight="800" font-size="56" fill="#f1f5f9" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Physical Signs of Peg Powler</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="35" width="1652" height="80" fill="none"/>
+  <g id="DIAGRAM_MAIN" transform="translate(960, 620)">
+    <!-- Circle backgrounds -->
+    <circle id="ITEM_1_BG" cx="0" cy="-130" r="200" fill="var(--accent-1)" fill-opacity="0.35" stroke="var(--border)" stroke-width="2"/>
+    <circle id="ITEM_2_BG" cx="130" cy="0" r="200" fill="var(--accent-2)" fill-opacity="0.35" stroke="var(--border)" stroke-width="2"/>
+    <circle id="ITEM_3_BG" cx="0" cy="130" r="200" fill="var(--accent-3)" fill-opacity="0.35" stroke="var(--border)" stroke-width="2"/>
+    <circle id="ITEM_4_BG" cx="-130" cy="0" r="200" fill="var(--accent-4)" fill-opacity="0.35" stroke="var(--border)" stroke-width="2"/>
+    <!-- ITEM 1 - Top (y=-260 to be in non-overlap area) -->
+    <circle id="ITEM_1_PAD" cx="0" cy="-260" r="50" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_1_PAD_INNER" cx="0" cy="-260" r="39.00" fill="var(--accent-1)" fill-opacity="0.22"/>
+    <circle cx="0" cy="-260" r="40" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
+    <g id="ITEM_1_ICON" transform="translate(-30, -290)" data-icon-size="60">
+      <g transform="translate(-12.305084745762713,-12.305084745762713) scale(2.1152542372881356)">
+        <path d="m10.84,12.82c0,.03.01.05,0,.08l-1.66,3.22c-.06-.04-.13-.05-.19-.07-.57-.23-1.19-.09-1.46.38-.31.52-.05,1.24.58,1.6.28.16.58.21.86.18l-.09,1.27c-1.12-.17-2.18-.33-3.14-.48-.62-.72-.99-1.64-.98-2.66.03-2.09,1.68-3.81,3.74-3.97v-.01c.04-.01.08,0,.12-.01h.17c.91-.03,1.56.2,1.94.31.08.02.11.09.11.16Z" fill="#ff9000"/>
+        <path d="m10.84,12.82c0,.03.01.05,0,.08l-1.66,3.22c-.06-.04-.13-.05-.19-.07-.57-.23-1.19-.09-1.46.38-.31.52-.05,1.24.58,1.6.28.16.58.21.86.18l-.09,1.27c.88.13,1.82.27,2.8.41.99-.76,1.64-1.94,1.64-3.28,0-1.7-1.02-3.15-2.48-3.79Zm1.44,2.98c-.17.06-.41-.14-.53-.46s-.08-.63.09-.69c.17-.07.4.14.52.45.13.32.09.63-.08.7Z" fill="#ffcd00"/>
+        <path d="m27.385,3.358c-.143-.15-.38-.155-.529-.012l-.666.635-4.213.555.013.014c.3.011,1.527,1.06,2.889,2.486,1.362,1.427,2.353,2.701,2.35,3.002l.013.014.75-4.183.666-.635c.15-.143.155-.38.012-.529l-.144-.151-.859-.9-.282-.296Z" fill="#cad5e6"/>
+        <path d="m19.756,20.887c.426.043.853.085,1.29.125-.007-.084-.025-.165-.025-.251,0-.625.2-1.201.534-1.676-.545-.229-.971-.676-1.184-1.229-.05-.004-.098-.015-.15-.015-.764,0-1.434.395-1.822.991.721.442,1.228,1.183,1.357,2.054Z" fill="#dde4f0"/>
+        <path d="m21.555,19.086c-.334.475-.534,1.051-.534,1.676,0,.086.018.167.025.251,1.818.167,3.73.309,5.73.415.05-.215.083-.436.083-.666,0-.206-.022-.406-.063-.599-.244-1.171-1.192-2.076-2.38-2.272-.156-.026-.313-.048-.476-.048-.987,0-1.857.493-2.385,1.244Z" fill="#d1d8e3"/>
+        <path d="m21.555,19.086c.528-.75,1.397-1.244,2.385-1.244.163,0,.32.022.476.048.101-.251.16-.524.16-.812,0-1.203-.975-2.177-2.177-2.177s-2.177.975-2.177,2.177c0,.275.057.536.15.779.213.553.639.999,1.184,1.229Z" fill="#e4ebf7"/>
+        <path d="m26.775,21.427c.815.043,1.64.082,2.484.111h.358c-.28-.878-1.094-1.519-2.065-1.519-.267,0-.52.055-.756.143.04.193.063.393.063.599,0,.23-.033.451-.083.666Z" fill="#e4ebf7"/>
+        <path d="m19.756,20.887c-.129-.871-.637-1.613-1.357-2.054-.444-.272-.96-.437-1.519-.437-1.23,0-2.278.763-2.708,1.84,1.739.23,3.606.453,5.584.651Z" fill="#e4ebf7"/>
+        <path d="m32.244,20.343c0-.188.152-.34.34-.34h3.013v1.536h1.185c.017,0,.033.003.05.004v-10.912c0-1.393,0-5.094-3.261-7.305-1.406-.953-3.015-1.084-4.655-.378-.497.214-.918.473-1.249.706l.859.9c.941-.627,2.635-1.371,4.352-.207,2.719,1.844,2.719,4.955,2.719,6.284v8.063h-3.944c-.46,0-.833.373-.833.833v2.012h1.424v-1.196Z" fill="#a3acba"/>
+        <path d="m24.879,7.037c-1.362-1.427-2.589-2.476-2.889-2.486-.022,0-.052-.01-.064,0-.168.16.882,1.532,2.346,3.065,1.463,1.533,2.785,2.646,2.953,2.485.012-.011.004-.041.004-.063.003-.3-.988-1.575-2.35-3.002Z" fill="#a3acba"/>
+        <path d="m9.019,35.806c-.477.728.046,1.694.916,1.694h.679c.592,0,1.144-.298,1.468-.793l.95-1.451c-1.088-.379-2.012-.832-2.765-1.356l-1.248,1.906Z" fill="#acb6c4"/>
+        <path d="m29.981,36.707c.324.495.876.793,1.468.793h.679c.87,0,1.393-.966.916-1.694l-1.169-1.785c-.761.687-1.61,1.261-2.554,1.677l.66,1.009Z" fill="#acb6c4"/>
+        <path d="m36.927,21.551c-.031-.005-.064-.006-.096-.008-.017,0-.033-.004-.05-.004h-7.523c-.844-.03-1.669-.068-2.484-.111-1.999-.106-3.912-.248-5.73-.415-.436-.04-.864-.082-1.29-.125-1.978-.198-3.845-.421-5.584-.651-.865-.115-1.691-.23-2.495-.346-.979-.141-1.912-.279-2.799-.413-1.121-.169-2.174-.331-3.142-.474-.756-.112-1.467-.214-2.127-.301-.085-.011-.168-.011-.248-.003-.045-.004-.09-.006-.136-.006-.854,0-1.546.692-1.546,1.546s.685,1.539,1.533,1.546c2.284,5.473,3.393,7.723,5.381,10.505.421.589.979,1.127,1.672,1.609.753.524,1.676.977,2.765,1.356,3.062,1.067,7.472,1.528,13.423,1.155,1.045-.065,1.992-.327,2.867-.713.944-.417,1.793-.99,2.554-1.677,2.85-2.571,4.485-6.649,5.32-9.444.649-.183,1.125-.78,1.125-1.487,0-.802-.611-1.461-1.393-1.538Z" fill="#abb7c7"/>
+        <path d="m12.277,15.797c.17-.065.208-.375.087-.693-.122-.318-.358-.523-.527-.458-.17.065-.209.375-.087.693.122.318.358.523.527.458Z"/>
+      </g>
+    </g>
+    <rect id="ITEM_1_TEXT_BG" x="-208.0" y="-226.0" width="416.0" height="190.0" rx="16" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <rect x="-208.0" y="-226.0" width="416.0" height="190.0" rx="16" fill="url(#svg87be58c7-venn-label-sheen)" opacity="0.85"/>
+    <text id="ITEM_1_HEAD" x="0.0" y="-210.0" text-anchor="middle" font-weight="bold" font-size="34" fill="var(--accent-1)" data-bg-id="ITEM_1_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="0.0" dy="31.25px">Peg's Suds</tspan>
+    </text>
+    <rect id="ITEM_1_HEAD_FRAME" x="-170" y="-210" width="340" height="46" fill="none"/>
+    <text id="ITEM_1_BODY" x="0.0" y="-152.0" text-anchor="middle" font-size="20" fill="var(--primary-text)" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="0.0" dy="28.84px">Large masses of foam</tspan>
+      <tspan x="0.0" dy="29.90px">indicate the spirit is nearby</tspan>
+    </text>
+    <rect id="ITEM_1_BODY_FRAME" x="-190" y="-152" width="380" height="100" fill="none"/>
+    <!-- ITEM 2 - Right (x=260 to be in non-overlap area) -->
+    <circle id="ITEM_2_PAD" cx="260" cy="0" r="50" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_2_PAD_INNER" cx="260" cy="0" r="39.00" fill="var(--accent-2)" fill-opacity="0.22"/>
+    <circle cx="260" cy="0" r="40" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
+    <g id="ITEM_2_ICON" transform="translate(230, -30)" data-icon-size="60">
+      <g transform="translate(-12.25,-10.950000000000001) scale(0.1625)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+        <path fill="#f1f5f9" d="M118.125 18.285c-50.616 0-91.848 41.234-91.848 91.85a91.23 91.23 0 0 0 12.444 46.09a73.5 73.5 0 0 0-3.103 21.203c0 31.782 20.04 58.905 48.158 69.44c-5.863 6.96-9.414 15.922-9.414 25.67c0 11.727 5.138 22.323 13.267 29.657c-36.275 7.53-63.67 39.773-63.67 78.23c0 44.01 35.88 79.89 79.893 79.89c16.252 0 31.387-4.903 44.025-13.292c13.485 18.495 35.304 30.53 59.928 30.53c33.308 0 61.144-22.157 70.482-52.414c.16-.083.323-.16.483-.244c22.43-2.07 43.35-9.045 61.685-19.955c10.443 15.996 27.664 27.192 47.527 29.44a49 49 0 0 0-.113 3.147c0 26.61 21.773 48.38 48.383 48.38s48.383-21.77 48.383-48.38c0-19.492-11.69-36.377-28.4-44.02a65 65 0 0 0 4.314-17.405c15.134-13.576 24.666-33.272 24.666-55.188a73.74 73.74 0 0 0-12.346-40.937c16.048-11.97 26.48-31.09 26.48-52.563c0-29.132-19.203-53.93-45.587-62.412a73.6 73.6 0 0 0 1.558-15.076c0-4.87-.485-9.624-1.382-14.233c8.977-8.883 14.562-21.19 14.562-34.74c0-26.915-22.02-48.937-48.937-48.937c-9.968 0-19.263 3.025-27.02 8.197c-5.598-14.962-20.073-25.705-36.913-25.705c-21.643 0-39.39 17.746-39.39 39.39c0 10.1 3.865 19.347 10.185 26.342a74.33 74.33 0 0 0-18.18 38.326c-13.648-4.188-28.03-6.576-43.045-6.576c-6.49 0-12.86.38-19.13 1.197c-.972-30.35-20.245-56.103-47.122-66.638c-15.555-28.71-45.962-48.265-80.82-48.265zm0 18.69a73.5 73.5 0 0 1 21.652 3.238a46 46 0 0 0-3.92-.178c-25.298 0-45.804 20.505-45.804 45.803s20.506 45.805 45.804 45.805c25.3 0 45.805-20.507 45.805-45.805a45.6 45.6 0 0 0-3.508-17.594c8.273 11.855 13.133 26.283 13.133 41.89c0 40.517-32.645 73.16-73.162 73.16s-73.16-32.643-73.16-73.16c0-40.515 32.643-73.16 73.16-73.16zm237.502 16.22c.9 0 1.784.062 2.652.17c-5.003 1.46-8.66 6.072-8.66 11.545c0 6.646 5.387 12.033 12.032 12.033s12.034-5.387 12.034-12.033c0-.45-.03-.894-.08-1.332a20.76 20.76 0 0 1 2.722 10.32c0 11.545-9.158 20.702-20.7 20.702c-11.546 0-20.702-9.158-20.702-20.702s9.157-20.703 20.7-20.703zm63.934 17.508c3.39 0 6.637.554 9.67 1.563c-9.974.273-17.978 8.425-17.978 18.464c0 10.212 8.276 18.49 18.488 18.49c10.064 0 18.233-8.043 18.47-18.05a30.6 30.6 0 0 1 1.6 9.783c0 16.818-13.434 30.248-30.25 30.248s-30.248-13.43-30.248-30.247s13.433-30.25 30.25-30.25zm-95.078 88.19c3.62 0 7.13.426 10.502 1.21c-15.534.07-28.107 12.68-28.107 28.23c0 15.596 12.643 28.237 28.238 28.237c15.596 0 28.237-12.64 28.237-28.236c0-4.11-.885-8.01-2.463-11.53c5.914 7.717 9.428 17.387 9.428 27.925a45.694 45.694 0 0 1-45.836 45.834a45.694 45.694 0 0 1-45.836-45.835a45.694 45.694 0 0 1 45.836-45.837zm109.32 21.668c1.165 0 2.317.057 3.462.14c-10.243 5.013-17.3 15.533-17.3 27.706c0 17.03 13.805 30.836 30.835 30.836c13.4 0 24.8-8.552 29.052-20.494c.52 2.808.804 5.7.804 8.666a46.713 46.713 0 0 1-46.855 46.854a46.714 46.714 0 0 1-46.855-46.854a46.714 46.714 0 0 1 46.856-46.853zM230.03 241.41c.642 0 1.282.012 1.92.026c-26.22 6.906-45.556 30.77-45.556 59.158c0 33.79 27.39 61.18 61.182 61.18c33.79 0 61.18-27.39 61.18-61.18c0-4.832-.578-9.525-1.637-14.033c7.13 12.744 11.194 27.45 11.194 43.13c0 48.87-39.414 88.285-88.283 88.285s-88.284-39.415-88.284-88.284c0-48.867 39.416-88.282 88.285-88.282zm-115.692 9.84c3.25 0 6.312.71 9.05 1.98a12 12 0 0 0-1.144-.058c-6.776 0-12.27 5.492-12.27 12.268c0 6.775 5.494 12.267 12.27 12.267c6.71 0 12.15-5.387 12.258-12.07a21.6 21.6 0 0 1 1.125 6.902c0 11.87-9.422 21.29-21.29 21.29c-11.87 0-21.29-9.422-21.29-21.29c0-11.87 9.422-21.29 21.29-21.29zm-10.49 67.973c5.03 0 9.91.615 14.582 1.75c-.343-.01-.683-.03-1.028-.03c-23.42 0-42.406 18.986-42.406 42.406s18.986 42.406 42.406 42.406c10.767 0 20.59-4.02 28.07-10.63c3.814 4.918 8.044 9.5 12.643 13.685c-10.198 19.537-30.616 32.82-54.267 32.82c-33.913 0-61.204-27.29-61.204-61.203s27.29-61.203 61.204-61.203zm291.513 3.186c2.17 0 4.3.158 6.387.44c-12.363 3.926-21.322 15.492-21.322 29.156c0 16.895 13.696 30.59 30.592 30.59c14.714 0 26.997-10.39 29.923-24.233a47.4 47.4 0 0 1 1.276 10.902a46.9 46.9 0 0 1-4.406 19.922c-.52-.017-1.04-.04-1.564-.04c-18.91 0-35.365 11-43.313 26.91c-24.85-1.25-44.43-21.618-44.43-46.792a46.716 46.716 0 0 1 46.856-46.856zm40.887 85.428c1.986 0 3.92.196 5.793.56c-7.416 1.746-12.94 8.388-12.94 16.336c0 9.28 7.52 16.8 16.797 16.8c9.28 0 16.8-7.52 16.8-16.8c0-.294-.03-.58-.046-.873a29.8 29.8 0 0 1 3.29 13.67c0 16.51-13.184 29.694-29.694 29.694s-29.693-13.183-29.693-29.693s13.183-29.693 29.693-29.693z" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <rect id="ITEM_2_TEXT_BG" x="352.0" y="-66.0" width="416.0" height="202.0" rx="16" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <rect x="352.0" y="-66.0" width="416.0" height="202.0" rx="16" fill="url(#svg87be58c7-venn-label-sheen)" opacity="0.85"/>
+    <text id="ITEM_2_HEAD" x="370.0" y="-50.0" text-anchor="start" font-weight="bold" font-size="36" fill="var(--accent-2)" data-bg-id="ITEM_2_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="370.0" dy="33.25px">Peg's Cream</tspan>
+    </text>
+    <rect id="ITEM_2_HEAD_FRAME" x="370" y="-50" width="220" height="50" fill="none"/>
+    <text id="ITEM_2_BODY" x="370.0" y="0.0" text-anchor="start" font-size="20" fill="var(--primary-text)" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="370.0" dy="26.86px">Finer froth suggests the</tspan>
+      <tspan x="370.0" dy="29.90px">spirit is stirring</tspan>
+      <tspan x="370.0" dy="29.90px">beneath surface</tspan>
+    </text>
+    <rect id="ITEM_2_BODY_FRAME" x="370" y="0" width="380" height="120" fill="none"/>
+    <!-- ITEM 3 - Bottom (y=260 to be in non-overlap area) -->
+    <circle id="ITEM_3_PAD" cx="0" cy="220" r="50" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_3_PAD_INNER" cx="0" cy="220" r="39.00" fill="var(--accent-3)" fill-opacity="0.22"/>
+    <circle cx="0" cy="220" r="40" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
+    <g id="ITEM_3_ICON" transform="translate(-30, 190)" data-icon-size="60">
+      <g transform="translate(-10.96638655462185,-12.277310924369747) scale(0.1638655462184874)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+        <path fill="#f1f5f9" d="M87.367 202.125c-3.915 37.715-7.82 75.606-11.521 111.53l55.562-49.268l66.319-241.5c-76.892 6.031-102.04 130.038-110.36 179.238m-11.521 111.53l-.002.001l.002.002v-.004zM52.859 27.584l-17.224 5.23c9.194 30.297 25.192 58.884 52.695 79.046a263 263 0 0 1 6.412-17.584c-21.44-17.13-33.906-40.405-41.882-66.69zm-7.127 75.772l-13.796 11.561c14.94 18.495 24.928 35.097 44.25 46.103a530 530 0 0 1 3.845-18.673c-14.49-10.271-24.582-27.282-34.299-38.99zm290.213 4.188l-68.357 60.771c-26.015-13.266-54.933-31.442-78.611-39.818c-2.098 5.647-3.75 11.415-5.34 17.217c22.013 9.264 45.08 21.523 65.187 32.701c27.544 14.787 54.625 29.625 77.19 47.18c7.266 4.904 14.51 9.934 21.648 15.1c35.633 25.784 68.641 54.61 88.94 82.593s27.563 53.353 16.193 76.297l16.127 7.992c15.139-30.55 4.507-64.173-17.75-94.857c-22.258-30.684-56.466-60.201-92.957-86.608c-12.866-9.31-26.015-18.206-39.026-26.592c24.738-36.767 29.987-70.986 16.756-91.976m-160.379 67.592l-4.783 17.44c37.4 16.243 77.063 36.291 110.488 58.843a427 427 0 0 1 12.41 8.828c22.704 16.796 42.978 35.574 56.028 54.668s18.797 37.844 14.566 56.443c-5.483 24.106-2.258 42.453 7.215 54.926c9.473 12.474 23.891 18.022 37.705 20.309c11.487 1.901 40.355 4.95 55.268 38.617l16.459-7.29c-18.432-41.61-58.681-47.412-68.785-49.085c-11.165-1.848-20.666-6.003-26.313-13.438c-5.646-7.434-8.74-19.2-3.998-40.046c5.61-24.664-2.441-48.916-17.256-70.592c-14.814-21.677-36.47-41.44-60.183-58.983a462 462 0 0 0-14.92-10.568a273 273 0 0 0 7.691-8.043c-17.57-11.549-37.503-22.425-58.076-33.508l-7.803 6.938c-22.342-11.667-42.245-20.393-55.713-25.46zm27.055 50.937c-43.146 38.429-86.357 76.775-129.59 115.104c-.009.079-.017.086-.025.166l-5.613 4.97l-19.817-21.785l-.047.076c-7.457-8.261-18.015-13.087-29.529-14.79v18.93c8.223 1.713 14.326 5.657 17.912 11.376c4.663 7.434 4.814 17.46-.139 28.817c-1.649 3.78-3.892 7.624-6.644 11.406L18 390.24v25.809c2.232-1.465 4.387-3 6.46-4.58l204.876-128.873c11.75-7.407 22.54-15.07 32.432-22.88c-18.765-13.269-39.824-21.604-59.147-33.642zm72.631 75.604l-14.662 10.44c7.338 10.305 17.222 19.578 22.33 28.917s6.88 16.934-1.982 30.041c-7.176 10.613-17.888 28.665-16.06 48.694c.916 10.014 5.656 20.429 15.17 28.363c9.516 7.934 23.27 13.576 42.55 16.762l2.935-17.76c-17.226-2.846-27.852-7.735-33.957-12.826s-8.225-10.193-8.771-16.176c-1.093-11.966 6.864-27.834 13.045-36.975c12.011-17.765 9.987-35.73 2.86-48.76c-7.125-13.029-17.913-22.932-23.458-30.72m-41.633 30.261l-17.986.715c-.624 27.725 2.833 76.063-18.865 97.305l9.363 15.373c27.446-21.357 28.366-85.096 27.488-113.393m-114.068 44.145c-16.48 3.924-37.906 21.363-53.322 31.055l-3.047 29.691c-.6 3.072-1.09 6.216-1.428 9.414c-1.839 17.462.575 34.01 6.504 47.756h21.021a51 51 0 0 1-1.775-3.031c-5.458-10.155-8.51-24.25-7.45-39.594l8.95-32.578c2.167-4.138 4.622-7.854 7.283-11.006c18.213-18.833 36.386-16.595 48.28 4.865c5.83 10.856 8.934 26.161 7.187 42.735c-1.638 15.541-7.198 29.165-14.47 38.609h22.12c5.682-10.64 9.51-23.121 10.936-36.658c2.104-19.989-1.36-38.78-9.293-53.54c-11.54-15.582-24.714-27.804-41.496-27.718" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <rect id="ITEM_3_TEXT_BG" x="-208.0" y="256.0" width="416.0" height="202.0" rx="16" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <rect x="-208.0" y="256.0" width="416.0" height="202.0" rx="16" fill="url(#svg87be58c7-venn-label-sheen)" opacity="0.85"/>
+    <text id="ITEM_3_HEAD" x="0.0" y="272.0" text-anchor="middle" font-weight="bold" font-size="36" fill="var(--accent-3)" data-bg-id="ITEM_3_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="0.0" dy="32.25px">Green Hair</tspan>
+    </text>
+    <rect id="ITEM_3_HEAD_FRAME" x="-140" y="272" width="280" height="48" fill="none"/>
+    <text id="ITEM_3_BODY" x="0.0" y="322.0" text-anchor="middle" font-size="20" fill="var(--primary-text)" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="0.0" dy="32.84px">Long water-drenched tresses</tspan>
+      <tspan x="0.0" dy="29.90px">appear in the river's depths</tspan>
+    </text>
+    <rect id="ITEM_3_BODY_FRAME" x="-190" y="322" width="380" height="120" fill="none"/>
+    <!-- ITEM 4 - Left (x=-260 to be in non-overlap area) -->
+    <circle id="ITEM_4_PAD" cx="-260" cy="0" r="50" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_4_PAD_INNER" cx="-260" cy="0" r="39.00" fill="var(--accent-4)" fill-opacity="0.22"/>
+    <circle cx="-260" cy="0" r="40" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
+    <g id="ITEM_4_ICON" transform="translate(-290, -30)" data-icon-size="60">
+      <g transform="translate(-11.600000000000003,-11.6) scale(0.1625)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+        <path fill="#f1f5f9" d="M256 16C106 76 46 226 46 226c0 45 60 90 90 90c90 0 180-195 135-285zm45 15c30 60 0 135 0 135c120 30 120 180 75 330c75-75 90-150 90-210c0-90-15-225-165-255" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <rect id="ITEM_4_TEXT_BG" x="-768.0" y="-66.0" width="416.0" height="202.0" rx="16" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <rect x="-768.0" y="-66.0" width="416.0" height="202.0" rx="16" fill="url(#svg87be58c7-venn-label-sheen)" opacity="0.85"/>
+    <text id="ITEM_4_HEAD" x="-370.0" y="-50.0" text-anchor="end" font-weight="bold" font-size="36" fill="var(--accent-4)" data-bg-id="ITEM_4_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="-370.0" dy="33.25px">Sharp Claws</tspan>
+    </text>
+    <rect id="ITEM_4_HEAD_FRAME" x="-590" y="-50" width="220" height="50" fill="none"/>
+    <text id="ITEM_4_BODY" x="-370.0" y="0.0" text-anchor="end" font-size="20" fill="var(--primary-text)" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="-370.0" dy="32.84px">Modern retellings add claws</tspan>
+      <tspan x="-370.0" dy="29.90px">to the lurking spirit</tspan>
+    </text>
+    <rect id="ITEM_4_BODY_FRAME" x="-750" y="0" width="380" height="120" fill="none"/>
+  </g>
+</svg>

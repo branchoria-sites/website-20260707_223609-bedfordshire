@@ -1,0 +1,5442 @@
+{
+  "generated_at": "2026-07-07T22:27:00",
+  "passed": true,
+  "baseline": {
+    "article_pages": 443,
+    "amazon_specific_pages": 343,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 345,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Aberdeenshire_e04348": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_castle_ghosts_00f21f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_fairy_traditions_e435fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_stone_legends_f711be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_druidic_mona_64252a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_giant_stones_b9c219": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_saints_wells_340313": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_angus_witch_beliefs_589392": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_glamis_castle_legend_749747": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_pictish_stones_de379f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_argyll_fairy_places_53a522": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_argyll_witch_beliefs_2b2513": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_kilmartin_stone_lege_af16a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_tam_oshanter_legends_59739c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_haunted_bedfordshire_de5f94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_ickwell_may_day_8c61c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_oakley_witch_testing_4ef666": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_herne_windsor_forest_96351c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_waylands_smithy_forg_006b77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_white_horse_dragon_h_bd43e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_fairy_roads_gifts_23b763": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_lady_llyn_fan_fach_b14a6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_maen_llia_living_sto_1a7c47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_black_dog_aylesbury_879c0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_john_schorne_holy_we_4885a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_west_wycombe_hellfir_4e3324": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_dinas_emrys_dragons_f71047": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_eryri_fairy_lakes_8c36c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_gelerts_grave_beddge_e8684a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_ancient_stones_cairn_d0ca35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_fairy_brochs_c051f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_mermaids_seal_fairie_a57c5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_enid_porter_collecti_9112bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_fenland_witchcraft_p_673dd9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_gog_magog_giants_3f4031": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_devils_bridge_0f8623": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_drowned_kingdom_904973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_fairy_vanishings_d7b5a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_healing_magic_myddfa_e60895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_llyn_y_fan_fach_fair_b3e389": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_merlins_oak_carmarth_4a5532": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_alderley_edge_sleepi_8e6490": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_cheshire_soul_caking_9215b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_chester_saints_civic_c96b54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_alloa_witch_trials_f38e38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_dollar_glen_legends_d41ee9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_stone_of_mannan_6d1d35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_giants_tintagel_land_e4da75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_mermaids_sea_spirits_eba7b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_piskies_pisky_led_fdb113": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_fairy_hills_thorns_b4e811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_finn_mccool_causeway_df8b29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_loughareema_haunting_6c6696": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_navan_fort_red_branc_a95126": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_slieve_gullion_caill_1c19b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_south_armagh_fairy_f_efa4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_giant_stones_mournes_b94ef1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_holy_wells_downpatri_af3eff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_slieve_donard_legend_4f47cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_lambton_worm_8ef762": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_peg_powler_river_spi_2b9bba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_sockburn_falchion_de62d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_columbas_wells_4f3f71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_fairy_forts_raths_d1b1b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_leap_of_the_dog_9ad900": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_hugh_miller_folklore_ad0d75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_stine_bheag_witch_wi_96bf79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_st_bennets_well_594464": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_fairies_boggles_blac_67b568": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_king_dunmail_legend_9d98e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_long_meg_stone_circl_86e6e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_fairy_roads_gold_a79f07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_ghost_thresholds_ce4e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_lake_cattle_oxen_511f7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_ancient_stones_punis_5b16af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_kinder_mermaid_water_b38d07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_well_dressing_water_42346e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_dartmoor_black_dogs_df85d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_dartmoor_pixies_cc2125": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_devon_giants_ef4167": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_cerne_abbas_giant_766eb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_dorset_ooser_761e8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_lyme_black_dog_65487a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_annandale_fairy_hill_208fe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_dumfries_witch_trial_cec79d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_johnnie_armstrong_re_da5b2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_dumbarton_rock_merli_a78f96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_dumbarton_witch_tria_97727e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_saints_holy_wells_bb0914": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_north_berwick_witche_c094b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_sacred_coast_818588": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_yester_goblin_ha_57c4fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_black_dogs_essex_roa_dace52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_canewdon_cunning_fol_268d6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_essex_witch_trials_b24207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_boa_island_figures_0433ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_kinawley_wells_fairy_7036d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_lough_erne_myths_33cf16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_largo_law_treasure_3c1dcc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_pittenweem_witch_hun_9951af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_wemyss_caves_180898": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_bodfari_elf_dancers_229586": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_flintshire_witch_rec_51a1fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_st_winefrides_well_fd8a68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_arthurs_stone_gower_684c1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_mari_lwyd_winter_cus_377a09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_pennard_fairy_curse_4caf08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_dragons_and_beasts_1c481d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_sacred_landscapes_d90401": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_witch_of_berkeley_20f5bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_new_forest_hauntings_277a77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_st_swithun_weather_890d3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_wherwell_cockatrice_fc6ae7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_ella_mary_leather_cu_24ba2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_herefordshire_dragon_21ddd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_hergest_hound_aee9ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_brent_pelham_dragon_17af29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_hertfordshire_witchc_9cf519": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_jack_olegs_giant_cb14c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_black_shuck_fen_ligh_aea5da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_hail_weston_healing_d8b84f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_warboys_witch_trial_49b178": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_loch_ness_nessie_be7973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_munlochy_clootie_wel_f37841": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_tomnahurich_fairy_hi_3189cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_hengist_horsa_origin_8c5245": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_hoodening_village_cu_67fb4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_saints_wells_thanet_e19336": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_dunnottar_legendary_197e64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_holy_wells_saints_3825eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_witch_pools_memory_ad3973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_loch_leven_legends_cc4ee5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_scotlandwell_healing_356fac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_witch_trials_carlin_a6ea94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_galloway_fairy_place_cbb6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_haunted_burns_glens_b14f76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_stewartry_witch_tria_6df66d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_holy_wells_st_mungo_7a1061": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_lanark_customs_013a65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_witch_trials_cunning_c68e58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_boggarts_dfb6a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_pendle_witches_b7c2aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_wells_fairies_custom_44bcda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_black_annis_2f09e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_hallaton_bottle_kick_790678": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_st_morrell_chapel_195636": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_hairy_jack_black_dog_c7908f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_lincoln_imp_legend_ca60d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_tiddy_mun_fenlands_e5c669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_bala_lake_drowned_co_8a8a8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_cader_idris_mountain_def6fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_fairy_midwives_bala_63b96e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_elizabeth_sawyer_wit_df768e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_hammersmith_ghost_pa_74eb3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_holy_wells_healing_s_053032": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_carlops_witch_rocks_553258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_roslin_glen_wallace_748488": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_rosslyn_chapel_legen_a5154c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_caerleon_arthur_64ecf7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_jack_okent_trickster_aa6d76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_trellech_stones_well_0aa0c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_powysland_folklore_c_857c1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_saint_melangell_hare_c60c2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_trefeglwys_changelin_b975d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_burghead_clavie_97883e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_fairy_mounds_elf_bol_4b6c11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_forres_witch_stones_9a7ae0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_cawdor_macbeth_myth_60a6e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_isobel_gowdie_auldea_bc3e0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_rait_castle_ghost_045d5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_black_shuck_d61fb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_kings_lynn_witch_hea_126fb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_lantern_men_broads_76a2a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_brington_fairy_place_710345": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_northampton_witch_tr_8d0ba5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_whittlebury_ghost_ho_eea316": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_fairy_hills_wells_mi_be46f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_laidly_worm_c13abc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_simonside_duergars_550e3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_dark_folklore_witche_e8167c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_holy_wells_springs_ec8527": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_robin_hood_sherwood_91b80a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_nuckelavee_sea_monst_c43e1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_selkies_finfolk_sea_e78e12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_trows_haunted_mounds_f19664": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_village_customs_morr_9fef09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_wayland_rollright_le_9aeb68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_white_horse_dragon_h_bd43e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_cheese_well_fairies_028c79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_merlins_grave_drumel_2ad529": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_saints_wells_witches_3c1493": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_bleeding_yew_6d21d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_cliff_saints_e9ab8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_fairy_stones_db2243": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_highland_perthshire_c66b56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_schiehallion_fairy_h_a13723": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_st_fillan_healing_st_43e7c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_cascob_charm_magic_dc795d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_four_stones_hindwell_0539a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_radnor_forest_dragon_8fc92c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_paisley_witches_5883e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_place_bound_legends_32ecaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_saints_healing_stone_8691fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_baobhan_sith_shielin_8fca0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_brahan_seer_eagle_st_702e7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_fairy_hills_night_ru_fb7c74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_hermitage_redcaps_b200e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_linton_worm_045702": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_thomas_eildons_53bb8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_oakham_horseshoes_623301": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_wing_maze_6f8494": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_wise_woman_wing_a38e21": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_james_hogg_ettrick_8ccceb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_tam_lin_carterhaugh_263a2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_yarrow_ballads_stone_3550e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_njuggels_water_horse_bcc031": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_selkies_sea_people_5dae7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_trows_hidden_hill_pe_813014": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_mitchells_fold_fairy_04de8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_wild_edric_stipersto_41bd3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_wrekin_giant_legend_0becdd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_glastonbury_avalon_3_d66978": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_quantock_beasts_e21f_6ed5df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_wookey_hole_witch_15_1e12d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_abbots_bromley_horn_183d43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_black_mere_mermaid_4bceb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_molly_leigh_burslem_1a5b12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_robert_kirk_doon_hil_85c28f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_stirling_witches_wel_d9d852": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_threshold_haunted_la_210bfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_black_shuck_suffolk_9aefe9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_green_children_woolp_dbfd30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_orford_wild_man_66c0a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_mother_ludlam_cauldr_5cabc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_silent_pool_haunting_50340a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_west_clandon_dragon_fffdc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_black_dogs_haunted_r_2ab9b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_knucker_dragons_0a0822": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_pharisees_fairy_hill_253844": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_charlotte_dempster_r_8a943b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_fairy_hills_changeli_eeb9ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_water_women_kelpies_394e09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_fairy_trees_tyrone_9a8dd3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_fairy_water_changeli_906d2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_holy_wells_healing_s_eece8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_fairy_traditions_e435fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_guy_of_warwick_0976a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_warwick_castle_ghost_1c3f3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_ancient_stones_22ad90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_black_dog_legends_2852e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_witches_charms_1bacb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_black_bitch_linlithg_7660a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_cairnpapple_ritual_l_085ffd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_linlithgow_marches_68c043": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_fairies_brownies_coa_2cdef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_st_ninian_sacred_rou_e4ce47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_torhouse_standing_st_f6c6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_black_dog_folklore_ad7861": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_stonehenge_legends_d3b759": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_white_horse_traditio_96d47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_haunted_worcestershi_d99b6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_malvern_hills_legend_4b5091": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_witchcraft_tradition_a971e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_black_dog_legends_2852e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_fairies_boggarts_1fcc73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_giants_dragons_6038bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 460,
+    "amazon_specific_pages": 359,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 361,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Aberdeenshire_e04348": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_castle_ghosts_00f21f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_fairy_traditions_e435fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Aberdeenshire_e04348_stone_legends_f711be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_druidic_mona_64252a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_giant_stones_b9c219": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_saints_wells_340313": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_angus_witch_beliefs_589392": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_glamis_castle_legend_749747": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Angus_34ab6d_pictish_stones_de379f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_argyll_fairy_places_53a522": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_argyll_witch_beliefs_2b2513": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Argyllshire_81dd43_kilmartin_stone_lege_af16a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_ancient_stones_lands_cc0482": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_ayrshire_witches_803d27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_tam_oshanter_legends_59739c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_banffshire_fairy_tra_c93c72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_banffshire_stones_we_7a20f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_banffshire_witches_h_fb2c57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_haunted_bedfordshire_de5f94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_ickwell_may_day_8c61c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Bedfordshire_5c5bc3_oakley_witch_testing_4ef666": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_herne_windsor_forest_96351c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_waylands_smithy_forg_006b77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berkshire_fa6d4a_white_horse_dragon_h_bd43e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_border_ballads_f9d314": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_dryburgh_fatlips_f276e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_holy_wells_dc8a75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_fairy_roads_gifts_23b763": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_lady_llyn_fan_fach_b14a6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_maen_llia_living_sto_1a7c47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_black_dog_aylesbury_879c0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_john_schorne_holy_we_4885a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buckinghamshire_40b834_west_wycombe_hellfir_4e3324": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_bute_witches_114b64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_fairy_traditions_e435fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_sacred_landscapes_d90401": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_dinas_emrys_dragons_f71047": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_eryri_fairy_lakes_8c36c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_gelerts_grave_beddge_e8684a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_ancient_stones_cairn_d0ca35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_fairy_brochs_c051f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3_mermaids_seal_fairie_a57c5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_enid_porter_collecti_9112bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_fenland_witchcraft_p_673dd9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_gog_magog_giants_3f4031": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cambridgeshire_f74246_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_devils_bridge_0f8623": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_drowned_kingdom_904973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_fairy_vanishings_d7b5a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_healing_magic_myddfa_e60895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_llyn_y_fan_fach_fair_b3e389": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_merlins_oak_carmarth_4a5532": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_alderley_edge_sleepi_8e6490": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_cheshire_soul_caking_9215b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_chester_saints_civic_c96b54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cheshire_f5f9e8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_alloa_witch_trials_f38e38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_dollar_glen_legends_d41ee9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Clackmannanshire_a9d2bc_stone_of_mannan_6d1d35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_giants_tintagel_land_e4da75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_mermaids_sea_spirits_eba7b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cornwall_4c96d0_piskies_pisky_led_fdb113": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_fairy_hills_thorns_b4e811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_finn_mccool_causeway_df8b29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_loughareema_haunting_6c6696": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_navan_fort_red_branc_a95126": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_slieve_gullion_caill_1c19b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_south_armagh_fairy_f_efa4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_giant_stones_mournes_b94ef1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_holy_wells_downpatri_af3eff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_slieve_donard_legend_4f47cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_lambton_worm_8ef762": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_peg_powler_river_spi_2b9bba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Durham_9c5285_sockburn_falchion_de62d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_columbas_wells_4f3f71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_fairy_forts_raths_d1b1b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_leap_of_the_dog_9ad900": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_hugh_miller_folklore_ad0d75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_stine_bheag_witch_wi_96bf79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cromartyshire_1a46f2_st_bennets_well_594464": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_fairies_boggles_blac_67b568": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_king_dunmail_legend_9d98e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cumberland_f993d3_long_meg_stone_circl_86e6e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_fairy_roads_gold_a79f07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_ghost_thresholds_ce4e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_lake_cattle_oxen_511f7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_ancient_stones_punis_5b16af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_kinder_mermaid_water_b38d07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Derbyshire_ebae69_well_dressing_water_42346e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_dartmoor_black_dogs_df85d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_dartmoor_pixies_cc2125": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_devon_giants_ef4167": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Devon_a55796_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_cerne_abbas_giant_766eb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_dorset_ooser_761e8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dorset_51e44a_lyme_black_dog_65487a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_annandale_fairy_hill_208fe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_dumfries_witch_trial_cec79d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dumfriesshire_3b4eaf_johnnie_armstrong_re_da5b2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_dumbarton_rock_merli_a78f96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_dumbarton_witch_tria_97727e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_saints_holy_wells_bb0914": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_north_berwick_witche_c094b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_sacred_coast_818588": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_yester_goblin_ha_57c4fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_black_dogs_essex_roa_dace52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_canewdon_cunning_fol_268d6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_essex_witch_trials_b24207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Essex_17957d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_boa_island_figures_0433ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_kinawley_wells_fairy_7036d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_lough_erne_myths_33cf16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_largo_law_treasure_3c1dcc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_pittenweem_witch_hun_9951af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_wemyss_caves_180898": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_bodfari_elf_dancers_229586": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_flintshire_witch_rec_51a1fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_st_winefrides_well_fd8a68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_arthurs_stone_gower_684c1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_mari_lwyd_winter_cus_377a09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_pennard_fairy_curse_4caf08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_dragons_and_beasts_1c481d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_sacred_landscapes_d90401": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Gloucestershire_03cc40_witch_of_berkeley_20f5bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_new_forest_hauntings_277a77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_st_swithun_weather_890d3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hampshire_5816c9_wherwell_cockatrice_fc6ae7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_ella_mary_leather_cu_24ba2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_herefordshire_dragon_21ddd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_hergest_hound_aee9ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Herefordshire_be57fe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_brent_pelham_dragon_17af29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_hertfordshire_witchc_9cf519": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Hertfordshire_38dc7a_jack_olegs_giant_cb14c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_black_shuck_fen_ligh_aea5da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_hail_weston_healing_d8b84f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Huntingdonshire_d54801_warboys_witch_trial_49b178": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_loch_ness_nessie_be7973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_munlochy_clootie_wel_f37841": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_tomnahurich_fairy_hi_3189cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_hengist_horsa_origin_8c5245": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_hoodening_village_cu_67fb4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kent_4e168a_saints_wells_thanet_e19336": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_dunnottar_legendary_197e64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_holy_wells_saints_3825eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_witch_pools_memory_ad3973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_loch_leven_legends_cc4ee5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_scotlandwell_healing_356fac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_witch_trials_carlin_a6ea94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_galloway_fairy_place_cbb6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_haunted_burns_glens_b14f76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_stewartry_witch_tria_6df66d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_holy_wells_st_mungo_7a1061": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_lanark_customs_013a65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_witch_trials_cunning_c68e58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_boggarts_dfb6a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_pendle_witches_b7c2aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lancashire_07656d_wells_fairies_custom_44bcda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_black_annis_2f09e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_hallaton_bottle_kick_790678": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Leicestershire_f2eb49_st_morrell_chapel_195636": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_hairy_jack_black_dog_c7908f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_lincoln_imp_legend_ca60d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lincolnshire_92cf52_tiddy_mun_fenlands_e5c669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_bala_lake_drowned_co_8a8a8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_cader_idris_mountain_def6fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_fairy_midwives_bala_63b96e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_elizabeth_sawyer_wit_df768e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_hammersmith_ghost_pa_74eb3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_holy_wells_healing_s_053032": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Middlesex_8498da_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_carlops_witch_rocks_553258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_roslin_glen_wallace_748488": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_rosslyn_chapel_legen_a5154c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_caerleon_arthur_64ecf7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_jack_okent_trickster_aa6d76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_trellech_stones_well_0aa0c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_powysland_folklore_c_857c1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_saint_melangell_hare_c60c2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_trefeglwys_changelin_b975d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_burghead_clavie_97883e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_fairy_mounds_elf_bol_4b6c11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_forres_witch_stones_9a7ae0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_cawdor_macbeth_myth_60a6e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_isobel_gowdie_auldea_bc3e0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_rait_castle_ghost_045d5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_black_shuck_d61fb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_kings_lynn_witch_hea_126fb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Norfolk_72ff17_lantern_men_broads_76a2a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_brington_fairy_place_710345": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_northampton_witch_tr_8d0ba5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northamptonshire_ad0dee_whittlebury_ghost_ho_eea316": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_fairy_hills_wells_mi_be46f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_laidly_worm_c13abc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northumberland_98885a_simonside_duergars_550e3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_dark_folklore_witche_e8167c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_holy_wells_springs_ec8527": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nottinghamshire_a5a895_robin_hood_sherwood_91b80a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_nuckelavee_sea_monst_c43e1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_selkies_finfolk_sea_e78e12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_trows_haunted_mounds_f19664": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_village_customs_morr_9fef09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_wayland_rollright_le_9aeb68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Oxfordshire_491609_white_horse_dragon_h_bd43e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_cheese_well_fairies_028c79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_merlins_grave_drumel_2ad529": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_saints_wells_witches_3c1493": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_bleeding_yew_6d21d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_cliff_saints_e9ab8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_fairy_stones_db2243": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_highland_perthshire_c66b56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_schiehallion_fairy_h_a13723": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_st_fillan_healing_st_43e7c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_cascob_charm_magic_dc795d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_four_stones_hindwell_0539a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_radnor_forest_dragon_8fc92c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_paisley_witches_5883e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_place_bound_legends_32ecaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_saints_healing_stone_8691fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_baobhan_sith_shielin_8fca0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_brahan_seer_eagle_st_702e7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_fairy_hills_night_ru_fb7c74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_hermitage_redcaps_b200e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_linton_worm_045702": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_thomas_eildons_53bb8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_oakham_horseshoes_623301": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_wing_maze_6f8494": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Rutland_424243_wise_woman_wing_a38e21": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_james_hogg_ettrick_8ccceb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_tam_lin_carterhaugh_263a2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_yarrow_ballads_stone_3550e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_njuggels_water_horse_bcc031": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_selkies_sea_people_5dae7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_trows_hidden_hill_pe_813014": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_mitchells_fold_fairy_04de8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_wild_edric_stipersto_41bd3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shropshire_83e582_wrekin_giant_legend_0becdd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_glastonbury_avalon_3_d66978": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_quantock_beasts_e21f_6ed5df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Somerset_24710f_wookey_hole_witch_15_1e12d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_abbots_bromley_horn_183d43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_black_mere_mermaid_4bceb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Staffordshire_e11f30_molly_leigh_burslem_1a5b12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_robert_kirk_doon_hil_85c28f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_stirling_witches_wel_d9d852": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_threshold_haunted_la_210bfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_black_shuck_suffolk_9aefe9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_green_children_woolp_dbfd30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Suffolk_831058_orford_wild_man_66c0a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_mother_ludlam_cauldr_5cabc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_silent_pool_haunting_50340a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Surrey_aeac76_west_clandon_dragon_fffdc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_black_dogs_haunted_r_2ab9b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_knucker_dragons_0a0822": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sussex_0f32ec_pharisees_fairy_hill_253844": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_charlotte_dempster_r_8a943b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_fairy_hills_changeli_eeb9ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_water_women_kelpies_394e09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_fairy_trees_tyrone_9a8dd3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_fairy_water_changeli_906d2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_holy_wells_healing_s_eece8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_fairy_traditions_e435fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_guy_of_warwick_0976a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Warwickshire_17be07_warwick_castle_ghost_1c3f3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_ancient_stones_22ad90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_black_dog_legends_2852e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Westmorland_dec0c1_witches_charms_1bacb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_black_bitch_linlithg_7660a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_cairnpapple_ritual_l_085ffd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_linlithgow_marches_68c043": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_fairies_brownies_coa_2cdef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_st_ninian_sacred_rou_e4ce47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_torhouse_standing_st_f6c6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_black_dog_folklore_ad7861": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_stonehenge_legends_d3b759": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wiltshire_7b9f94_white_horse_traditio_96d47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_haunted_worcestershi_d99b6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_malvern_hills_legend_4b5091": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Worcestershire_9671d5_witchcraft_tradition_a971e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_black_dog_legends_2852e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_fairies_boggarts_1fcc73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_giants_dragons_6038bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yorkshire_f09525_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 443,
+  "regressions": []
+}

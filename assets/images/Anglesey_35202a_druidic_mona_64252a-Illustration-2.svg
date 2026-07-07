@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="95.0" y2="95.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svg01c2adfc-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="svg01c2adfc-core-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="var(--accent-1)" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="var(--accent-1)" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="svg01c2adfc-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg01c2adfc-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg01c2adfc-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="svg01c2adfc-geode-cavity-glow" cx="48%" cy="50%" r="34%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.34"/>
+      <stop offset="58%" stop-color="var(--accent-2)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="svg01c2adfc-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svg01c2adfc-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg01c2adfc-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svg01c2adfc-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg01c2adfc-universal-edge-vignette)" opacity="0.62"/>
+  <rect id="TITLE_FRAME" x="134" y="30" width="1652" height="70" fill="none"/>
+  <text id="TITLE" x="960.0" y="59" font-size="48" font-weight="700" fill="#f1f5f9" text-anchor="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Llyn Cerrig Bach Ritual Finds</tspan>
+  </text>
+  <g id="DIAGRAM_MAIN">
+    <ellipse id="GEODE_CAST_SHADOW" cx="970" cy="830" rx="330" ry="54" fill="var(--primary-text)" opacity="0.06"/>
+    <polygon points="1329.365607907473,590.0 1273.1799599989595,740.8195198546559 1155.3026032894898,834.9017183672936 1023.3803905662265,867.687634818802 888.625959298386,902.7101043844532 778.0265995981124,818.1874266135815 729.8674247744904,700.8260071894198 737.783670042235,590.0 648.2189947270696,439.8541812342605 709.8324607708777,276.2998280360022 880.8643548035036,243.2840844280828 1012.4720460339722,360.104945281902 1053.612262324886,472.6139359257163 1175.5070317732368,486.21728332346146" fill="var(--background)" stroke="var(--primary-text)" stroke-width="4" stroke-opacity="0.3"/>
+    <polygon points="1329.365607907473,590.0 1273.1799599989595,740.8195198546559 1227.0127834971343,718.5865794293695 1276.9584554769426,590.0" fill="var(--accent-1)" fill-opacity="0.18" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1273.1799599989595,740.8195198546559 1155.3026032894898,834.9017183672936 1122.5211643726343,793.7950941540444 1227.0127834971343,718.5865794293695" fill="var(--accent-2)" fill-opacity="0.14" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1155.3026032894898,834.9017183672936 1023.3803905662265,867.687634818802 1014.2706016482189,827.7750417321942 1122.5211643726343,793.7950941540444" fill="var(--accent-3)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1023.3803905662265,867.687634818802 888.625959298386,902.7101043844532 897.9549703193385,861.8370365086728 1014.2706016482189,827.7750417321942" fill="var(--accent-4)" fill-opacity="0.20" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="888.625959298386,902.7101043844532 778.0265995981124,818.1874266135815 811.4764694693029,776.2426164951299 897.9549703193385,861.8370365086728" fill="var(--accent-5)" fill-opacity="0.12" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="778.0265995981124,818.1874266135815 729.8674247744904,700.8260071894198 758.8766385561854,686.8559061205939 811.4764694693029,776.2426164951299" fill="var(--accent-6)" fill-opacity="0.11" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="729.8674247744904,700.8260071894198 737.783670042235,590.0 767.1533316361352,590.0 758.8766385561854,686.8559061205939" fill="var(--accent-1)" fill-opacity="0.12" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="737.783670042235,590.0 648.2189947270696,439.8541812342605 697.8647317436248,463.7623081134269 767.1533316361352,590.0" fill="var(--accent-2)" fill-opacity="0.23" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="648.2189947270696,439.8541812342605 709.8324607708777,276.2998280360022 751.6536920232186,328.7419932986575 697.8647317436248,463.7623081134269" fill="var(--accent-3)" fill-opacity="0.26" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="709.8324607708777,276.2998280360022 880.8643548035036,243.2840844280828 890.6999119860883,286.37647604569446 751.6536920232186,328.7419932986575" fill="var(--accent-4)" fill-opacity="0.18" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="880.8643548035036,243.2840844280828 1012.4720460339722,360.104945281902 1003.8740164401745,397.7753742690661 890.6999119860883,286.37647604569446" fill="var(--accent-5)" fill-opacity="0.11" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1012.4720460339722,360.104945281902 1053.612262324886,472.6139359257163 1034.492046707812,496.58992795708616 1003.8740164401745,397.7753742690661" fill="var(--accent-6)" fill-opacity="0.18" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1053.612262324886,472.6139359257163 1175.5070317732368,486.21728332346146 1135.9140572190925,505.28425495182967 1034.492046707812,496.58992795708616" fill="var(--accent-1)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1175.5070317732368,486.21728332346146 1329.365607907473,590.0 1276.9584554769426,590.0 1135.9140572190925,505.28425495182967" fill="var(--accent-2)" fill-opacity="0.21" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1276.9584554769426,590.0 1227.0127834971343,718.5865794293695 1181.0950505003243,696.4737646649249 1225.5058128621804,590.0" fill="var(--accent-2)" fill-opacity="0.44" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1227.0127834971343,718.5865794293695 1122.5211643726343,793.7950941540444 1100.541649227624,766.2336539211447 1181.0950505003243,696.4737646649249" fill="var(--accent-3)" fill-opacity="0.42" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1122.5211643726343,793.7950941540444 1014.2706016482189,827.7750417321942 1005.3886760310498,788.8607829964254 1100.541649227624,766.2336539211447" fill="var(--accent-4)" fill-opacity="0.25" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1014.2706016482189,827.7750417321942 897.9549703193385,861.8370365086728 909.8769413339511,809.6034686204025 1005.3886760310498,788.8607829964254" fill="var(--accent-5)" fill-opacity="0.39" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="897.9549703193385,861.8370365086728 811.4764694693029,776.2426164951299 826.7189626398839,757.1291346121267 909.8769413339511,809.6034686204025" fill="var(--accent-6)" fill-opacity="0.39" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="811.4764694693029,776.2426164951299 758.8766385561854,686.8559061205939 801.0959322352562,666.5241658607722 826.7189626398839,757.1291346121267" fill="var(--accent-1)" fill-opacity="0.36" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="758.8766385561854,686.8559061205939 767.1533316361352,590.0 803.4077564040999,590.0 801.0959322352562,666.5241658607722" fill="var(--accent-2)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="767.1533316361352,590.0 697.8647317436248,463.7623081134269 735.8176293602728,482.0394603158053 803.4077564040999,590.0" fill="var(--accent-3)" fill-opacity="0.38" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="697.8647317436248,463.7623081134269 751.6536920232186,328.7419932986575 783.4048054012558,368.5566301513479 735.8176293602728,482.0394603158053" fill="var(--accent-4)" fill-opacity="0.27" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="751.6536920232186,328.7419932986575 890.6999119860883,286.37647604569446 902.9953012169406,340.246096036823 783.4048054012558,368.5566301513479" fill="var(--accent-5)" fill-opacity="0.34" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="890.6999119860883,286.37647604569446 1003.8740164401745,397.7753742690661 997.0746816559017,427.5652063877722 902.9953012169406,340.246096036823" fill="var(--accent-6)" fill-opacity="0.34" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1003.8740164401745,397.7753742690661 1034.492046707812,496.58992795708616 1028.0795526999707,504.630941108419 997.0746816559017,427.5652063877722" fill="var(--accent-1)" fill-opacity="0.44" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1034.492046707812,496.58992795708616 1135.9140572190925,505.28425495182967 1102.670960423533,521.2932866191331 1028.0795526999707,504.630941108419" fill="var(--accent-2)" fill-opacity="0.43" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1135.9140572190925,505.28425495182967 1276.9584554769426,590.0 1225.5058128621804,590.0 1102.670960423533,521.2932866191331" fill="var(--accent-3)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1225.5058128621804,590.0 1181.0950505003243,696.4737646649249 1128.453880239427,671.1231131629511 1157.709049862141,590.0" fill="var(--accent-3)" fill-opacity="0.50" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1181.0950505003243,696.4737646649249 1100.541649227624,766.2336539211447 1062.1765234682725,718.1253078694763 1128.453880239427,671.1231131629511" fill="var(--accent-4)" fill-opacity="0.44" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1100.541649227624,766.2336539211447 1005.3886760310498,788.8607829964254 993.670022380853,737.5180066848212 1062.1765234682725,718.1253078694763" fill="var(--accent-5)" fill-opacity="0.58" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1005.3886760310498,788.8607829964254 909.8769413339511,809.6034686204025 922.519988305612,754.2106605436671 993.670022380853,737.5180066848212" fill="var(--accent-6)" fill-opacity="0.57" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="909.8769413339511,809.6034686204025 826.7189626398839,757.1291346121267 862.6832536630477,712.0313400969203 922.519988305612,754.2106605436671" fill="var(--accent-1)" fill-opacity="0.46" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="826.7189626398839,757.1291346121267 801.0959322352562,666.5241658607722 830.9821344231524,652.1317294345314 862.6832536630477,712.0313400969203" fill="var(--accent-2)" fill-opacity="0.53" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="801.0959322352562,666.5241658607722 803.4077564040999,590.0 840.4843749438276,590.0 830.9821344231524,652.1317294345314" fill="var(--accent-3)" fill-opacity="0.52" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="803.4077564040999,590.0 735.8176293602728,482.0394603158053 790.859705241666,508.5463270267623 840.4843749438276,590.0" fill="var(--accent-4)" fill-opacity="0.43" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="735.8176293602728,482.0394603158053 783.4048054012558,368.5566301513479 826.0302415004955,422.00723639537057 790.859705241666,508.5463270267623" fill="var(--accent-5)" fill-opacity="0.55" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="783.4048054012558,368.5566301513479 902.9953012169406,340.246096036823 917.5124413953304,403.8498429442799 826.0302415004955,422.00723639537057" fill="var(--accent-6)" fill-opacity="0.51" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="902.9953012169406,340.246096036823 997.0746816559017,427.5652063877722 990.8029210521667,455.043584994183 917.5124413953304,403.8498429442799" fill="var(--accent-1)" fill-opacity="0.56" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="997.0746816559017,427.5652063877722 1028.0795526999707,504.630941108419 1013.3327153389969,523.1228902650425 990.8029210521667,455.043584994183" fill="var(--accent-2)" fill-opacity="0.51" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1028.0795526999707,504.630941108419 1102.670960423533,521.2932866191331 1080.495340247857,531.9725024520548 1013.3327153389969,523.1228902650425" fill="var(--accent-3)" fill-opacity="0.40" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1102.670960423533,521.2932866191331 1225.5058128621804,590.0 1157.709049862141,590.0 1080.495340247857,531.9725024520548" fill="var(--accent-4)" fill-opacity="0.46" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1157.709049862141,590.0 1128.453880239427,671.1231131629511 1089.4007062346923,652.316095778397 1101.1690161269512,590.0" fill="var(--accent-4)" fill-opacity="0.55" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1128.453880239427,671.1231131629511 1062.1765234682725,718.1253078694763 1033.9237390663855,682.6974368009744 1089.4007062346923,652.316095778397" fill="var(--accent-5)" fill-opacity="0.74" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1062.1765234682725,718.1253078694763 993.670022380853,737.5180066848212 984.8156824728219,698.7246088376788 1033.9237390663855,682.6974368009744" fill="var(--accent-6)" fill-opacity="0.73" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="993.670022380853,737.5180066848212 922.519988305612,754.2106605436671 929.2717998558128,724.629041317789 984.8156824728219,698.7246088376788" fill="var(--accent-1)" fill-opacity="0.72" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="922.519988305612,754.2106605436671 862.6832536630477,712.0313400969203 885.464871388611,683.4640950412704 929.2717998558128,724.629041317789" fill="var(--accent-2)" fill-opacity="0.61" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="862.6832536630477,712.0313400969203 830.9821344231524,652.1317294345314 866.9207709862766,634.8245942311825 885.464871388611,683.4640950412704" fill="var(--accent-3)" fill-opacity="0.56" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="830.9821344231524,652.1317294345314 840.4843749438276,590.0 867.4211829970965,590.0 866.9207709862766,634.8245942311825" fill="var(--accent-4)" fill-opacity="0.73" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="840.4843749438276,590.0 790.859705241666,508.5463270267623 829.1096197629961,526.9665150317924 867.4211829970965,590.0" fill="var(--accent-5)" fill-opacity="0.74" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="790.859705241666,508.5463270267623 826.0302415004955,422.00723639537057 856.4913217050912,460.204222814296 829.1096197629961,526.9665150317924" fill="var(--accent-6)" fill-opacity="0.57" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="826.0302415004955,422.00723639537057 917.5124413953304,403.8498429442799 929.5515914430777,456.5968057212666 856.4913217050912,460.204222814296" fill="var(--accent-1)" fill-opacity="0.65" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="917.5124413953304,403.8498429442799 990.8029210521667,455.043584994183 978.9064685991008,507.1653487591812 929.5515914430777,456.5968057212666" fill="var(--accent-2)" fill-opacity="0.56" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="990.8029210521667,455.043584994183 1013.3327153389969,523.1228902650425 995.1436420799689,545.931266710705 978.9064685991008,507.1653487591812" fill="var(--accent-3)" fill-opacity="0.70" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1013.3327153389969,523.1228902650425 1080.495340247857,531.9725024520548 1042.0176479086513,550.5023824729012 995.1436420799689,545.931266710705" fill="var(--accent-4)" fill-opacity="0.70" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1080.495340247857,531.9725024520548 1157.709049862141,590.0 1101.1690161269512,590.0 1042.0176479086513,550.5023824729012" fill="var(--accent-5)" fill-opacity="0.58" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1101.1690161269512,590.0 1089.4007062346923,652.316095778397 1046.2759472778887,631.5483064226077 1046.5610588485947,590.0" fill="var(--accent-5)" fill-opacity="0.80" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1089.4007062346923,652.316095778397 1033.9237390663855,682.6974368009744 1013.5188783594822,657.1105507789854 1046.2759472778887,631.5483064226077" fill="var(--accent-6)" fill-opacity="0.81" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1033.9237390663855,682.6974368009744 984.8156824728219,698.7246088376788 975.0203366206069,655.8083945696155 1013.5188783594822,657.1105507789854" fill="var(--accent-1)" fill-opacity="0.75" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="984.8156824728219,698.7246088376788 929.2717998558128,724.629041317789 941.4647226851097,671.2083559646786 975.0203366206069,655.8083945696155" fill="var(--accent-2)" fill-opacity="0.87" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="929.2717998558128,724.629041317789 885.464871388611,683.4640950412704 915.8080988060893,645.4148913430731 941.4647226851097,671.2083559646786" fill="var(--accent-3)" fill-opacity="0.78" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="885.464871388611,683.4640950412704 866.9207709862766,634.8245942311825 894.9969667412183,621.3038109629309 915.8080988060893,645.4148913430731" fill="var(--accent-4)" fill-opacity="0.74" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="866.9207709862766,634.8245942311825 867.4211829970965,590.0 905.2688804588108,590.0 894.9969667412183,621.3038109629309" fill="var(--accent-5)" fill-opacity="0.81" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="867.4211829970965,590.0 829.1096197629961,526.9665150317924 886.2914616860005,554.5038387585756 905.2688804588108,590.0" fill="var(--accent-6)" fill-opacity="0.85" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="829.1096197629961,526.9665150317924 856.4913217050912,460.204222814296 900.617618493206,515.5368488345252 886.2914616860005,554.5038387585756" fill="var(--accent-1)" fill-opacity="0.74" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="856.4913217050912,460.204222814296 929.5515914430777,456.5968057212666 939.9429748102931,502.1244309687372 900.617618493206,515.5368488345252" fill="var(--accent-2)" fill-opacity="0.76" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="929.5515914430777,456.5968057212666 978.9064685991008,507.1653487591812 972.0621123312841,537.1524328854825 939.9429748102931,502.1244309687372" fill="var(--accent-3)" fill-opacity="0.90" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="978.9064685991008,507.1653487591812 995.1436420799689,545.931266710705 984.4578356269114,559.3308441787791 972.0621123312841,537.1524328854825" fill="var(--accent-4)" fill-opacity="0.83" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="995.1436420799689,545.931266710705 1042.0176479086513,550.5023824729012 1021.0452786046092,560.602143225986 984.4578356269114,559.3308441787791" fill="var(--accent-5)" fill-opacity="0.79" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1042.0176479086513,550.5023824729012 1101.1690161269512,590.0 1046.5610588485947,590.0 1021.0452786046092,560.602143225986" fill="var(--accent-6)" fill-opacity="0.80" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <ellipse id="GEODE_CAVITY_GLOW" cx="988" cy="594" rx="156" ry="122" fill="url(#svg01c2adfc-geode-cavity-glow)" opacity="0.94"/>
+    <polygon points="1046.5610588485947,590.0 1046.2759472778887,631.5483064226077 1013.5188783594822,657.1105507789854 975.0203366206069,655.8083945696155 941.4647226851097,671.2083559646786 915.8080988060893,645.4148913430731 894.9969667412183,621.3038109629309 905.2688804588108,590.0 886.2914616860005,554.5038387585756 900.617618493206,515.5368488345252 939.9429748102931,502.1244309687372 972.0621123312841,537.1524328854825 984.4578356269114,559.3308441787791 1021.0452786046092,560.602143225986" fill="url(#svg01c2adfc-core-glow)" stroke="var(--accent-1)" stroke-width="3"/>
+    <!-- Geometry for Node 1 -->
+    <path id="ITEM_1_CONN" d="M 700.8769975405189 767.2755838705459 L 600.8769975405189 767.2755838705459 L 300 844.089113027766" fill="transparent" stroke="var(--accent-3)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_1_DOT" cx="700.8769975405189" cy="767.2755838705459" r="8" fill="var(--background)" stroke="var(--accent-1)" stroke-width="3"/>
+    <g transform="translate(300, 844.089113027766)">
+      <circle id="ITEM_1_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-1)" stroke-width="3"/>
+      <circle id="ITEM_1_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_1_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_1_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-3)" fill-opacity="0.22"/>
+      <g id="ITEM_1_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-11.977777777777781,-11.977777777777781) scale(3.081481481481482)" vector-effect="non-scaling-stroke" stroke-width="2.31" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <polyline points="14.5 17.5 3 6 3 3 6 3 17.5 14.5" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <line x1="13" x2="19" y1="19" y2="13" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <line x1="16" x2="20" y1="16" y2="20" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <line x1="19" x2="21" y1="21" y2="19" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_1_HEAD_FRAME" x="28" y="784.089113027766" width="210" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_BODY_FRAME" x="26" y="834.089113027766" width="220" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_TEXT_BG" x="8" y="770.089113027766" width="258" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-1)" stroke-width="2"/>
+    <text id="ITEM_1_HEAD" x="28.0" y="784.089113027766" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-3)" text-anchor="start" data-bg-id="ITEM_1_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 25px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="25">
+      <tspan x="28.0" dy="25.62px">Weaponry Deposits</tspan>
+    </text>
+    <text id="ITEM_1_BODY" x="26.0" y="834.089113027766" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="start" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="26.0" dy="20.88px">Swords and</tspan>
+      <tspan x="26.0" dy="29.90px">spearheads were</tspan>
+      <tspan x="26.0" dy="29.90px">placed into the</tspan>
+      <tspan x="26.0" dy="29.90px">lake water</tspan>
+    </text>
+    <!-- Geometry for Node 2 -->
+    <path id="ITEM_2_CONN" d="M 701.4440744647688 590.0 L 601.4440744647688 590.0 L 300 590.0" fill="transparent" stroke="var(--accent-4)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_2_DOT" cx="701.4440744647688" cy="590.0" r="8" fill="var(--background)" stroke="var(--accent-2)" stroke-width="3"/>
+    <g transform="translate(300, 590.0)">
+      <circle id="ITEM_2_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-2)" stroke-width="3"/>
+      <circle id="ITEM_2_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_2_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_2_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-4)" fill-opacity="0.22"/>
+      <g id="ITEM_2_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-10.65714285714286,-10.65714285714286) scale(2.2285714285714286)">
+          <path d="M4.89138 11.3024L14.4322 14.7761L8.60967 6.45894C8.41734 6.18648 8.48466 5.80823 8.75712 5.6159C9.02959 5.42357 9.40784 5.49088 9.60017 5.76335L15.4246 14.082V3.92664C15.4246 3.59327 15.6971 3.3208 16.0305 3.3208C16.3638 3.3208 16.6363 3.59327 16.6363 3.92664V14.3388L23.3293 6.36276C23.5441 6.10632 23.9256 6.07427 24.182 6.28903C24.4384 6.5038 24.4705 6.88526 24.2557 7.1417L17.7289 14.9196L27.5349 12.2895C27.8587 12.203 28.1888 12.3953 28.2754 12.7191C28.3619 13.0428 28.1696 13.373 27.8458 13.4595L18.0359 16.0871L27.5831 19.5631C27.8972 19.6785 28.0607 20.0247 27.9453 20.3388C27.8555 20.5824 27.6247 20.7363 27.3747 20.7363C27.3074 20.7363 27.2369 20.7235 27.1663 20.701L17.6275 17.2271L23.4511 25.5446C23.6434 25.817 23.5761 26.1953 23.3037 26.3876C23.1979 26.4613 23.0761 26.4966 22.9543 26.4966C22.7619 26.4966 22.576 26.4069 22.4574 26.237L16.6363 17.9219V28.0736C16.6363 28.4101 16.3638 28.6794 16.0305 28.6794C15.6971 28.6794 15.4246 28.4069 15.4246 28.0736V17.6679L8.7315 25.6406C8.6129 25.7817 8.44301 25.8554 8.26991 25.8554C8.13208 25.8554 7.99424 25.8073 7.88205 25.7143C7.62561 25.4996 7.59355 25.1181 7.80832 24.8617L14.334 17.085L4.52268 19.7103C4.47139 19.7263 4.4201 19.7327 4.36561 19.7327C4.09955 19.7327 3.85273 19.5532 3.78221 19.2839C3.69566 18.9602 3.88799 18.63 4.21174 18.5435L14.0213 15.916L4.47787 12.4404C4.16373 12.325 4.00025 11.9788 4.11565 11.6646C4.23105 11.3505 4.57724 11.187 4.89138 11.3024Z" fill="#F3AD61"/>
+          <path d="M16.0016 2C8.26995 2 2 8.26995 2 16.0016C2 23.7333 8.26995 30.0032 16.0016 30.0032C23.7333 30.0032 30 23.7333 30 16.0016C30 8.26995 23.7333 2 16.0016 2ZM16.0016 26.7532C9.77974 26.7532 5.23315 22.2203 5.23315 15.9984C5.23315 9.77653 9.77974 5.21953 16.0016 5.21953C22.2235 5.21953 26.7668 9.77653 26.7668 15.9984C26.7636 22.2235 22.2235 26.7532 16.0016 26.7532Z" fill="#A56953"/>
+          <path d="M16.0016 5.73745C17.3864 5.73745 18.7327 6.00992 19.9956 6.54203C21.2169 7.05811 22.3164 7.79858 23.2588 8.741C24.2012 9.68342 24.9417 10.7829 25.4578 12.0042C25.9931 13.2704 26.2624 14.6135 26.2624 15.9982C26.2624 17.383 25.9899 18.7293 25.4578 19.9923C24.9417 21.2136 24.2012 22.3131 23.2588 23.2555C22.3164 24.1979 21.2169 24.9384 19.9956 25.4545C18.7295 25.9898 17.3864 26.259 16.0016 26.259C14.6168 26.259 13.2705 25.9866 12.0075 25.4545C10.7862 24.9384 9.68675 24.1979 8.74433 23.2555C7.80191 22.3131 7.06144 21.2136 6.54536 19.9923C6.01004 18.7261 5.74078 17.383 5.74078 15.9982C5.74078 14.6135 6.01325 13.2672 6.54536 12.0042C7.06144 10.7829 7.80191 9.68342 8.74433 8.741C9.68675 7.79858 10.7862 7.05811 12.0075 6.54203C13.2705 6.00992 14.6136 5.73745 16.0016 5.73745ZM16.0016 4.73413C9.77971 4.73413 4.73425 9.77958 4.73425 16.0014C4.73425 22.2233 9.77971 27.2688 16.0016 27.2688C22.2234 27.2688 27.2689 22.2233 27.2689 16.0014C27.2657 9.77958 22.2234 4.73413 16.0016 4.73413Z" fill="#6D4534"/>
+          <path d="M16.0016 19.377C17.8658 19.377 19.377 17.8658 19.377 16.0016C19.377 14.1374 17.8658 12.6262 16.0016 12.6262C14.1374 12.6262 12.6262 14.1374 12.6262 16.0016C12.6262 17.8658 14.1374 19.377 16.0016 19.377Z" fill="#A56953"/>
+          <path d="M16.0016 17.5755C16.8709 17.5755 17.5756 16.8709 17.5756 16.0016C17.5756 15.1324 16.8709 14.4277 16.0016 14.4277C15.1324 14.4277 14.4277 15.1324 14.4277 16.0016C14.4277 16.8709 15.1324 17.5755 16.0016 17.5755Z" fill="#F3C07B"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_2_HEAD_FRAME" x="28" y="530.0" width="210" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_BODY_FRAME" x="26" y="580.0" width="220" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_TEXT_BG" x="8" y="516" width="258" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-2)" stroke-width="2"/>
+    <text id="ITEM_2_HEAD" x="28.0" y="530.0" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-4)" text-anchor="start" data-bg-id="ITEM_2_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="26">
+      <tspan x="28.0" dy="25.85px">Chariot Fittings</tspan>
+    </text>
+    <text id="ITEM_2_BODY" x="26.0" y="580.0" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="start" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 21px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="21">
+      <tspan x="26.0" dy="21.48px">Vehicle components</tspan>
+      <tspan x="26.0" dy="24.15px">and decorated</tspan>
+      <tspan x="26.0" dy="24.15px">metalwork suggest</tspan>
+      <tspan x="26.0" dy="24.15px">high-status offerings</tspan>
+    </text>
+    <!-- Geometry for Node 3 -->
+    <path id="ITEM_3_CONN" d="M 792.3321748791592 475.292269260235 L 692.3321748791592 475.292269260235 L 300 335.9108869722341" fill="transparent" stroke="var(--accent-5)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_3_DOT" cx="792.3321748791592" cy="475.292269260235" r="8" fill="var(--background)" stroke="var(--accent-3)" stroke-width="3"/>
+    <g transform="translate(300, 335.9108869722341)">
+      <circle id="ITEM_3_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-3)" stroke-width="3"/>
+      <circle id="ITEM_3_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_3_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_3_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-5)" fill-opacity="0.22"/>
+      <g id="ITEM_3_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-10.341592920353989,-10.617699115044255) scale(2.2088495575221243)">
+          <path d="M23 2C20.24 2 18 4.24 18 7V11C18 13.76 20.24 16 23 16C20.24 16 18 18.24 18 21V25C18 27.76 20.24 30 23 30C25.76 30 28 27.76 28 25V21C28 18.24 25.76 16 23 16C25.76 16 28 13.76 28 11V7C28 4.24 25.76 2 23 2ZM23 5C24.1 5 25 5.9 25 7V11C25 12.1 24.1 13 23 13C21.9 13 21 12.1 21 11V7C21 5.9 21.9 5 23 5ZM25 21V25C25 26.1 24.1 27 23 27C21.9 27 21 26.1 21 25V21C21 19.9 21.9 19 23 19C24.1 19 25 19.9 25 21Z" fill="#9B9B9B"/>
+          <path d="M11 2.55V3.21C11 3.71 10.67 4.34 10.25 4.61C8.67 5.62 7 4.5 7 3V2.55C7 2.25 6.76 2.01 6.46 2.01H4.54C4.24 2.01 4 2.25 4 2.55V3.23C4 5.1 5.1 6.79 6.81 7.53C10.47 9.1 14 6.46 14 3V2.55C14 2.25 13.76 2.01 13.46 2.01H11.54C11.24 2.01 11 2.25 11 2.55Z" fill="#9B9B9B"/>
+          <path d="M7 29.45V28.79C7 28.29 7.33 27.66 7.75 27.39C9.33 26.38 11 27.5 11 29V29.44C11 29.74 11.24 29.98 11.54 29.98H13.46C13.76 29.98 14 29.74 14 29.44V28.76C14 26.89 12.9 25.2 11.19 24.46C7.53 22.9 4 25.54 4 29V29.44C4 29.74 4.24 29.98 4.54 29.98H6.46C6.76 29.99 7 29.75 7 29.45Z" fill="#9B9B9B"/>
+          <path d="M4 14C4 11.24 6.24 9 9 9C11.76 9 14 11.23 14 14V18C14 20.76 11.76 23 9 23C6.24 23 4 20.76 4 18V14ZM11 14C11 12.9 10.1 12 9 12C7.9 12 7 12.89 7 14V18C7 19.1 7.9 20 9 20C10.1 20 11 19.1 11 18V14Z" fill="#9B9B9B"/>
+          <path d="M21.5 2.45V5.49C21.5 6.33 22.19 7.04 23.03 7.02C23.84 7 24.5 6.33 24.5 5.51V2.45C24.5 2.2 24.3 2 24.05 2H21.94C21.7 2 21.5 2.2 21.5 2.45Z" fill="#BEBEBE"/>
+          <path d="M9 14C8.17 14 7.5 13.33 7.5 12.5V5.5C7.5 4.67 8.17 4 9 4C9.83 4 10.5 4.67 10.5 5.5V12.5C10.5 13.32 9.83 14 9 14Z" fill="#BEBEBE"/>
+          <path d="M9 28C8.17 28 7.5 27.33 7.5 26.5V19.5C7.5 18.67 8.17 18 9 18C9.83 18 10.5 18.67 10.5 19.5V26.5C10.5 27.32 9.83 28 9 28Z" fill="#BEBEBE"/>
+          <path d="M21.5 19.5C21.5 20.33 22.17 21 23 21C23.83 21 24.5 20.33 24.5 19.5V12.5C24.5 11.67 23.83 11 23 11C22.17 11 21.5 11.67 21.5 12.5V19.5Z" fill="#BEBEBE"/>
+          <path d="M24.5 26.53V29.57C24.5 29.82 24.3 30.01 24.06 30.02H21.95C21.7 30.02 21.5 29.82 21.5 29.57V26.5C21.5 25.68 22.15 25.02 22.97 25C23.81 24.98 24.5 25.69 24.5 26.53Z" fill="#BEBEBE"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_3_HEAD_FRAME" x="28" y="275.9108869722341" width="210" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_BODY_FRAME" x="26" y="325.9108869722341" width="220" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_TEXT_BG" x="8" y="261.9108869722341" width="258" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-3)" stroke-width="2"/>
+    <text id="ITEM_3_HEAD" x="28.0" y="275.9108869722341" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-5)" text-anchor="start" data-bg-id="ITEM_3_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="28.0" dy="28.25px">Slave Chains</tspan>
+    </text>
+    <text id="ITEM_3_BODY" x="26.0" y="325.9108869722341" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="start" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="26.0" dy="20.88px">Iron gang chains</tspan>
+      <tspan x="26.0" dy="29.90px">were recovered</tspan>
+      <tspan x="26.0" dy="29.90px">from the</tspan>
+      <tspan x="26.0" dy="29.90px">prehistoric site</tspan>
+    </text>
+    <!-- Geometry for Node 4 -->
+    <path id="ITEM_4_CONN" d="M 1096.0833015878948 532.4649029051379 L 1196.0833015878948 532.4649029051379 L 1620 414.7617459611073" fill="transparent" stroke="var(--accent-6)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_4_DOT" cx="1096.0833015878948" cy="532.4649029051379" r="8" fill="var(--background)" stroke="var(--accent-4)" stroke-width="3"/>
+    <g transform="translate(1620, 414.7617459611073)">
+      <circle id="ITEM_4_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-4)" stroke-width="3"/>
+      <circle id="ITEM_4_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-6)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_4_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_4_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-6)" fill-opacity="0.22"/>
+      <g id="ITEM_4_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-10.65714285714286,-11.771428571428572) scale(2.2285714285714286)">
+          <path d="M14.1215 9.87866L29.1215 24.8787C30.2931 26.0502 30.2931 27.9497 29.1215 29.1213C27.95 30.2929 26.0505 30.2929 24.8789 29.1213L9.87891 14.1213L14.1215 9.87866Z" fill="#7D4533"/>
+          <path d="M12.4272 3.22946C12.534 3.12267 12.6833 3.06987 12.8335 3.0858L16.0299 3.425C16.4479 3.46936 16.6279 3.97849 16.3307 4.27576L13.6065 6.99988C13.6065 6.99988 13.1796 7.51941 13.6568 7.99988L15.6065 9.94963C15.8018 10.1449 15.8018 10.4615 15.6065 10.6567L10.6568 15.6065C10.4615 15.8017 10.1449 15.8017 9.94967 15.6065L9.65968 15.3165L6.49988 14.4999L5.53067 11.1875L5.35348 11.0103C5.15822 10.815 5.15822 10.4984 5.35348 10.3032L12.4272 3.22946Z" fill="#B4ACBC"/>
+          <path d="M2.17674 12.2981C2.07911 12.2005 2.07911 12.0422 2.17674 11.9446L2.82021 11.3011C3.60126 10.5201 4.86758 10.5201 5.64863 11.3011L9.53772 15.1902C10.3188 15.9713 10.3188 17.2376 9.53772 18.0186L8.89425 18.6621C8.79662 18.7597 8.63833 18.7597 8.5407 18.6621L2.17674 12.2981Z" fill="#CDC4D6"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_4_HEAD_FRAME" x="1320" y="354.7617459611073" width="280" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="1280" y="404.7617459611073" width="320" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_TEXT_BG" x="1262" y="340.7617459611073" width="356" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-4)" stroke-width="2"/>
+    <text id="ITEM_4_HEAD" x="1600.0" y="354.7617459611073" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-6)" text-anchor="end" data-bg-id="ITEM_4_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1600.0" dy="28.25px">Bent Blades</tspan>
+    </text>
+    <text id="ITEM_4_BODY" x="1600.0" y="404.7617459611073" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="end" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1600.0" dy="26.86px">Deliberately damaged</tspan>
+      <tspan x="1600.0" dy="29.90px">swords indicate ritual</tspan>
+      <tspan x="1600.0" dy="29.90px">'killing' of weapons</tspan>
+    </text>
+    <!-- Geometry for Node 5 -->
+    <path id="ITEM_5_CONN" d="M 1300.2082539697371 733.8377427371552 L 1400.2082539697371 733.8377427371552 L 1620 765.2382540388927" fill="transparent" stroke="var(--accent-7)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_5_DOT" cx="1300.2082539697371" cy="733.8377427371552" r="8" fill="var(--background)" stroke="var(--accent-5)" stroke-width="3"/>
+    <g transform="translate(1620, 765.2382540388927)">
+      <circle id="ITEM_5_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-5)" stroke-width="3"/>
+      <circle id="ITEM_5_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-7)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_5_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_5_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-7)" fill-opacity="0.22"/>
+      <g id="ITEM_5_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-10.65714285714286,-10.657142857142858) scale(2.2285714285714286)">
+          <path d="M4 11H3V14.7294C2.62984 15.0537 2.34087 15.4691 2.17 15.94C2.165 15.95 2.1625 15.96 2.16 15.97C2.15749 15.98 2.15499 15.99 2.14999 16C2.07999 16.2 2.04 16.41 2.02 16.63L2.01999 16.6301C2.01 16.7301 2 16.83 2 16.93V29H30V16.93C30 16.78 29.99 16.63 29.96 16.49C29.94 16.32 29.9 16.15 29.85 16C29.845 15.99 29.8425 15.98 29.84 15.97C29.8375 15.96 29.835 15.95 29.83 15.94C29.42 14.81 28.34 14 27.07 14H27V11H26V14H23V11H22V14H20V12H19V14H13V12H12V14H8V11H7V14H4.92999C4.60585 14 4.29296 14.0536 4 14.1525V11Z" fill="#9B9B9B"/>
+          <path d="M11.959 12H20.041C20.5704 12 21 11.57 21 11.04V6.96C21 6.43 20.5704 6 20.041 6H11.959C11.4296 6 11 6.43 11 6.96V11.04C11 11.57 11.4296 12 11.959 12ZM13 22.9933C13 21.337 14.34 20 16 20C17.66 20 19 21.337 19 22.9933V29H13V22.9933ZM4 24.9915C4 23.3362 5.34 22 7 22C8.65 22 10 23.3462 10 24.9915V29H4V24.9915ZM25 22C23.34 22 22 23.3381 22 24.9957V29H28V24.9957C28 23.3481 26.65 22 25 22Z" fill="#212121"/>
+          <path d="M30 16.94V17.01H2V16.94C2 16.84 2.01 16.74 2.02 16.64C2.04 16.42 2.07999 16.21 2.14999 16.01H29.85C29.9 16.16 29.94 16.33 29.96 16.5C29.99 16.64 30 16.79 30 16.94Z" fill="#F8312F"/>
+          <path d="M5.96997 3.52002C5.96997 3.79616 5.74611 4.02002 5.46997 4.02002C5.19383 4.02002 4.96997 3.79616 4.96997 3.52002C4.96997 3.24388 5.19383 3.02002 5.46997 3.02002C5.74611 3.02002 5.96997 3.24388 5.96997 3.52002ZM19.5051 8H18.495C18.2222 8 18 7.77551 18 7.5C18 7.22449 18.2222 7 18.495 7H19.5051C19.7778 7 20 7.22449 20 7.5C20 7.77551 19.7778 8 19.5051 8ZM3 10.4132V11.5551C3 11.8756 3.39933 12.086 3.76871 11.9658L5.71547 11.3447C6.09484 11.2245 6.09484 10.7938 5.71547 10.6736L3.70881 10.0225C3.36938 9.9324 3 10.1227 3 10.4132ZM7 10.4132V11.5551C7 11.8756 7.39934 12.086 7.76872 11.9658L9.71547 11.3447C10.0948 11.2245 10.0948 10.7938 9.71547 10.6736L7.70881 10.0225C7.36938 9.9324 7 10.1227 7 10.4132ZM22 11.5511V10.4067C22 10.113 22.3694 9.92062 22.7088 10.032L24.7155 10.6801C25.0948 10.8017 25.0948 11.227 24.7155 11.3485L22.7687 11.9663C22.3993 12.0878 22 11.865 22 11.5511ZM26 10.4117V11.5547C26 11.8755 26.3993 12.086 26.7687 11.9657L28.7155 11.3541C29.0948 11.2338 29.0948 10.8127 28.7155 10.6824L26.7088 10.0307C26.3694 9.92043 26 10.121 26 10.4117ZM19 10.5C19 10.7755 19.2245 11 19.5 11C19.7755 11 20 10.7755 20 10.5C20 10.2245 19.7755 10 19.5 10C19.2245 10 19 10.2245 19 10.5ZM23.49 9.02002C23.7661 9.02002 23.99 8.79616 23.99 8.52002C23.99 8.24388 23.7661 8.02002 23.49 8.02002C23.2138 8.02002 22.99 8.24388 22.99 8.52002C22.99 8.79616 23.2138 9.02002 23.49 9.02002ZM27.9399 3.53003C27.9399 3.80617 27.7161 4.03003 27.4399 4.03003C27.1638 4.03003 26.9399 3.80617 26.9399 3.53003C26.9399 3.25389 27.1638 3.03003 27.4399 3.03003C27.7161 3.03003 27.9399 3.25389 27.9399 3.53003Z" fill="#F8312F"/>
+          <path d="M11.47 5.02002C11.7461 5.02002 11.97 4.79616 11.97 4.52002C11.97 4.24388 11.7461 4.02002 11.47 4.02002C11.1938 4.02002 10.97 4.24388 10.97 4.52002C10.97 4.79616 11.1938 5.02002 11.47 5.02002ZM5.80997 8.83C5.60997 9.03 5.28997 9.03 5.08997 8.83L4.12998 7.87C3.92998 7.67 3.92998 7.35 4.12998 7.15C4.32998 6.95 4.64998 6.95 4.84998 7.15L5.80997 8.11C6.00997 8.31 6.00997 8.63 5.80997 8.83ZM22.07 5.87004C22.27 6.07004 22.59 6.07004 22.79 5.87004C22.99 5.67004 22.99 5.35004 22.79 5.15004L21.83 4.19004C21.63 3.99004 21.31 3.99004 21.11 4.19004C20.91 4.39004 20.91 4.71004 21.11 4.91004L22.07 5.87004Z" fill="#8D65C5"/>
+          <path d="M8.88001 4.83C8.68001 5.03 8.36001 5.03 8.16001 4.83C7.96001 4.63 7.96001 4.31 8.16001 4.11L9.12 3.15C9.32 2.95 9.64 2.95 9.84 3.15C10.04 3.35 10.04 3.67 9.84 3.87L8.88001 4.83ZM12 7.5C12 7.77551 12.2244 8 12.4998 8C12.7753 8 13.0099 7.77551 12.9997 7.5C12.9997 7.22449 12.7753 7 12.4998 7C12.2244 7 12 7.22449 12 7.5ZM12.4242 11H13.5755C13.8178 11 14.0097 10.8081 13.9996 10.5758V9.42424C13.9996 9.19192 13.8077 9 13.5755 9H12.4242C12.1919 9 12 9.19192 12 9.42424V10.5758C12 10.8081 12.1919 11 12.4242 11ZM28.47 9C28.7461 9 28.97 8.77614 28.97 8.5C28.97 8.22386 28.7461 8 28.47 8C28.1938 8 27.97 8.22386 27.97 8.5C27.97 8.77614 28.1938 9 28.47 9Z" fill="#FFB02E"/>
+          <path d="M25.8099 7.83C25.6099 8.03 25.2899 8.03 25.0899 7.83C24.8999 7.63 24.8999 7.31 25.0899 7.11L26.05 6.15C26.25 5.95 26.57 5.95 26.77 6.15C26.97 6.35 26.97 6.67 26.77 6.87L25.8099 7.83ZM15 7.5C15 7.77551 15.2244 8 15.4998 8C15.7855 8 16.0099 7.77551 15.9997 7.5C15.9997 7.22449 15.7753 7 15.4998 7C15.2244 7 15 7.22449 15 7.5ZM15.4242 11H16.5755C16.8178 11 17.0097 10.811 16.9996 10.5821V9.4479C16.9996 9.21906 16.8077 9.03003 16.5755 9.03003H15.4242C15.1919 9.03003 15 9.21906 15 9.4479V10.5821C15 10.811 15.1919 11 15.4242 11ZM7.48999 8.02002C7.76613 8.02002 7.98999 7.79616 7.98999 7.52002C7.98999 7.24388 7.76613 7.02002 7.48999 7.02002C7.21385 7.02002 6.98999 7.24388 6.98999 7.52002C6.98999 7.79616 7.21385 8.02002 7.48999 8.02002Z" fill="#00D26A"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_5_HEAD_FRAME" x="1320" y="705.2382540388927" width="280" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_BODY_FRAME" x="1280" y="755.2382540388927" width="320" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_TEXT_BG" x="1262" y="691.2382540388927" width="356" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-5)" stroke-width="2"/>
+    <text id="ITEM_5_HEAD" x="1600.0" y="705.2382540388927" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-7)" text-anchor="end" data-bg-id="ITEM_5_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1600.0" dy="28.25px">Repeated Offerings</tspan>
+    </text>
+    <text id="ITEM_5_BODY" x="1600.0" y="755.2382540388927" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="end" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1600.0" dy="20.88px">Multiple deposits show</tspan>
+      <tspan x="1600.0" dy="29.90px">continuous ritual</tspan>
+      <tspan x="1600.0" dy="29.90px">activity over many</tspan>
+      <tspan x="1600.0" dy="29.90px">generations</tspan>
+    </text>
+  </g>
+</svg>

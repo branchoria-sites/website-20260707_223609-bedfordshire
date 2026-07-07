@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="light">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svgec0bff4a-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="svgec0bff4a-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svgec0bff4a-arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="var(--accent-1)"/>
+    </marker>
+    <filter id="svgec0bff4a-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <radialGradient id="svgec0bff4a-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svgec0bff4a-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svgec0bff4a-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svgec0bff4a-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svgec0bff4a-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-weight="700" font-size="72" fill="#0f172a" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Regional Spectral Dog Variations</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
+  <g id="DIAGRAM_SCALER" transform="translate(28.8, 27.0) scale(0.97)">
+    <path d="M 960 360 L 960 450" stroke="var(--muted-text)" stroke-width="3.0" fill="none" opacity="0.52"/>
+    <path d="M 210.0 450 L 1710.0 450" stroke="var(--muted-text)" stroke-width="3.0" fill="none" opacity="0.52"/>
+    <path d="M 210.0 450 L 210.0 570" stroke="var(--muted-text)" stroke-width="3.0" fill="none" opacity="0.52"/>
+    <path d="M 693.3 450 L 693.3 570" stroke="var(--muted-text)" stroke-width="3.0" fill="none" opacity="0.52"/>
+    <path d="M 1226.7 450 L 1226.7 570" stroke="var(--muted-text)" stroke-width="3.0" fill="none" opacity="0.52"/>
+    <path d="M 1710.0 450 L 1710.0 570" stroke="var(--muted-text)" stroke-width="3.0" fill="none" opacity="0.52"/>
+    <g transform="translate(960.0, 270.0)">
+      <rect id="ITEM_1_BG" x="-210" y="-90" width="420" height="180" rx="24" fill="var(--panel)" fill-opacity="0.86" stroke="var(--primary-text)" stroke-width="2.6"/>
+      <circle id="ITEM_1_PAD" cx="0" cy="40" r="42" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_1_PAD_INNER" cx="0" cy="40" r="32.76" fill="var(--accent-5)" fill-opacity="0.22"/>
+      <circle cx="0" cy="40" r="33.6" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_1_ICON" transform="translate(-36.0, 4.0)" data-icon-size="72">
+        <g transform="translate(-2.74576271186441,-3.050847457627119) scale(0.15254237288135594)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="m139.54 20.12l19.276 96.028c-12.818 11.406-22.692 26.194-29.42 43.24l-78.79-8.638l64.453 63.37c-2.586 23.357.03 49.043 8.258 74.657l-42.033 54.215l68.018-1.02c15.12 22.18 33.708 39.877 53.62 51.962l10.68 90.296l40.932-68.666c17.495 4.93 35.126 5.94 51.883 2.508l63.63 73.657l-19.257-95.92c12.855-11.425 22.75-26.248 29.487-43.34l78.702 8.628l-68.175-67.03c.046-20.525-3.275-42.147-10.17-63.734l47.664-61.48l-77.165 1.158c-12.764-18.617-27.715-34.38-43.844-46.768l-11.306-95.627l-40.964 68.72c-17.463-4.908-35.06-5.91-51.786-2.485zm101.798 93.45c44.422-.03 92.8 34.067 119.69 89.082c33.42 68.38 21.35 143.925-26.5 171.895c26.868-38.838 28.765-101.318.618-158.906c-28.146-57.587-78.34-93.93-125.113-95.814c9.96-4.224 20.515-6.248 31.305-6.256zm-30.983 26.98c41.018-.062 85.61 31.394 110.477 82.274c31.83 65.127 19.096 137.01-28.506 160.9c-.988.494-1.986.956-2.988 1.403c-43.015-2.403-88.815-35.974-114.7-88.938c-25.887-52.963-24.482-110.224-.3-146.35a75 75 0 0 1 2.916-1.56c10.413-5.224 21.617-7.712 33.1-7.73z" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+      <text id="ITEM_1_HEAD" x="0.0" y="-80.0" text-anchor="middle" font-weight="bold" font-size="36" fill="var(--primary-text)" data-bg-id="ITEM_1_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="34.80px">Whittlebury Hounds</tspan>
+      </text>
+      <rect id="ITEM_1_HEAD_FRAME" x="-180" y="-80" width="360" height="45" fill="none"/>
+    </g>
+    <g transform="translate(210.0, 720)">
+      <rect id="ITEM_2_BG" x="-180.0" y="-150" width="360" height="390" rx="24" fill="var(--accent-6)" fill-opacity="1.0" stroke="var(--accent-1)" stroke-width="2.6"/>
+      <text id="ITEM_2_HEAD" x="0.0" y="8.0" text-anchor="middle" font-weight="bold" font-size="30" fill="var(--inverse-text)" data-bg-id="ITEM_2_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="49.55px">Black Shuck</tspan>
+      </text>
+      <rect id="ITEM_2_HEAD_FRAME" x="-150.0" y="8" width="300" height="70" fill="none"/>
+      <text id="ITEM_2_BODY" x="0.0" y="82.0" text-anchor="middle" font-size="23" fill="var(--inverse-text)" opacity="0.94" data-bg-id="ITEM_2_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="0.0" dy="34.33px">Famous spectral dog from East</tspan>
+        <tspan x="0.0" dy="29.90px">Anglian folklore</tspan>
+      </text>
+      <rect id="ITEM_2_BODY_FRAME" x="-174" y="82" width="348" height="108" fill="none"/>
+      <circle id="ITEM_2_PAD" cx="0" cy="-45.0" r="62" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
+      <circle id="ITEM_2_PAD_INNER" cx="0" cy="-45.0" r="48.36" fill="var(--accent-6)" fill-opacity="0.22"/>
+      <circle cx="0" cy="-45.0" r="49.6" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_2_ICON" transform="translate(-48.0, -93.0)" data-icon-size="96" stroke-dasharray="6 4">
+        <g transform="translate(-5.362758620689655,-28.708965517241378) scale(0.20844827586206896)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="M25 265v71.11c7.526-4.42 17.73-10.278 30-16.98V265zm432 0v54.205a1117 1117 0 0 1 30 16.93V265zm-201.49.28c-39.653.03-99.394 23.28-148.06 46.976c-44.553 21.694-76.747 41.37-82.45 44.88V471h110.387c1.88-32.24 13.54-69.11 32.552-99.74c20.797-33.505 51.085-60.252 88.058-60.26c36.985-.008 67.298 26.736 88.12 60.244c19.038 30.635 30.72 67.51 32.603 99.756H487V357.145c-5.72-3.51-38.067-23.218-82.82-44.93c-48.875-23.713-108.863-46.962-148.67-46.934z" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(693.3, 720)">
+      <rect id="ITEM_3_BG" x="-180.0" y="-150" width="360" height="390" rx="24" fill="var(--accent-7)" fill-opacity="1.0" stroke="var(--accent-2)" stroke-width="2.6"/>
+      <text id="ITEM_3_HEAD" x="0.0" y="8.0" text-anchor="middle" font-weight="bold" font-size="30" fill="var(--inverse-text)" data-bg-id="ITEM_3_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="49.55px">Yorkshire Barghest</tspan>
+      </text>
+      <rect id="ITEM_3_HEAD_FRAME" x="-150.0" y="8" width="300" height="70" fill="none"/>
+      <text id="ITEM_3_BODY" x="0.0" y="82.0" text-anchor="middle" font-size="23" fill="var(--inverse-text)" opacity="0.94" data-bg-id="ITEM_3_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="0.0" dy="28.35px">Large spectral hound</tspan>
+        <tspan x="0.0" dy="29.90px">associated with</tspan>
+        <tspan x="0.0" dy="29.90px">northern regions</tspan>
+      </text>
+      <rect id="ITEM_3_BODY_FRAME" x="-174" y="82" width="348" height="108" fill="none"/>
+      <circle id="ITEM_3_PAD" cx="0" cy="-45.0" r="62" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
+      <circle id="ITEM_3_PAD_INNER" cx="0" cy="-45.0" r="48.36" fill="var(--accent-7)" fill-opacity="0.22"/>
+      <circle cx="0" cy="-45.0" r="49.6" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_3_ICON" transform="translate(-48.0, -93.0)" data-icon-size="96" stroke-dasharray="6 4">
+        <g transform="translate(-3.583999999999999,-3.986999999999993) scale(0.20149999999999998)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="m18.08 23l.1 18H494V23zM254.3 54.93L133 61.6l30.1 68.5l98.1-3.6zm115.9.28l-92.9.53l3 71.96l96.8-.9zM18.23 56.43l.35 74.67l72.27-2.4l24.35-72.27zM393 64.24l-.5 47.16l15.7 21.5l85.8-6.3V64.93zM120.8 84.68l-17.6 49.82l41.1-1l-8.2-34.02zm354.7 56.02l-4 75.5l22.5-.6v-74.9zm-25.7 3.5l-97.3 10.7L346 219l110.7-3.2zm-243.8.7l-4 75.5l126.1-3.9l7-71.1zm-145.33 2.7l-3.9 75.5l126.13-3.9l-6.9-71.6zm-42 1.5l.33 72.4l24.77-.8l-6.9-71.6zm278.93 84.3L276 277.2l2.1 42l128.7-1.9l-7.6-79.7zm-40.2 1.4l-127.2 6l8 69.5l124.7 6.6zm236.6 3.1l-66.5 2.9l-7.5 75.8l74-5.2zm-474.89 7l.31 65.8l100.78-3.1l-6.9-62.7zm470.29 81.2l-115.9 10.5l-3.3 65l121.5-3.5zm-422.36 4.1l-47.52 2l.34 72.9l51.1-1.3zm17.84 0l3.98 68.5l138.64 9.6l-3-78.1zm161.22 4.3l-5.5 69l107.5 5.4l-1-73.5zm185.4 81.1l-4 75.5l66.5-.6v-73.8zm-9.8 1.2l-39 3.6l27.4 28zm-399.46 1.8l-2.13 40.6l.16 34.8H145.4v-68.9l-46.56-2.5l-18.4 14L68.56 421zm247.96.3l-111.3 1.5l3.5 72.5l114.7-2.4zm101.2 4.3l-72.2 5.9l-8.9 62.1l125.6.6l-6.2-27z" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1226.7, 720)">
+      <rect id="ITEM_4_BG" x="-180.0" y="-150" width="360" height="390" rx="24" fill="var(--accent-8)" fill-opacity="1.0" stroke="var(--accent-3)" stroke-width="2.6"/>
+      <text id="ITEM_4_HEAD" x="0.0" y="8.0" text-anchor="middle" font-weight="bold" font-size="30" fill="var(--primary-text)" data-bg-id="ITEM_4_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="49.55px">Devon Wisht Hounds</tspan>
+      </text>
+      <rect id="ITEM_4_HEAD_FRAME" x="-150.0" y="8" width="300" height="70" fill="none"/>
+      <text id="ITEM_4_BODY" x="0.0" y="82.0" text-anchor="middle" font-size="23" fill="var(--primary-text)" opacity="0.94" data-bg-id="ITEM_4_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="0.0" dy="28.35px">Spectral hounds linked to</tspan>
+        <tspan x="0.0" dy="29.90px">southwestern regional</tspan>
+        <tspan x="0.0" dy="29.90px">traditions</tspan>
+      </text>
+      <rect id="ITEM_4_BODY_FRAME" x="-174" y="82" width="348" height="108" fill="none"/>
+      <circle id="ITEM_4_PAD" cx="0" cy="-45.0" r="62" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
+      <circle id="ITEM_4_PAD_INNER" cx="0" cy="-45.0" r="48.36" fill="var(--accent-8)" fill-opacity="0.22"/>
+      <circle cx="0" cy="-45.0" r="49.6" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_4_ICON" transform="translate(-48.0, -93.0)" data-icon-size="96" stroke-dasharray="6 4">
+        <g transform="translate(-9.315555555555555,-9.315555555555555) scale(4.776296296296296)" vector-effect="non-scaling-stroke" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path d="M9 21l6.324 -11.69c.54 -.974 1.756 -4.104 -1.499 -5.762c-3.255 -1.657 -5.175 .863 -5.825 2.032" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1710.0, 720)">
+      <rect id="ITEM_5_BG" x="-180.0" y="-150" width="360" height="390" rx="24" fill="var(--accent-9)" fill-opacity="1.0" stroke="var(--accent-4)" stroke-width="2.6"/>
+      <text id="ITEM_5_HEAD" x="0.0" y="8.0" text-anchor="middle" font-weight="bold" font-size="30" fill="var(--primary-text)" data-bg-id="ITEM_5_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="49.55px">Gabriel Hounds</tspan>
+      </text>
+      <rect id="ITEM_5_HEAD_FRAME" x="-150.0" y="8" width="300" height="70" fill="none"/>
+      <text id="ITEM_5_BODY" x="0.0" y="82.0" text-anchor="middle" font-size="23" fill="var(--primary-text)" opacity="0.94" data-bg-id="ITEM_5_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="0.0" dy="34.33px">Northern hounds associated</tspan>
+        <tspan x="0.0" dy="29.90px">with the Wild Hunt motif</tspan>
+      </text>
+      <rect id="ITEM_5_BODY_FRAME" x="-174" y="82" width="348" height="108" fill="none"/>
+      <circle id="ITEM_5_PAD" cx="0" cy="-45.0" r="62" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
+      <circle id="ITEM_5_PAD_INNER" cx="0" cy="-45.0" r="48.36" fill="var(--accent-9)" fill-opacity="0.22"/>
+      <circle cx="0" cy="-45.0" r="49.6" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_5_ICON" transform="translate(-48.0, -93.0)" data-icon-size="96" stroke-dasharray="6 4">
+        <g transform="translate(-5.362758620689652,-5.362758620689655) scale(0.20844827586206896)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="M441.65 24.393a9 9 0 0 0-1.452.08c-4.125.547-9.426 3.87-11.367 11.46c-5.247 20.526-12.76 40.182-17.077 50.79c.086.108.178.21.264.318c6.13 7.756 11.292 17.36 15.593 27.788c.75 1.816 1.46 3.66 2.157 5.518c5.272-.53 10.743-1.793 16.45-3.975c5.046-13.438 7.054-23.478 7.08-35.225c.025-12.816-2.37-28.172-6.112-51.424c-.447-2.777-1.324-3.7-2.34-4.394c-.763-.52-1.835-.894-3.194-.933zM56.648 30.627c-4.033.01-7.61.662-9.5 1.457c-.97.408-1.215.48-1.326.486c-.508 14.077 3.406 30.818 10.277 44.497c6.895 13.727 16.732 23.946 25.94 27.115c21.892 7.53 54.657 9.57 90.7-15.656c-18.006-6.55-32.917-9.786-46.672-14.436c-17.293-5.846-32.997-15.124-46.416-35.773c-1.404-2.16-11.79-7.233-21.25-7.653a38 38 0 0 0-1.753-.037M286.503 86.06q-6.796.005-13.514.065c-24.478.218-48.16.99-71.243 2.25l-5.096 4.39a170 170 0 0 1-8.145 6.59c68.666 4.997 135.053 6.64 210.28.03c-.297-.395-.593-.807-.89-1.182c-4.478-5.666-8.872-8.65-11.84-9.428c-34.768-1.863-67.832-2.738-99.552-2.714zm-123.61 29.007c-9.457 4.496-18.745 7.532-27.705 9.42c6.326 8.607 13.46 17.135 21.297 24.94c20.7 20.617 45.453 35.555 71.22 35.358L422.29 169.97c-.812-14.37-4.874-32.65-11.32-48.277a136 136 0 0 0-2.258-5.142c-88.857 8.45-165.386 5.506-245.848-1.128l.03-.355zm-84.03 7.015l-24.727.656c-.194.28-.545.824-1.055 2.14c-1.08 2.79-2.008 7.784-2.23 13.94c-.443 12.314 1.66 29.28 6.026 46.006c4.367 16.728 11.03 33.32 18.975 45.23c7.814 11.716 16.262 18.076 24.17 18.694l10.555-.96l-3.46-32.505c-14.402-1.814-26.805-12.138-26.805-26.59c0-15.955 15.114-26.88 31.347-26.88c16.234 0 31.348 10.925 31.348 26.88c0 11.39-7.71 20.214-18.027 24.33l3.525 33.135l94.957-8.633c-20.206-3.435-38.645-21.4-48.62-50.564c-11.286-6.858-21.688-15.45-31.056-24.778c-11.12-11.074-20.865-23.257-29.04-35.244c-13.365.387-25.55-1.62-35.882-4.856zm372.52 11.656a81 81 0 0 1-16.054 4.024c3.787 14.243 5.774 28.595 5.237 40.92l-.347 7.976l-31.387 2.39a477 477 0 0 1 6.043 31.077l32.873-2.988c18.517-18.74 21.183-37.714 16.378-56.412c-2.415-9.398-6.998-18.61-12.746-26.987zm-339.726 46.075c-8.45 0-13.347 5.084-13.347 8.88c0 3.793 4.896 8.875 13.347 8.875s13.348-5.082 13.348-8.876c0-3.795-4.896-8.88-13.348-8.88zm278.887 10.627l-95.22 7.25c26.347 58.248 31.033 115.17 23.38 170.486c22.613 2.476 44.69 3.89 60.373.932c8.888-1.678 15.438-4.64 19.492-8.598s6.427-8.995 6.376-18.035c-.278-49.916-2.173-100.274-14.402-152.035zm-190.56 8.082c8.255 13.282 18.5 20.036 26.857 21.33c6.08.94 11.3-.463 16.108-4.647c3.426-2.98 6.64-7.613 8.975-14.21l-23.6 1.796l-.297.003c-9.715.095-19.078-1.46-28.04-4.27zm76.203.625l-5.112.388c-2.987 12.56-8.576 22.517-16.31 29.248a37.8 37.8 0 0 1-11.782 6.97l46.49-4.228c-3.662-10.72-8.076-21.508-13.286-32.378M130.66 264.04l-17.927 1.628c4.787 61.848 3.29 124.66-6.496 188.85l17.793 2.713c10.02-65.73 11.533-130.037 6.63-193.19zm271.593 116.155l-10.367 3.98c-15.544 5.968-36.597 5.06-52.77 3.743l-12.793-1.043l3.38 12.383l8.24 30.184c-3.815 8.488-6.973 15.055-8.16 22.76c-1.275 8.288.454 16.908 4.99 27.24c1.728 3.937 4.332 4.995 6.076 5.748c1.742.752 3.262 1.103 4.89 1.404c3.253.6 6.896.86 11.095.967c8.397.216 18.84-.275 29.324-1.31c10.482-1.035 20.903-2.592 29.34-4.723c4.22-1.065 7.92-2.224 11.247-3.87c3.33-1.644 7.684-3.568 8.9-10.155c2.61-14.132-6.05-25.697-13.43-34.572c-5.61-6.748-11.366-12.007-13.825-14.16l-6.14-38.575zM387.83 404.11l1.8 11.306l-35.613 4.56l-3.614-13.24c11.506.588 24.607.396 37.428-2.627zm10.566 29.925a99.4 99.4 0 0 1 9.982 10.4c5.098 6.133 8.577 13.233 9.316 17.446c-1.512.652-3.593 1.435-6.6 2.194c-6.995 1.766-16.85 3.29-26.704 4.264c-9.855.973-19.81 1.416-27.092 1.23c-3.22-.084-5.614-.338-7.33-.597c-2.53-6.463-2.982-10.203-2.393-14.03c.553-3.59 2.7-8.704 5.653-15.42l45.168-5.485z" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

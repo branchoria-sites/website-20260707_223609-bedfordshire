@@ -1,0 +1,927 @@
+---
+level: 2
+basename: Peeblesshire_4beb86_cheese_well_fairies_028c79
+parent_basename: Peeblesshire_4beb86
+child_basenames: []
+sibling_basenames:
+- Peeblesshire_4beb86_merlins_grave_drumel_2ad529
+- Peeblesshire_4beb86_saints_wells_witches_3c1493
+tags:
+- peeblesshire
+- cheese-well
+keywords:
+- peeblesshire
+- cheese-well
+affiliate_category: peeblesshire
+show_ads: true
+description: The Cheese Well turns a lonely hill spring into a vivid story of fairy courtesy, old travel routes and small protective offerings.
+hero_summary: The Cheese Well turns a lonely hill spring into a vivid story of fairy courtesy, old travel routes and small protective offerings.
+layout: default
+permalink: /cheese-well/
+sidebar_expanded_urls:
+- /where-peeblesshires-legends-still/
+nav_short_title: Cheese Well
+title: Why Travellers Left Cheese for Fairies
+title_full: Why Travellers Left Cheese for Fairies
+display_title_short: Cheese Well
+display_title: Cheese Well
+heading_title: Why Travellers Left Cheese for Fairies
+page_heading_title: Why Travellers Left Cheese for Fairies
+source_count: 79
+infographic_count: 3
+planned_sections:
+- The well on the Minch Moor road
+- Cheese as a fairy offering
+- Hill passes, thresholds and traveller belief
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-07 15:44:23'
+parent_title: Peeblesshire Folklore
+parent_permalink: /where-peeblesshires-legends-still/
+parent_nav_short_title: Peeblesshire Folklore
+parent_heading_title: Where Peeblesshire's Legends Still Touch the Map
+ancestor_links:
+- basename: Peeblesshire_4beb86
+  title: Peeblesshire Folklore
+  permalink: /where-peeblesshires-legends-still/
+  short_title: Peeblesshire Folklore
+breadcrumb_links:
+- basename: Peeblesshire_4beb86
+  title: Peeblesshire Folklore
+  permalink: /where-peeblesshires-legends-still/
+  short_title: Peeblesshire Folklore
+sibling_links:
+- basename: Peeblesshire_4beb86_merlins_grave_drumel_2ad529
+  title: Merlin s Grave | Where Peeblesshire's Legends Still Touch the...
+  permalink: /merlin-s-grave/
+  short_title: Merlin s Grave
+  heading_title: Was Merlin Buried Beside the Tweed?
+- basename: Peeblesshire_4beb86_saints_wells_witches_3c1493
+  title: Saints & Witches | Where Peeblesshire's Legends Still Touch the...
+  permalink: /saints-witches/
+  short_title: Saints & Witches
+  heading_title: Holy Wells, Devils and Witch Trials
+up_link:
+  basename: Peeblesshire_4beb86
+  title: Peeblesshire Folklore
+  permalink: /where-peeblesshires-legends-still/
+  short_title: Peeblesshire Folklore
+next_link:
+  basename: Peeblesshire_4beb86_merlins_grave_drumel_2ad529
+  title: Merlin s Grave | Where Peeblesshire's Legends Still Touch the...
+  permalink: /merlin-s-grave/
+  short_title: Merlin s Grave
+  heading_title: Was Merlin Buried Beside the Tweed?
+header:
+  og_image: /assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-overview-social.jpg
+  preview_image: /assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-overview.webp
+image: /assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-overview-social.jpg
+---
+
+## Introduction
+
+The Cheese Well on Minch Moor is one of [Peeblesshire]({{ 'where-peeblesshires-legends-still/' | relative_url }})’s most memorable fairy places because the custom is so simple: travellers crossing the lonely hill road were expected to leave a small piece of cheese at the spring as an offering to the fairies. The belief was not just decorative. It treated the well as a threshold on a hard upland route, where courtesy to unseen powers helped secure safe passage for people and animals. The tradition is recorded in nineteenth-century folklore collections and is still echoed by walkers today, though modern offerings are more often coins than food.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Notes_on_the_folk-lore_of_the_northern_counties_of_England_and_the_borders/Chapter_6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 6</span><span class="citation-popover-snippet">Chapter 6</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-overview.webp" | relative_url }}" alt="Overview image for Cheese Well" loading="eager" decoding="sync" fetchpriority="high">
+
+The well lies on the old Minchmoor Track above Traquair, in historic Peeblesshire, now within the Scottish Borders council area. That matters because this is not a vague “Scottish fairy” tale placed anywhere: it belongs to Tweeddale’s hill-road culture, where springs, passes, drove roads and moorland crossings carried practical and supernatural meaning at the same time. Peeblesshire itself is also known as Tweeddale, the compact upper Tweed county of hills, dales and small towns such as Peebles and Innerleithen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+
+## The well on the Minch Moor road
+
+The Cheese Well is a natural spring on the Minchmoor Track, reached from Traquair by following the old route uphill towards the north shoulder of Minch Moor. ScotWays, the Scottish Rights of Way and Access Society, gives the route from Traquair crossroads past the village hall and up the old drove road to the Cheese Well at grid reference NT357355, before continuing over Hare Law and towards the Selkirkshire side.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scotways.com/heritage-path/HP236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotways.com">[Scotways]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotways.com</span><span class="citation-popover-snippet">Open source on scotways.com.</span></span></span>
+
+This is the key to understanding the custom. The well was not hidden in a village garden or attached to a churchyard. It stood beside a working upland road. Walkers’ guides still describe it as a long-used water source for travellers on the old drove route, and the modern Minch Moor circuit passes it on the Southern Upland Way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walkhighlands.co.uk/borders/minch-moor.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walkhighlands.co.uk">[walkhighlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walkhighlands.co.uk</span><span class="citation-popover-snippet">Open source on walkhighlands.co.uk.</span></span></span>
+
+The wider Minchmoor Track has a deeper reputation than a modern leisure path. ScotWays notes that it is thought to be one of Scotland’s oldest paths and a possible pre-Roman route, while also stressing that firm proof for a specifically Pictish road has not been found. That careful distinction is useful: the route is unquestionably old and important, but its most dramatic origin claims should be treated cautiously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scotways.com/heritage-path/HP236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotways.com">[Scotways]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotways.com</span><span class="citation-popover-snippet">Open source on scotways.com.</span></span></span>
+
+Today the old road is layered with modern route names. It forms part of the Southern Upland Way and is also associated with the Cross Borders Drove Road, a promoted trail based on routes used by drovers taking cattle from Scottish trysts southwards towards markets beyond the Border.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandsgreattrails.com/trail/cross-borders-drove-road/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandsgreattrails.com">[Scotland&#x27;s Great Trails]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandsgreattrails.com</span><span class="citation-popover-snippet">Open source on scotlandsgreattrails.com.</span></span></span>
+
+For a folklore reader, that layering is more than a navigation detail. It explains why a spring could become a fairy place. On a high moor road, water, rest, weather, livestock, fatigue and uncertainty all met in one spot. The offering made sense because the journey itself was vulnerable.
+
+
+
+<img src="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-1-dark.svg" | relative_url }}" alt="Cheese Well illustration 1" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Cheese as a fairy offering
+
+The earliest widely accessible literary record of the custom appears in Sir Walter Scott’s *Minstrelsy of the Scottish Border*. In a note on fairy belief, Scott says that on the top of Minchmuir in Peeblesshire there was a spring called the Cheese Well because people passing that way once threw cheese into it as an offering to the fairies, to whom it was consecrated. He frames the act as a ceremony performed to avoid the displeasure of elves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/cache/epub/12882/pg12882-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">pg12882 images</span><span class="citation-popover-snippet">pg12882 images</span></span></span>
+
+William Henderson’s *Notes on the Folk-lore of the Northern Counties of England and the Borders* preserves a closely related version. In his discussion of well offerings, Henderson says that at the Cheese Well on Minchmuir the offering was a piece of cheese flung into the well, though pins were more commonly used at such sites in general. He adds that country girls imagined the well to be in the charge of a fairy or spirit who had to be propitiated by some offering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Notes_on_the_folk-lore_of_the_northern_counties_of_England_and_the_borders/Chapter_6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 6</span><span class="citation-popover-snippet">Chapter 6</span></span></span>
+
+A later notice in *The Antiquary* makes the road setting even plainer. It describes the Cheese Well as lying on one of the higher points of the old drove road from Selkirk to Carlisle, where local tradition required travellers to offer cheese. The point of the offering, in that account, was to propitiate “fairies and warlocks” and make the road safe for both people and beasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/antiquary27slsniala/antiquary27slsniala_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+
+The cheese itself is important. In British and Scottish fairy lore, dairy produce often carries special weight: milk, butter, cream and cheese appear in stories about household luck, cattle protection, fairy theft and reciprocal offerings. At Minch Moor, the gift is not grand or priestly. It is a small travelling food, the sort of thing a person on the road might actually have. That gives the tradition its striking everyday quality.
+
+The custom also differs from many better-known holy well practices. Elsewhere, pins, coins, rags or clothing might be left to seek healing, make a wish or transfer illness. At the Cheese Well, the old emphasis is not primarily cure or wish-making, but safe passage. The offering is a small payment of respect at a risky point in the journey.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/56034/56034-h/56034-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Open source on gutenberg.org.</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y8OLgXtZ2m8" title="I found a Unicorn!! Cheese Well Fairies. Scotland Road Trip, Manchester to Minch Moor." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y8OLgXtZ2m8" target="_blank" rel="noopener noreferrer">I found a Unicorn!! Cheese Well Fairies. Scotland Road Trip, Manchester to Minch Moor.</a></p><p class="youtube-embed-meta">Channel: The Lively Mackay&#x27;s</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y8OLgXtZ2m8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y8OLgXtZ2m8">Open on YouTube</a></p></div></div></div>
+
+## Hill passes, thresholds and traveller belief
+
+Minch Moor helps explain why the Cheese Well tradition feels so local. A moor road is a threshold place: not quite settlement, not quite wilderness; not the start of the journey, but the exposed middle of it. On such roads, folklore often gathers around natural markers that travellers cannot miss: stones, cairns, burns, wells, gaps and summits.
+
+The Cheese Well sits within exactly that kind of landscape. Modern route descriptions still place it after a climb from Traquair and before the route continues over open moorland towards the east. WalkHighlands describes the well as a natural spring that has long served travellers on the old drove route, while ScotWays places it directly on the Minchmoor Track between Traquair and the route onwards towards Selkirkshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walkhighlands.co.uk/borders/minch-moor.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walkhighlands.co.uk">[walkhighlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walkhighlands.co.uk</span><span class="citation-popover-snippet">Open source on walkhighlands.co.uk.</span></span></span>
+
+The droving connection sharpens the meaning of “safe passage”. This was not just a walker hoping for pleasant weather. Drove roads carried cattle, horses, herders and trade. Scotland’s Great Trails describes the Cross Borders Drove Road as based on routes used for hundreds of years by drovers moving cattle from Falkirk and Crieff trysts to markets south of the Border. A fairy offering at a spring on such a route makes practical folk sense: protect the journey, protect the beasts, and avoid offending whatever powers were thought to command the hill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandsgreattrails.com/trail/cross-borders-drove-road/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandsgreattrails.com">[Scotland&#x27;s Great Trails]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandsgreattrails.com</span><span class="citation-popover-snippet">Open source on scotlandsgreattrails.com.</span></span></span>
+
+The old accounts are also revealing because they do not turn the fairies into harmless decoration. Scott’s wording links the act to averting elvish displeasure; Henderson calls it propitiation; *The Antiquary* connects it with safe passage for man and beast. In other words, this is a courtesy custom with an edge. The traveller is not simply thanking the fairies, but acknowledging that the moor is not entirely under human control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/cache/epub/12882/pg12882-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[gutenberg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">pg12882 images</span><span class="citation-popover-snippet">pg12882 images</span></span></span>
+
+That is why the Cheese Well belongs naturally in Peeblesshire folklore. The county’s supernatural traditions often fasten on precise places: Merlin’s reputed grave at Drumelzier, saintly wells, old kirks, hill roads and river landscapes. The Cheese Well is smaller than the Merlin tradition, but it works in the same Peeblesshire way: a story is attached to a named feature, and the landscape becomes legible through belief.
+
+
+
+<img src="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-2-dark.svg" | relative_url }}" alt="Cheese Well illustration 2" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## How old is the tradition?
+
+The safest answer is that the custom is old enough to have been recorded by major nineteenth-century collectors, but not securely datable to the prehistoric or early medieval period. Scott’s *Minstrelsy* preserves the Cheese Well as an “anciently” practised custom, and Henderson later repeats the tradition in a wider study of northern and Border folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/cache/epub/12882/pg12882-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">pg12882 images</span><span class="citation-popover-snippet">pg12882 images</span></span></span>
+
+That does not mean the present spring can be confidently labelled a pagan shrine in the strong archaeological sense. Some modern descriptions speculate in that direction, but the better evidence supports a narrower claim: by the nineteenth century, the Cheese Well was known as a fairy-associated spring where travellers made offerings, and the tradition was remembered as older than the collectors who recorded it.
+
+The place itself may have been known on maps before the nineteenth-century folklore texts. WalkHighlands says the Cheese Well was marked on Timothy Pont’s map of around 1600, which would make the name or site visible in early modern cartographic tradition. The fairy-offering interpretation, however, is clearest in the later folklore sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walkhighlands.co.uk/borders/minch-moor.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walkhighlands.co.uk">[walkhighlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walkhighlands.co.uk</span><span class="citation-popover-snippet">Open source on walkhighlands.co.uk.</span></span></span>
+
+This distinction matters for public folklore. A thinly evidenced old custom does not need to be exaggerated to be interesting. The Cheese Well is valuable precisely because it shows how a very small act — throwing in cheese — survived long enough to be written down, retold, walked past and partly continued.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIqDI3eR8KA" title="Southern Upland Way - (10) Minch Moor to Lauder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIqDI3eR8KA" target="_blank" rel="noopener noreferrer">Southern Upland Way - (10) Minch Moor to Lauder</a></p><p class="youtube-embed-meta">Channel: head for the hills Scotland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIqDI3eR8KA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIqDI3eR8KA">Open on YouTube</a></p></div></div></div>
+
+## What travellers leave today
+
+Modern visitors still recognise the Cheese Well as a place of offerings, although the practice has changed. Contemporary walking and local-interest accounts commonly mention coins or other small tokens rather than actual cheese. Secrets of Scotland describes the spring as still associated with offerings, noting that travellers now often leave coins or small food tokens, while visitor reports on The Modern Antiquarian have recorded many coin offerings at the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://secretsofscotland.com/the-cheese-well-traquair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsofscotland.com">[Secrets of Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsofscotland.com</span><span class="citation-popover-title">Secrets of Scotland The Cheese Well, Traquair &#124; Scottish Borders</span><span class="citation-popover-snippet">Secrets of Scotland The Cheese Well, Traquair &#124; Scottish Borders</span></span></span>
+
+This shift from cheese to coins is typical of how folk practices survive. The original object may become impractical, forgotten or symbolically replaced, but the gesture remains. A coin is easier to carry, more recognisably “offering-like” to modern walkers, and less likely to rot visibly at the spring. Yet it also changes the character of the act. Cheese tied the custom to food, dairy produce and the traveller’s provisions; coins make it resemble a wishing well.
+
+There is also a modern conservation tension. Leaving objects at springs can feel like continuing tradition, but it may introduce litter, metal, plastic or food waste into a fragile upland water source. The older folklore says what people were believed to do; it does not automatically give modern visitors permission to leave harmful material. A respectful retelling can preserve the story without turning the well into a dumping place.
+
+The most thoughtful modern version of the custom may be symbolic: pause, notice the spring, remember the fairy bargain, and pass on with care. In that sense the old offering still does its work. It slows the traveller down and makes the moor feel inhabited by memory.
+
+
+
+<img src="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-3-dark.svg" | relative_url }}" alt="Cheese Well illustration 3" data-theme-src-dark="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peeblesshire_4beb86_cheese_well_fairies_028c79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Why this small custom matters
+
+The Cheese Well is not one of Peeblesshire’s grand legends, but it is one of its clearest mechanisms of belief. It shows how folklore can attach itself to a repeated human action: pass the well, make the offering, continue safely over the hill. The story is not built around a named hero or a dramatic apparition. It is built around a habit.
+
+That habit tells us three things about local belief culture.
+
+First, fairy places were not always remote fantasy kingdoms. They could be practical roadside points, woven into ordinary movement between communities and markets. The Cheese Well made a working route feel morally charged: the traveller had obligations, even in a lonely place.
+
+Second, offerings were a way of negotiating uncertainty. Bad weather, lameness, injury, lost cattle, darkness and exhaustion were real risks on upland roads. Folklore did not remove those risks, but it gave travellers a language for them. To leave cheese was to turn danger into a relationship.
+
+Third, Peeblesshire’s fairy geography is unusually compact and readable. From Traquair and Innerleithen the route climbs into hill country, meets the spring, then continues towards neighbouring Border landscapes. The county boundary may be administrative, but the old road and the belief attached to it show how folklore follows movement, water and terrain rather than neat modern lines.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bvN9SEcBzxE" title="Scotland’s Medieval Road of Minch Moor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bvN9SEcBzxE" target="_blank" rel="noopener noreferrer">Scotland’s Medieval Road of Minch Moor</a></p><p class="youtube-embed-meta">Channel: Robert the Bruce - Genius of Bannockburn</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bvN9SEcBzxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bvN9SEcBzxE">Open on YouTube</a></p></div></div></div>
+
+## A Peeblesshire fairy place in modern retelling
+
+The Cheese Well now lives in several overlapping worlds. It is a point on walking routes, a stop on Minch Moor circuits, a curiosity for fairy-lore readers, and a small heritage feature within the wider Tweed Valley landscape. Walking guides place it on practical routes from Traquair; folklore sites repeat the older accounts of cheese offerings; local-interest pages present it as a hidden Scottish Borders curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walkhighlands.co.uk/borders/minch-moor.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walkhighlands.co.uk">[walkhighlands.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walkhighlands.co.uk</span><span class="citation-popover-snippet">Open source on walkhighlands.co.uk.</span></span></span>
+
+That modern retelling is not necessarily a dilution. Folklore often survives because walkers, residents, writers and route-makers keep giving people a reason to notice the place. What matters is keeping the claim proportionate. The Cheese Well is well attested as a fairy-offering spring in nineteenth-century sources and in later route tradition. It is not proved to be prehistoric, and it should not be inflated into a universal Celtic ritual site.
+
+Its real power is more intimate. A small spring on Minch Moor turns a hard hill crossing into a story about courtesy, caution and exchange. In the wider folklore of Peeblesshire, that makes the Cheese Well a perfect minor landmark: local, memorable, landscape-rooted, and still capable of making modern travellers glance twice at running water beside an old road.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Travellers Left Cheese for Fairies. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fairy-faith in Celtic countries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5776907-M.jpg" alt="Cover for The fairy-faith in Celtic countries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
+</h4>
+<p class="fr-book-author">By W. Y. Evans-Wentz</p>
+        
+<p class="fr-book-desc">First published 1911. Subjects: Celtic Folklore, Celtic Mythology, Celts, Fairies, Folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folklore of the Scottish Highlands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/497767-M.jpg" alt="Cover for Folklore of the Scottish Highlands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
+</h4>
+<p class="fr-book-author">By Anne Ross</p>
+        
+<p class="fr-book-desc">First published 1976. Subjects: Folklore, Folklore, scotland, Scotland, social life and customs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10508941-M.jpg" alt="Cover for A History of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
+</h4>
+<p class="fr-book-author">By Neil Oliver</p>
+        
+<p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Folk-tales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10340795-M.jpg" alt="Cover for Scottish Folk-tales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Folk-tales and Legends">Scottish Folk-tales and Legends</a>
+</h4>
+<p class="fr-book-author">By Barbara Ker Wilson</p>
+        
+<p class="fr-book-desc">First published 1954. Subjects: Tales, Fairy tales, Juvenile fiction, Folklore, Legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folklore of the Scottish Highlands</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Scotland</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Russian folklore vintage fairy tale cool poster"><img src="{{ '/assets/images/marketplace-covers/f1dae62484bff566b4c8.jpg' | relative_url }}" alt="Listing image for Original Russian folklore vintage fairy tale cool poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">Original Russian folklore vintage fairy tale cool poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fairy folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fairy folklore poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Russian folklore vintage fairy tale cool poster"><img src="{{ '/assets/images/marketplace-covers/46ddb117d7b840b9d392.jpg' | relative_url }}" alt="Listing image for Original Russian folklore vintage fairy tale cool poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">Original Russian folklore vintage fairy tale cool poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fairy folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fairy folklore poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Three Bears Vintage Fairy Tale Children Illustration Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/e9939f8292f1599e94a0.jpg' | relative_url }}" alt="Listing image for The Three Bears Vintage Fairy Tale Children Illustration Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">The Three Bears Vintage Fairy Tale Children Illustration Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fairy folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fairy folklore poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage French Loterie Nationale Modern Fairy Tales Poster Pruvost 50&#x27;s"><img src="{{ '/assets/images/marketplace-covers/8896b6e2905bcfe28e3a.jpg' | relative_url }}" alt="Listing image for Original Vintage French Loterie Nationale Modern Fairy Tales Poster Pruvost 50&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage French Loterie Nationale Modern Fairy Tales Poster Pruvost 50&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fairy folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fairy folklore poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fairy+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fairy folklore poster" data-ebay-reference="cheese-well-why-travellers-left-cheese-for-fairies-peeblesshire-fairy-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: en.wikisource.org  
+   Title: Chapter 6  
+   Link:<a href="https://en.wikisource.org/wiki/Notes_on_the_folk-lore_of_the_northern_counties_of_England_and_the_borders/Chapter_6" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Notes_on_the_folk-lore_of_the_northern_counties_of_England_and_the_borders/Chapter_6</a>  
+
+2.<a id="endnote-2"></a>
+   Source: scotways.com  
+   Link:<a href="https://scotways.com/heritage-path/HP236/" target="_blank" rel="noopener noreferrer nofollow">https://scotways.com/heritage-path/HP236/</a>  
+
+3.<a id="endnote-3"></a>
+   Source: gutenberg.org  
+   Title: pg12882 images  
+   Link:<a href="https://www.gutenberg.org/cache/epub/12882/pg12882-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/12882/pg12882-images.html</a>  
+
+4.<a id="endnote-4"></a>
+   Source: archive.org  
+   Link:<a href="https://archive.org/stream/antiquary27slsniala/antiquary27slsniala_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/antiquary27slsniala/antiquary27slsniala_djvu.txt</a>  
+
+5.<a id="endnote-5"></a>
+   Source: gutenberg.org  
+   Link:<a href="https://www.gutenberg.org/files/56034/56034-h/56034-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/56034/56034-h/56034-h.htm</a>  
+
+6.<a id="endnote-6"></a>
+   Source: gutenberg.org  
+   Link:<a href="https://www.gutenberg.org/ebooks/56034.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/56034.txt.utf-8</a>  
+
+7.<a id="endnote-7"></a>
+   Source: scotways.com  
+   Link:<a href="https://scotways.com/pathtype/drove-road/page/22/" target="_blank" rel="noopener noreferrer nofollow">https://scotways.com/pathtype/drove-road/page/22/</a>  
+
+8.<a id="endnote-8"></a>
+   Source: scotways.com  
+   Link:<a href="https://scotways.com/pathtype/medieval-road/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://scotways.com/pathtype/medieval-road/page/5/</a>  
+
+9.<a id="endnote-9"></a>
+   Source: scotways.com  
+   Link:<a href="https://scotways.com/pathtype/rural-path/page/26/" target="_blank" rel="noopener noreferrer nofollow">https://scotways.com/pathtype/rural-path/page/26/</a>  
+
+10.<a id="endnote-10"></a>
+   Source: scotways.com  
+   Link:<a href="https://scotways.com/heritage-path/page/75/" target="_blank" rel="noopener noreferrer nofollow">https://scotways.com/heritage-path/page/75/</a>  
+
+11.<a id="endnote-11"></a>
+   Source: archive.org  
+   Link:<a href="https://archive.org/stream/in.ernet.dli.2015.77103/2015.77103.British-Fairy-Origins_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.77103/2015.77103.British-Fairy-Origins_djvu.txt</a>  
+
+12.<a id="endnote-12"></a>
+   Source: archive.org  
+   Link:<a href="https://archive.org/download/minstrelsyof02scotiala/minstrelsyof02scotiala.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/minstrelsyof02scotiala/minstrelsyof02scotiala.pdf</a>  
+
+13.<a id="endnote-13"></a>
+   Source: archive.org  
+   Link:<a href="https://www.archive.org/stream/contributiontobi02mitcuoft/contributiontobi02mitcuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archive.org/stream/contributiontobi02mitcuoft/contributiontobi02mitcuoft_djvu.txt</a>  
+
+14.<a id="endnote-14"></a>
+   Source: en.wikisource.org  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peeblesshire</a>  
+
+15.<a id="endnote-15"></a>
+   Source: youtube.com  
+   Title: Scotland’s Medieval Road of Minch Moor  
+   Link:<a href="https://www.youtube.com/watch?v=bvN9SEcBzxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvN9SEcBzxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minch Moor - Southern Upland Way...</p></details>
+
+16.<a id="endnote-16"></a>
+   Source: youtube.com  
+   Title: Minch Moor  
+   Link:<a href="https://www.youtube.com/watch?v=Pnhstr-AXak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pnhstr-AXak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Upland Way - (10) Minch Moor to Lauder...</p></details>
+
+17.<a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: Southern Upland Way  
+   Link:<a href="https://www.youtube.com/watch?v=GIqDI3eR8KA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GIqDI3eR8KA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minch Moor Southern Upland Way - (9) St Marys Loch to Minch Moor head for the hills Scotland...</p></details>
+
+18.<a id="endnote-18"></a>
+   Source: walkhighlands.co.uk  
+   Link:<a href="https://www.walkhighlands.co.uk/borders/minch-moor.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/borders/minch-moor.shtml</a>  
+
+19.<a id="endnote-19"></a>
+   Source: wikishire.co.uk  
+   Link:<a href="https://wikishire.co.uk/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peeblesshire</a>  
+
+20.<a id="endnote-20"></a>
+   Source: scotlandsgreattrails.com  
+   Link:<a href="https://www.scotlandsgreattrails.com/trail/cross-borders-drove-road/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandsgreattrails.com/trail/cross-borders-drove-road/</a>  
+
+21.<a id="endnote-21"></a>
+   Source: secretsofscotland.com  
+   Title: Secrets of Scotland The Cheese Well, Traquair | Scottish Borders  
+   Link:<a href="https://secretsofscotland.com/the-cheese-well-traquair/" target="_blank" rel="noopener noreferrer nofollow">https://secretsofscotland.com/the-cheese-well-traquair/</a>  
+
+22.<a id="endnote-22"></a>
+   Source: themodernantiquarian.com  
+   Title: cheese well  
+   Link:<a href="https://www.themodernantiquarian.com/site/5052/cheese-well" target="_blank" rel="noopener noreferrer nofollow">https://www.themodernantiquarian.com/site/5052/cheese-well</a>  
+
+23.<a id="endnote-23"></a>
+   Source: britishfairies.wordpress.com  
+   Link:<a href="https://britishfairies.wordpress.com/tag/springs/" target="_blank" rel="noopener noreferrer nofollow">https://britishfairies.wordpress.com/tag/springs/</a>  
+
+24.<a id="endnote-24"></a>
+   Source: loveofscotland.blogspot.com  
+   Title: the cheese well  
+   Link:<a href="https://loveofscotland.blogspot.com/2015/06/the-cheese-well.html" target="_blank" rel="noopener noreferrer nofollow">https://loveofscotland.blogspot.com/2015/06/the-cheese-well.html</a>  
+
+25.<a id="endnote-25"></a>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peeblesshire</a>  
+
+26.<a id="endnote-26"></a>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/Tweeddale" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tweeddale</a>  
+
+27.<a id="endnote-27"></a>
+   Source: britishfolklore.com  
+   Title: Minch Moor  
+   Link:<a href="https://britishfolklore.com/minch-moor/" target="_blank" rel="noopener noreferrer nofollow">https://britishfolklore.com/minch-moor/</a>  
+
+28.<a id="endnote-28"></a>
+   Source: walkhighlands.co.uk  
+   Link:<a href="https://www.walkhighlands.co.uk/borders/peebles-yarrowford.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/borders/peebles-yarrowford.shtml</a>  
+
+29.<a id="endnote-29"></a>
+   Source: walkhighlands.co.uk  
+   Title: Walk Report  
+   Link:<a href="https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=71892" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=71892</a>  
+
+30.<a id="endnote-30"></a>
+   Source: en.wiktionary.org  
+   Link:<a href="https://en.wiktionary.org/wiki/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/Peeblesshire</a>  
+
+31.<a id="endnote-31"></a>
+   Source: ukhillwalking.com  
+   Title: The Cross Borders Drove Road  
+   Link:<a href="https://www.ukhillwalking.com/logbook/r/?i=1494" target="_blank" rel="noopener noreferrer nofollow">https://www.ukhillwalking.com/logbook/r/?i=1494</a>  
+
+### Additional References
+
+32.<a id="endnote-32"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=kiH-brbgzHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kiH-brbgzHs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I found a Unicorn!! Cheese Well Fairies. Scotland Road Trip, Manchester to Minch Moor...</p></details>
+
+33.<a id="endnote-33"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=Y8OLgXtZ2m8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y8OLgXtZ2m8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland’s Medieval Road of Minch Moor...</p></details>
+
+34.<a id="endnote-34"></a>
+   Source: glendiscovery.com  
+   Link:<a href="https://glendiscovery.com/Ancestors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glendiscovery.com/Ancestors.pdf</a>  
+
+35.<a id="endnote-35"></a>
+   Source: gotweedvalley.co.uk  
+   Link:<a href="https://www.gotweedvalley.co.uk/big-days-out" target="_blank" rel="noopener noreferrer nofollow">https://www.gotweedvalley.co.uk/big-days-out</a>  
+
+36.<a id="endnote-36"></a>
+   Source: gazetteer.org.uk  
+   Link:<a href="https://gazetteer.org.uk/place/Peeblesshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Peeblesshire</a>  
+
+37.<a id="endnote-37"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/1080226442871918/posts/1643073159920574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1080226442871918/posts/1643073159920574/</a>  
+
+38.<a id="endnote-38"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/latangila1/posts/in-one-of-my-earliest-postings-i-discussed-the-curious-link-between-fairies-and-/6025270917502994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/latangila1/posts/in-one-of-my-earliest-postings-i-discussed-the-curious-link-between-fairies-and-/6025270917502994/</a>  
+
+39.<a id="endnote-39"></a>
+   Source: readingroo.ms  
+   Link:<a href="https://readingroo.ms/1/2/8/8/12882/12882-h/12882-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://readingroo.ms/1/2/8/8/12882/12882-h/12882-h.htm</a>  
+
+40.<a id="endnote-40"></a>
+   Source: electricscotland.com  
+   Link:<a href="https://electricscotland.com/history/other/minstrelsyofscot02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electricscotland.com/history/other/minstrelsyofscot02.pdf</a>  
+
+41.<a id="endnote-41"></a>
+   Source: upload.wikimedia.org  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/b/b2/Minstrelsy_of_the_Scottish_border%3B_consisting_of_historical_and_romantic_ballads_%28IA_minstrelsyof02scotiala%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/b/b2/Minstrelsy_of_the_Scottish_border%3B_consisting_of_historical_and_romantic_ballads_%28IA_minstrelsyof02scotiala%29.pdf</a>  
