@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T22:27:00",
+  "generated_at": "2026-07-07T23:09:36",
   "passed": true,
   "baseline": {
-    "article_pages": 443,
-    "amazon_specific_pages": 343,
+    "article_pages": 460,
+    "amazon_specific_pages": 359,
     "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 345,
+    "ebay_specific_pages": 361,
     "ebay_fallback_pages": 0,
     "pages": {
       "Aberdeenshire_e04348": {
@@ -129,9 +129,21 @@
         "ebay_fallback": false
       },
       "Ayrshire_8acdee": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_ancient_stones_lands_cc0482": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ayrshire_8acdee_ayrshire_witches_803d27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Ayrshire_8acdee_index": {
@@ -141,6 +153,36 @@
         "ebay_fallback": false
       },
       "Ayrshire_8acdee_tam_oshanter_legends_59739c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_banffshire_fairy_tra_c93c72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_banffshire_stones_we_7a20f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_banffshire_witches_h_fb2c57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Banffshire_c00f44_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
@@ -206,6 +248,36 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Berwickshire_907858": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_border_ballads_f9d314": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_dryburgh_fatlips_f276e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_holy_wells_dc8a75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Berwickshire_907858_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
       "Brecknockshire_d4a3d4": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -261,6 +333,36 @@
         "ebay_fallback": false
       },
       "Buckinghamshire_40b834_west_wycombe_hellfir_4e3324": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_bute_witches_114b64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_fairy_traditions_e435fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Buteshire_f23202_sacred_landscapes_d90401": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -5437,6 +5539,6 @@
       }
     }
   },
-  "shared_pages_compared": 443,
+  "shared_pages_compared": 460,
   "regressions": []
 }

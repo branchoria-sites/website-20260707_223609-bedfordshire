@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-07 22:25:15'
 parent_title: Buteshire Folklore
 parent_permalink: /the-strange-stories-behind-buteshires/
 parent_nav_short_title: Buteshire Folklore
@@ -233,7 +234,6 @@ next_link:
   permalink: /fairy-traditions/
   short_title: Fairy Traditions
   heading_title: Where Fairies Were Said to Roam
-date: '2026-07-07 22:25:15 '
 header:
   og_image: /assets/images/Buteshire_f23202_bute_witches_114b64-overview-social.jpg
   preview_image: /assets/images/Buteshire_f23202_bute_witches_114b64-overview.webp
@@ -292,7 +292,7 @@ The tragedy of the trials continued beyond the executions themselves. Families o
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yHZVkPK8bRg" title="Borders Witch Hunt with Mary Craig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yHZVkPK8bRg" target="_blank" rel="noopener noreferrer">Borders Witch Hunt with Mary Craig</a></p><p class="youtube-embed-meta">Channel: National Library of Scotland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yHZVkPK8bRg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yHZVkPK8bRg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6qEnioE_3Y" title="That All These Were Witches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6qEnioE_3Y" target="_blank" rel="noopener noreferrer">That All These Were Witches</a></p><p class="youtube-embed-meta">Channel: Kilmartin Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6qEnioE_3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6qEnioE_3Y">Open on YouTube</a></p></div></div></div>
 
 
 
@@ -308,7 +308,7 @@ Within the wider folklore of Buteshire, the Bute witch trials stand as a reminde
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5iR14telPN4" title="King James and the Scottish Witches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5iR14telPN4" target="_blank" rel="noopener noreferrer">King James and the Scottish Witches</a></p><p class="youtube-embed-meta">Channel: Ryan M Reeves</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5iR14telPN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5iR14telPN4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yHZVkPK8bRg" title="Borders Witch Hunt with Mary Craig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yHZVkPK8bRg" target="_blank" rel="noopener noreferrer">Borders Witch Hunt with Mary Craig</a></p><p class="youtube-embed-meta">Channel: National Library of Scotland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yHZVkPK8bRg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yHZVkPK8bRg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
