@@ -27,7 +27,7 @@ sidebar_generated:
   url: /what-hidden-stories-shape-angus-folklore/
   children:
   - title: Glamis Legends
-    title_full: The Secrets Behind Glamis Castle Stories
+    title_full: The Secrets Behind Glamis Castle Stories | Angus
     url: /glamis-legends/
   - title: Pictish Stones
     title_full: Why Angus's Ancient Stones Still Fascinate
@@ -39,10 +39,10 @@ sidebar_generated:
   url: /the-strange-stories-behind-argyllshires/
   children:
   - title: Fairy Places
-    title_full: Where Argyll's Fairy Stories Still Linger
+    title_full: Where Argyll's Fairy Stories Still Linger | Argyllshire
     url: /fairy-places-d475d2/
   - title: Kilmartin Legends
-    title_full: The Ancient Stones That Inspired Argyll Tales
+    title_full: The Ancient Stones That Inspired Argyll Tales | Argyllshire
     url: /kilmartin-legends/
   - title: Witches And Sight
     title_full: The Witches and Seers of Argyllshire
@@ -66,10 +66,10 @@ sidebar_generated:
     title_full: Where Banffshire's fairy stories began
     url: /fairy-traditions-9288b4/
   - title: Sacred Landscapes
-    title_full: The stones and wells behind local legends
+    title_full: The stones and wells behind local legends | Banffshire
     url: /sacred-landscapes-2118ed/
   - title: Witches
-    title_full: Witches, healers and old cures
+    title_full: Witches, healers and old cures | Banffshire
     url: /witches-a14dc2/
 - title: Bedfordshire
   url: /where-bedfordshire-keeps-its-oldest/
@@ -78,19 +78,19 @@ sidebar_generated:
     title_full: Why Bedfordshire's Landscape Feels Haunted
     url: /haunted-places/
   - title: Ickwell May Day
-    title_full: Why Ickwell Still Dances Around the Maypole
+    title_full: Why Ickwell Still Dances Around the Maypole | Bedfordshire
     url: /ickwell-may-day/
   - title: Oakley Witches
-    title_full: What Happened at the Oakley Witch Ordeal?
+    title_full: What Happened at the Oakley Witch Ordeal? | Bedfordshire
     url: /oakley-witches/
 - title: Berkshire
   url: /where-berkshires-legends-still-mark-the/
   children:
   - title: Herne
-    title_full: Was Herne the Hunter Folklore or Theatre?
+    title_full: Was Herne the Hunter Folklore or Theatre? | Berkshire
     url: /herne/
   - title: Wayland
-    title_full: Who Shod Horses at Wayland's Smithy?
+    title_full: Who Shod Horses at Wayland's Smithy? | Berkshire
     url: /wayland/
   - title: White Horse
     title_full: Why Does the White Horse Still Haunt Berkshire?
@@ -99,61 +99,61 @@ sidebar_generated:
   url: /what-legends-still-echo-across/
   children:
   - title: Border Ballads
-    title_full: Songs That Preserved Border Legends
+    title_full: Songs That Preserved Border Legends | Berwickshire
     url: /border-ballads/
   - title: Fatlips Legend
-    title_full: The Helpful Spirit of Dryburgh Abbey
+    title_full: The Helpful Spirit of Dryburgh Abbey | Berwickshire
     url: /fatlips-legend/
   - title: Holy Wells
-    title_full: Sacred Wells and Healing Traditions
+    title_full: Sacred Wells and Healing Traditions | Berwickshire
     url: /holy-wells-230352/
 - title: Brecknockshire
   url: /why-do-brecknockshires-hills-feel/
   children:
   - title: Fairy Roads
-    title_full: When Fairy Help Turns Dangerous
+    title_full: When Fairy Help Turns Dangerous | Brecknockshire
     url: /fairy-roads/
   - title: Lake Lady
-    title_full: Who Owns the Lady of the Lake?
+    title_full: Who Owns the Lady of the Lake? | Brecknockshire
     url: /lake-lady/
   - title: Living Stones
-    title_full: Can a Standing Stone Walk?
+    title_full: Can a Standing Stone Walk? | Brecknockshire
     url: /living-stones/
 - title: Buckinghamshire
   url: /where-buckinghamshire-keeps-its-strange/
   children:
   - title: Black Dog
-    title_full: What Haunted the Hedge Gap Near Aylesbury?
+    title_full: What Haunted the Hedge Gap Near Aylesbury? | Buckinghamshire
     url: /black-dog/
   - title: Hellfire Caves
-    title_full: How Did West Wycombe Become Hellfire Country?
+    title_full: How Did West Wycombe Become Hellfire Country? | Buckinghamshire
     url: /hellfire-caves/
   - title: Holy Wells
-    title_full: Why Did Pilgrims Seek John Schorne's Well?
+    title_full: Why Did Pilgrims Seek John Schorne's Well? | Buckinghamshire
     url: /holy-wells/
 - title: Buteshire
   url: /the-strange-stories-behind-buteshires/
   children:
   - title: Bute Witches
-    title_full: The Bute Witches and Their Dark Legacy
+    title_full: The Bute Witches and Their Dark Legacy | Buteshire
     url: /bute-witches/
   - title: Fairy Traditions
-    title_full: Where Fairies Were Said to Roam
+    title_full: Where Fairies Were Said to Roam | Buteshire
     url: /fairy-traditions/
   - title: Sacred Landscapes
-    title_full: Ancient Stones and Sacred Island Places
+    title_full: Ancient Stones and Sacred Island Places | Buteshire
     url: /sacred-landscapes/
 - title: Caernarfonshire
   url: /caernarfonshire/
   children:
   - title: Dinas Emrys
-    title_full: Did Wales' Red Dragon Begin at Dinas Emrys?
+    title_full: Did Wales' Red Dragon Begin at Dinas Emrys? | Caernarfonshire
     url: /dinas-emrys/
   - title: Fairy Lakes
-    title_full: Where Do Eryri's Fairies Wait?
+    title_full: Where Do Eryri's Fairies Wait? | Caernarfonshire
     url: /fairy-lakes/
   - title: Gelert
-    title_full: Why Does Gelert's Grave Still Move Visitors?
+    title_full: Why Does Gelert's Grave Still Move Visitors? | Caernarfonshire
     url: /gelert/
 - title: Caithness
   url: /where-caithness-folklore-meets-the-edge/
@@ -174,19 +174,19 @@ sidebar_generated:
     title_full: Who Saved Cambridgeshire's Vanishing Stories?
     url: /enid-porter/
   - title: Gog Magog
-    title_full: Are Giants Hidden in the Chalk Hills?
+    title_full: Are Giants Hidden in the Chalk Hills? | Cambridgeshire
     url: /gog-magog/
   - title: Witches
-    title_full: Why Fenland Homes Feared the Threshold
+    title_full: Why Fenland Homes Feared the Threshold | Cambridgeshire
     url: /witches/
 - title: Cardiganshire
   url: /where-cardiganshire-turns-landscape-into/
   children:
   - title: Devil s Bridge
-    title_full: How Did Devil's Bridge Get Its Legend?
+    title_full: How Did Devil's Bridge Get Its Legend? | Cardiganshire
     url: /devil-s-bridge/
   - title: Drowned Kingdom
-    title_full: Is Cardigan Bay Hiding a Lost Kingdom?
+    title_full: Is Cardigan Bay Hiding a Lost Kingdom? | Cardiganshire
     url: /drowned-kingdom/
   - title: Fairy Vanishings
     title_full: Why Do Cardiganshire Fairy Tales Feel So Local?
@@ -195,22 +195,22 @@ sidebar_generated:
   url: /why-does-carmarthenshire-feel-so/
   children:
   - title: Fairy Bride
-    title_full: Who Was the Lady of Llyn y Fan Fach?
+    title_full: Who Was the Lady of Llyn y Fan Fach? | Carmarthenshire
     url: /fairy-bride/
   - title: Healing Magic
     title_full: When Did Carmarthenshire Magic Mean Medicine?
     url: /healing-magic/
   - title: Merlin s Oak
-    title_full: Did Merlin's Oak Foretell Carmarthen's Fate?
+    title_full: Did Merlin's Oak Foretell Carmarthen's Fate? | Carmarthenshire
     url: /merlin-s-oak/
 - title: Cheshire
   url: /where-cheshires-old-stories-still-live/
   children:
   - title: Alderley Edge
-    title_full: Why Does Alderley Edge Hide an Army?
+    title_full: Why Does Alderley Edge Hide an Army? | Cheshire
     url: /alderley-edge/
   - title: Sacred Chester
-    title_full: How Did Chester Turn Saints Into City Memory?
+    title_full: How Did Chester Turn Saints Into City Memory? | Cheshire
     url: /sacred-chester/
   - title: Soul Caking
     title_full: Why Do Cheshire Soul Cakers Still Matter?
@@ -219,13 +219,13 @@ sidebar_generated:
   url: /where-do-clackmannanshires-legends-begin/
   children:
   - title: Alloa Witches
-    title_full: What Do Alloa's Witch Records Really Show?
+    title_full: What Do Alloa's Witch Records Really Show? | Clackmannanshire
     url: /alloa-witches/
   - title: Dollar Glen
-    title_full: Why Does Dollar Glen Feel So Haunted?
+    title_full: Why Does Dollar Glen Feel So Haunted? | Clackmannanshire
     url: /dollar-glen/
   - title: Mannan Stone
-    title_full: Why Does This Stone Define the Wee County?
+    title_full: Why Does This Stone Define the Wee County? | Clackmannanshire
     url: /mannan-stone/
 - title: Cornwall
   url: /where-cornwalls-landscape-turns-into/
@@ -237,37 +237,37 @@ sidebar_generated:
     title_full: How Did Cornwall's Wild Places Become Legendary?
     url: /mythic-places/
   - title: Piskies
-    title_full: Why Do Cornish Piskies Lead People Astray?
+    title_full: Why Do Cornish Piskies Lead People Astray? | Cornwall
     url: /piskies/
 - title: County Antrim
   url: /county-antrim/
   children:
   - title: Fairy Glens
-    title_full: Where Do Antrim's Fairies Live?
+    title_full: Where Do Antrim's Fairies Live? | County Antrim
     url: /fairy-glens/
   - title: Finn Mc Cool
-    title_full: Did Finn Mc Cool Build the Causeway?
+    title_full: Did Finn Mc Cool Build the Causeway? | County Antrim
     url: /finn-mc-cool/
   - title: Loughareema
-    title_full: Why Is Loughareema Called the Vanishing Lake?
+    title_full: Why Is Loughareema Called the Vanishing Lake? | County Antrim
     url: /loughareema/
 - title: County Armagh
   url: /county-armagh/
   children:
   - title: Fairy Forts
-    title_full: What Did People Hear at Fairy Forts?
+    title_full: What Did People Hear at Fairy Forts? | County Armagh
     url: /fairy-forts/
   - title: Navan Fort
-    title_full: Was Navan Fort Ulster's Legendary Capital?
+    title_full: Was Navan Fort Ulster's Legendary Capital? | County Armagh
     url: /navan-fort/
   - title: Slieve Gullion
-    title_full: Why Is Slieve Gullion's Lake Feared?
+    title_full: Why Is Slieve Gullion's Lake Feared? | County Armagh
     url: /slieve-gullion/
 - title: County Down
   url: /where-county-down-turns-landscape-into/
   children:
   - title: Giant Stones
-    title_full: Did Giants Shape the Mournes in Local Legend?
+    title_full: Did Giants Shape the Mournes in Local Legend? | County Down
     url: /giant-stones-1047ba/
   - title: Holy Wells
     title_full: What Made County Down's Holy Wells Powerful?
@@ -279,37 +279,37 @@ sidebar_generated:
   url: /county-durham/
   children:
   - title: Lambton Worm
-    title_full: Why The Lambton Worm Still Haunts Durham
+    title_full: Why The Lambton Worm Still Haunts Durham | County Durham
     url: /lambton-worm/
   - title: River Spirits
-    title_full: Why Peg Powler Lurks In The Tees
+    title_full: Why Peg Powler Lurks In The Tees | County Durham
     url: /river-spirits/
   - title: Sockburn Sword
-    title_full: The Dragon Sword Of Sockburn
+    title_full: The Dragon Sword Of Sockburn | County Durham
     url: /sockburn-sword/
 - title: County Londonderry
   url: /county-londonderry/
   children:
   - title: Columba s Wells
-    title_full: Why Do Derry's Holy Wells Matter?
+    title_full: Why Do Derry's Holy Wells Matter? | County Londonderry
     url: /columba-s-wells/
   - title: Dog Leap
-    title_full: Did a Faithful Hound Name Limavady?
+    title_full: Did a Faithful Hound Name Limavady? | County Londonderry
     url: /dog-leap/
   - title: Fairy Forts
-    title_full: Why Were Londonderry's Fairy Forts Left Alone?
+    title_full: Why Were Londonderry's Fairy Forts Left Alone? | County Londonderry
     url: /fairy-forts-324d25/
 - title: Cromartyshire
   url: /where-cromartyshire-folklore-meets-sea/
   children:
   - title: Holy Well
-    title_full: Did St Bennet's Well Cure Fairy Mischief?
+    title_full: Did St Bennet's Well Cure Fairy Mischief? | Cromartyshire
     url: /holy-well/
   - title: Hugh Miller
-    title_full: Why Hugh Miller Still Shapes Cromarty Folklore
+    title_full: Why Hugh Miller Still Shapes Cromarty Folklore | Cromartyshire
     url: /hugh-miller/
   - title: Stine Bheag
-    title_full: The Witch Who Sold Wind to Sailors
+    title_full: The Witch Who Sold Wind to Sailors | Cromartyshire
     url: /stine-bheag/
 - title: Cumberland
   url: /where-cumberland-turns-landscape-into/
@@ -318,10 +318,10 @@ sidebar_generated:
     title_full: What Haunted Cumberland's Lanes and Small Places?
     url: /fairies/
   - title: King Dunmail
-    title_full: Was King Dunmail Buried Beside the Pass?
+    title_full: Was King Dunmail Buried Beside the Pass? | Cumberland
     url: /king-dunmail/
   - title: Long Meg
-    title_full: Why Could Nobody Count Long Meg?
+    title_full: Why Could Nobody Count Long Meg? | Cumberland
     url: /long-meg/
 - title: Denbighshire
   url: /where-denbighshires-legends-still/
@@ -333,7 +333,7 @@ sidebar_generated:
     title_full: Why Are Denbighshire's Ghosts Found at Crossings?
     url: /ghost-places/
   - title: Lake Cattle
-    title_full: What Vanished Beneath Cerrig y drudion's Lake?
+    title_full: What Vanished Beneath Cerrig y drudion's Lake? | Denbighshire
     url: /lake-cattle/
 - title: Derbyshire
   url: /where-derbyshire-turns-landscape-into/
@@ -342,7 +342,7 @@ sidebar_generated:
     title_full: Why Derbyshire's Stones Became Stories
     url: /ancient-stones/
   - title: Kinder Mermaid
-    title_full: Why Is There a Mermaid on Kinder Scout?
+    title_full: Why Is There a Mermaid on Kinder Scout? | Derbyshire
     url: /kinder-mermaid/
   - title: Well Dressing
     title_full: Why Derbyshire Dresses Its Wells
@@ -351,10 +351,10 @@ sidebar_generated:
   url: /what-makes-devon-folklore-so-place-bound/
   children:
   - title: Black Dogs
-    title_full: How Did Dartmoor Inspire the Baskerville Hound?
+    title_full: How Did Dartmoor Inspire the Baskerville Hound? | Devon
     url: /black-dogs/
   - title: Giants
-    title_full: Why Were Giants Carved Into Plymouth Hoe?
+    title_full: Why Were Giants Carved Into Plymouth Hoe? | Devon
     url: /giants/
   - title: Pixies
     title_full: Why Did Devon Travellers Fear Being Pixy Led?
@@ -363,10 +363,10 @@ sidebar_generated:
   url: /why-dorsets-legends-still-haunt-the/
   children:
   - title: Black Dog
-    title_full: Why Does Lyme Regis Have a Black Dog?
+    title_full: Why Does Lyme Regis Have a Black Dog? | Dorset
     url: /black-dog-664c40/
   - title: Cerne Giant
-    title_full: What Is the Cerne Abbas Giant Really?
+    title_full: What Is the Cerne Abbas Giant Really? | Dorset
     url: /cerne-giant/
   - title: Ooser Mask
     title_full: Why Did Dorset Remember the Ooser?
@@ -375,37 +375,37 @@ sidebar_generated:
   url: /where-dumfriesshires-strange-stories/
   children:
   - title: Dumfries Witch Lore
-    title_full: When Witch Stories Became Court Records
+    title_full: When Witch Stories Became Court Records | Dumfriesshire
     url: /dumfries-witch-lore/
   - title: Fairy Hills
-    title_full: Why Annandale Became Fairy Country
+    title_full: Why Annandale Became Fairy Country | Dumfriesshire
     url: /fairy-hills/
   - title: Johnnie Armstrong
-    title_full: Hero, Reiver or Border Legend?
+    title_full: Hero, Reiver or Border Legend? | Dumfriesshire
     url: /johnnie-armstrong/
 - title: Dunbartonshire
   url: /where-dunbartonshires-legends-gather/
   children:
   - title: Dumbarton Rock
-    title_full: Did Merlin Belong at Dumbarton Rock?
+    title_full: Did Merlin Belong at Dumbarton Rock? | Dunbartonshire
     url: /dumbarton-rock/
   - title: Saints & Wells
     title_full: Why Do Dunbartonshire's Wells Feel Sacred?
     url: /saints-wells/
   - title: Witch Trials
-    title_full: How Should Dumbarton's Witch Trials Be Remembered?
+    title_full: How Should Dumbarton's Witch Trials Be Remembered? | Dunbartonshire
     url: /witch-trials-1d7034/
 - title: East Lothian
   url: /where-east-lothians-legends-still-have/
   children:
   - title: Goblin Ha
-    title_full: Did Goblins Build Yester's Underground Hall?
+    title_full: Did Goblins Build Yester's Underground Hall? | East Lothian
     url: /goblin-ha/
   - title: Sacred Coast
     title_full: Why East Lothian's Coast Feels Sacred
     url: /sacred-coast/
   - title: Witch Trials
-    title_full: How North Berwick Became Scotland's Witchcraft Story
+    title_full: How North Berwick Became Scotland's Witchcraft Story | East Lothian
     url: /witch-trials-4ca92d/
 - title: Essex
   url: /why-essex-folklore-still-feels-so-dark/
@@ -423,34 +423,34 @@ sidebar_generated:
   url: /where-fermanaghs-water-keeps-the-stories/
   children:
   - title: Boa Island
-    title_full: What Are the Boa Island Figures?
+    title_full: What Are the Boa Island Figures? | Fermanagh
     url: /boa-island/
   - title: Kinawley
-    title_full: Why Did Kinawley Roads Become Fairy Paths?
+    title_full: Why Did Kinawley Roads Become Fairy Paths? | Fermanagh
     url: /kinawley/
   - title: Lough Erne
-    title_full: Why Does Lough Erne Feel Mythic?
+    title_full: Why Does Lough Erne Feel Mythic? | Fermanagh
     url: /lough-erne/
 - title: Fife
   url: /where-fifes-old-stories-still-cling/
   children:
   - title: Largo Law
-    title_full: What Treasure Sleeps Under Largo Law?
+    title_full: What Treasure Sleeps Under Largo Law? | Fife
     url: /largo-law/
   - title: Pittenweem
-    title_full: How Should Pittenweem's Witch Story Be Told?
+    title_full: How Should Pittenweem's Witch Story Be Told? | Fife
     url: /pittenweem/
   - title: Wemyss Caves
-    title_full: Why Do Wemyss Caves Feel So Legendary?
+    title_full: Why Do Wemyss Caves Feel So Legendary? | Fife
     url: /wemyss-caves/
 - title: Flintshire
   url: /where-flintshires-strange-stories-still/
   children:
   - title: Elf Dancers
-    title_full: Who Were Bodfari's Red Clad Elf Dancers?
+    title_full: Who Were Bodfari's Red Clad Elf Dancers? | Flintshire
     url: /elf-dancers/
   - title: Winefride s Well
-    title_full: Why St Winefride's Well Still Draws Pilgrims
+    title_full: Why St Winefride's Well Still Draws Pilgrims | Flintshire
     url: /winefride-s-well/
   - title: Witch Records
     title_full: What Flintshire's Witch Records Reveal
@@ -459,13 +459,13 @@ sidebar_generated:
   url: /where-glamorgans-legends-still-meet-the/
   children:
   - title: Arthur s Stone
-    title_full: Why Is This Gower Tomb Linked to Arthur?
+    title_full: Why Is This Gower Tomb Linked to Arthur? | Glamorgan
     url: /arthur-s-stone/
   - title: Mari Lwyd
-    title_full: Why Does a Horse Skull Visit at Christmas?
+    title_full: Why Does a Horse Skull Visit at Christmas? | Glamorgan
     url: /mari-lwyd/
   - title: Pennard Fairies
-    title_full: Did Fairies Bury Pennard Castle in Sand?
+    title_full: Did Fairies Bury Pennard Castle in Sand? | Glamorgan
     url: /pennard-fairies/
 - title: Gloucestershire
   url: /why-gloucestershire-has-so-many-strange/
@@ -483,13 +483,13 @@ sidebar_generated:
   url: /where-hampshires-old-stories-still-haunt/
   children:
   - title: Cockatrice
-    title_full: What Made the Wherwell Cockatrice So Feared?
+    title_full: What Made the Wherwell Cockatrice So Feared? | Hampshire
     url: /cockatrice/
   - title: New Forest
-    title_full: Why Do New Forest Roads Feel Haunted?
+    title_full: Why Do New Forest Roads Feel Haunted? | Hampshire
     url: /new-forest/
   - title: St Swithun
-    title_full: Why Does St Swithun Still Rule the Rain?
+    title_full: Why Does St Swithun Still Rule the Rain? | Hampshire
     url: /st-swithun/
 - title: Herefordshire
   url: /why-herefordshires-legends-cling-to/
@@ -498,7 +498,7 @@ sidebar_generated:
     title_full: Where Did Herefordshire Put Its Dragons?
     url: /dragons/
   - title: Hergest Hound
-    title_full: Why Does the Hergest Hound Still Haunt?
+    title_full: Why Does the Hergest Hound Still Haunt? | Herefordshire
     url: /hergest-hound/
   - title: Leather
     title_full: Who Saved Herefordshire's Old Voices?
@@ -507,7 +507,7 @@ sidebar_generated:
   url: /where-hertfordshires-old-stories-still/
   children:
   - title: Dragon Slayer
-    title_full: Did Brent Pelham Really Have a Dragon?
+    title_full: Did Brent Pelham Really Have a Dragon? | Hertfordshire
     url: /dragon-slayer/
   - title: Jack O Legs
     title_full: Why Hertfordshire Remembered an Outlaw Giant
@@ -519,10 +519,10 @@ sidebar_generated:
   url: /where-huntingdonshire-keeps-its-strange/
   children:
   - title: Fen Warnings
-    title_full: What Haunts the Fen Roads After Dark?
+    title_full: What Haunts the Fen Roads After Dark? | Huntingdonshire
     url: /fen-warnings/
   - title: Healing Wells
-    title_full: Why Did Hail Weston Waters Seem Powerful?
+    title_full: Why Did Hail Weston Waters Seem Powerful? | Huntingdonshire
     url: /healing-wells/
   - title: Warboys Witches
     title_full: Why Did Warboys Become Huntingdonshire's Witch Legend?
@@ -531,13 +531,13 @@ sidebar_generated:
   url: /inverness-shire/
   children:
   - title: Fairy Hill
-    title_full: Why Is Tomnahurich Called the Fairy Hill?
+    title_full: Why Is Tomnahurich Called the Fairy Hill? | Inverness shire
     url: /fairy-hill/
   - title: Holy Wells
-    title_full: What Do Clootie Wells Reveal About Highland Belief?
+    title_full: What Do Clootie Wells Reveal About Highland Belief? | Inverness shire
     url: /holy-wells-647f79/
   - title: Loch Ness
-    title_full: How Did Nessie Become a Highland Legend?
+    title_full: How Did Nessie Become a Highland Legend? | Inverness shire
     url: /loch-ness/
 - title: Kent
   url: /why-kents-legends-cluster-around-roads/
@@ -555,31 +555,31 @@ sidebar_generated:
   url: /where-kincardineshire-turns-history-into/
   children:
   - title: Dunnottar
-    title_full: Why Dunnottar Feels More Than Historical
+    title_full: Why Dunnottar Feels More Than Historical | Kincardineshire
     url: /dunnottar/
   - title: Holy Wells
-    title_full: Why Holy Wells Shaped the Mearns
+    title_full: Why Holy Wells Shaped the Mearns | Kincardineshire
     url: /holy-wells-d2f4bb/
   - title: Witch Memory
-    title_full: What the Witch Pools Really Remember
+    title_full: What the Witch Pools Really Remember | Kincardineshire
     url: /witch-memory/
 - title: Kinross-shire
   url: /where-kinross-shires-legends-still-cling/
   children:
   - title: Loch Leven
-    title_full: Why Loch Leven Feels Haunted
+    title_full: Why Loch Leven Feels Haunted | Kinross shire
     url: /loch-leven/
   - title: Scotlandwell
-    title_full: Did Scotlandwell's Water Really Heal?
+    title_full: Did Scotlandwell's Water Really Heal? | Kinross shire
     url: /scotlandwell/
   - title: Witches
-    title_full: Witches, Trials and Carlin Maggie
+    title_full: Witches, Trials and Carlin Maggie | Kinross shire
     url: /witches-266472/
 - title: Kirkcudbrightshire
   url: /kirkcudbrightshire/
   children:
   - title: Fairy Places
-    title_full: Why Galloway Fairy Places Still Feel Local
+    title_full: Why Galloway Fairy Places Still Feel Local | Kirkcudbrightshire
     url: /fairy-places-2b70d1/
   - title: Haunted Routes
     title_full: Do Kirkcudbrightshire Ghosts Guard Dangerous Roads?
@@ -594,7 +594,7 @@ sidebar_generated:
     title_full: Why Do Lanarkshire's Holy Wells Still Matter?
     url: /holy-wells-a9f943/
   - title: Lanark Customs
-    title_full: Why Do Lanark's Old Customs Survive?
+    title_full: Why Do Lanark's Old Customs Survive? | Lanarkshire
     url: /lanark-customs/
   - title: Witch Trials
     title_full: What Do Lanarkshire's Witch Records Reveal?
@@ -615,13 +615,13 @@ sidebar_generated:
   url: /where-leicestershire-turns-history-into/
   children:
   - title: Black Annis
-    title_full: Why Black Annis Still Haunts Leicester
+    title_full: Why Black Annis Still Haunts Leicester | Leicestershire
     url: /black-annis/
   - title: Hallaton
-    title_full: What Happens at Hallaton Bottle Kicking?
+    title_full: What Happens at Hallaton Bottle Kicking? | Leicestershire
     url: /hallaton/
   - title: St Morrell
-    title_full: The Lost Chapel Behind Hallaton's Legends
+    title_full: The Lost Chapel Behind Hallaton's Legends | Leicestershire
     url: /st-morrell/
 - title: Lincolnshire
   url: /what-haunts-lincolnshires-fields-fens/
@@ -630,22 +630,22 @@ sidebar_generated:
     title_full: Are Lincolnshire's Black Dogs Always Bad Omens?
     url: /black-dogs-26a615/
   - title: Lincoln Imp
-    title_full: How Did the Lincoln Imp Become a Legend?
+    title_full: How Did the Lincoln Imp Become a Legend? | Lincolnshire
     url: /lincoln-imp/
   - title: Tiddy Mun
-    title_full: Why Did the Fens Need Tiddy Mun?
+    title_full: Why Did the Fens Need Tiddy Mun? | Lincolnshire
     url: /tiddy-mun/
 - title: Merionethshire
   url: /where-merionethshire-turns-landscape/
   children:
   - title: Bala Lake
-    title_full: What Lies Beneath Bala Lake?
+    title_full: What Lies Beneath Bala Lake? | Merionethshire
     url: /bala-lake/
   - title: Cader Idris
-    title_full: Would You Sleep on Cader Idris?
+    title_full: Would You Sleep on Cader Idris? | Merionethshire
     url: /cader-idris/
   - title: Fairy Midwives
-    title_full: The Midwife Who Saw the Fairies
+    title_full: The Midwife Who Saw the Fairies | Merionethshire
     url: /fairy-midwives/
 - title: Middlesex
   url: /middlesex/
@@ -657,49 +657,49 @@ sidebar_generated:
     title_full: Why Middlesex Remembered Its Healing Wells
     url: /holy-wells-b2bebb/
   - title: Witches
-    title_full: How Edmonton's Witch Became a Legend
+    title_full: How Edmonton's Witch Became a Legend | Middlesex
     url: /witches-111a05/
 - title: Midlothian
   url: /where-midlothians-legends-meet-the/
   children:
   - title: Carlops
-    title_full: Why Did Witches Leap at Carlops?
+    title_full: Why Did Witches Leap at Carlops? | Midlothian
     url: /carlops/
   - title: Roslin Glen
-    title_full: Did Wallace Really Hide in Roslin Glen?
+    title_full: Did Wallace Really Hide in Roslin Glen? | Midlothian
     url: /roslin-glen/
   - title: Rosslyn
-    title_full: Why Rosslyn Chapel Became a Legend Machine
+    title_full: Why Rosslyn Chapel Became a Legend Machine | Midlothian
     url: /rosslyn/
 - title: Monmouthshire
   url: /where-monmouthshires-border-legends/
   children:
   - title: Caerleon Arthur
-    title_full: How Did Caerleon Become Arthurian?
+    title_full: How Did Caerleon Become Arthurian? | Monmouthshire
     url: /caerleon-arthur/
   - title: Jack O Kent
-    title_full: Did Jack O'Kent Shape the Hills?
+    title_full: Did Jack O'Kent Shape the Hills? | Monmouthshire
     url: /jack-o-kent/
   - title: Trellech
-    title_full: Why Does Trellech Attract So Many Legends?
+    title_full: Why Does Trellech Attract So Many Legends? | Monmouthshire
     url: /trellech/
 - title: Montgomeryshire
   url: /where-montgomeryshires-old-stories-still/
   children:
   - title: Changelings
-    title_full: Why Trefeglwys Feared the Fair Folk
+    title_full: Why Trefeglwys Feared the Fair Folk | Montgomeryshire
     url: /changelings/
   - title: Collectors
     title_full: Who Saved Montgomeryshire's Strange Stories?
     url: /collectors/
   - title: Melangell
-    title_full: The Hare That Stopped the Hunt
+    title_full: The Hare That Stopped the Hunt | Montgomeryshire
     url: /melangell/
 - title: Morayshire
   url: /where-morayshire-turns-history-into/
   children:
   - title: Burghead Fire
-    title_full: What Makes Burghead's Clavie So Strange?
+    title_full: What Makes Burghead's Clavie So Strange? | Morayshire
     url: /burghead-fire/
   - title: Fairy Lore
     title_full: Are Morayshire Fairies Really Friendly?
@@ -711,13 +711,13 @@ sidebar_generated:
   url: /where-nairnshires-strange-stories-still/
   children:
   - title: Cawdor
-    title_full: How Macbeth Changed Cawdor's Folklore
+    title_full: How Macbeth Changed Cawdor's Folklore | Nairnshire
     url: /cawdor/
   - title: Isobel Gowdie
-    title_full: Why Isobel Gowdie Still Haunts Auldearn
+    title_full: Why Isobel Gowdie Still Haunts Auldearn | Nairnshire
     url: /isobel-gowdie/
   - title: Rait Ghost
-    title_full: The Handless Ghost of Rait Castle
+    title_full: The Handless Ghost of Rait Castle | Nairnshire
     url: /rait-ghost/
 - title: Norfolk
   url: /why-norfolks-legends-still-haunt-the/
@@ -729,7 +729,7 @@ sidebar_generated:
     title_full: What Were Norfolk's Lantern Men Warning About?
     url: /lantern-men/
   - title: Witch s Heart
-    title_full: What Does King's Lynn's Witch's Heart Remember?
+    title_full: What Does King's Lynn's Witch's Heart Remember? | Norfolk
     url: /witch-s-heart/
 - title: Northamptonshire
   url: /where-northamptonshires-strange-stories/
@@ -738,16 +738,16 @@ sidebar_generated:
     title_full: Where Did Northamptonshire's Fairies Gather?
     url: /fairy-places/
   - title: Ghost Hounds
-    title_full: Why Do Ghostly Hounds Haunt Whittlebury?
+    title_full: Why Do Ghostly Hounds Haunt Whittlebury? | Northamptonshire
     url: /ghost-hounds/
   - title: Witches
-    title_full: What Really Happened in Northampton's Witch Lore?
+    title_full: What Really Happened in Northampton's Witch Lore? | Northamptonshire
     url: /witches-b56d0c/
 - title: Northumberland
   url: /where-northumberlands-strange-stories/
   children:
   - title: Duergars
-    title_full: Why Do Simonside's Lights Lead Travellers Astray?
+    title_full: Why Do Simonside's Lights Lead Travellers Astray? | Northumberland
     url: /duergars/
   - title: Fairy Places
     title_full: Where Do Northumberland's Fairies Actually Live?
@@ -771,7 +771,7 @@ sidebar_generated:
   url: /where-orkneys-stones-meet-the-sea/
   children:
   - title: Nuckelavee
-    title_full: What Makes the Nuckelavee So Terrifying?
+    title_full: What Makes the Nuckelavee So Terrifying? | Orkney
     url: /nuckelavee/
   - title: Sea Folk
     title_full: Why Does Orkney's Sea Steal People?
@@ -783,7 +783,7 @@ sidebar_generated:
   url: /where-oxfordshires-old-stories-still/
   children:
   - title: Ancient Stones
-    title_full: Why Do Old Stones Gather New Legends?
+    title_full: Why Do Old Stones Gather New Legends? | Oxfordshire
     url: /ancient-stones-d35901/
   - title: Village Customs
     title_full: How Do Oxfordshire Villages Keep Folklore Alive?
@@ -795,22 +795,22 @@ sidebar_generated:
   url: /where-peeblesshires-legends-still/
   children:
   - title: Cheese Well
-    title_full: Why Travellers Left Cheese for Fairies
+    title_full: Why Travellers Left Cheese for Fairies | Peeblesshire
     url: /cheese-well/
   - title: Merlin s Grave
-    title_full: Was Merlin Buried Beside the Tweed?
+    title_full: Was Merlin Buried Beside the Tweed? | Peeblesshire
     url: /merlin-s-grave/
   - title: Saints & Witches
-    title_full: Holy Wells, Devils and Witch Trials
+    title_full: Holy Wells, Devils and Witch Trials | Peeblesshire
     url: /saints-witches/
 - title: Pembrokeshire
   url: /where-pembrokeshires-legends-cling-to/
   children:
   - title: Bleeding Yew
-    title_full: Why Does Nevern's Yew Still Bleed?
+    title_full: Why Does Nevern's Yew Still Bleed? | Pembrokeshire
     url: /bleeding-yew/
   - title: Cliff Saints
-    title_full: Why Did a Saint Hide in the Cliff?
+    title_full: Why Did a Saint Hide in the Cliff? | Pembrokeshire
     url: /cliff-saints/
   - title: Fairy Stones
     title_full: Who Built Pembrokeshire's Impossible Stones?
@@ -822,19 +822,19 @@ sidebar_generated:
     title_full: Who Preserved Highland Perthshire's Oral Tales?
     url: /gaelic-tales/
   - title: Schiehallion
-    title_full: Why Is Schiehallion Called a Fairy Mountain?
+    title_full: Why Is Schiehallion Called a Fairy Mountain? | Perthshire
     url: /schiehallion/
   - title: St Fillan
-    title_full: What Made St Fillan's Stones So Powerful?
+    title_full: What Made St Fillan's Stones So Powerful? | Perthshire
     url: /st-fillan/
 - title: Radnorshire
   url: /where-radnorshires-old-stories-still/
   children:
   - title: Cascob Charm
-    title_full: What Was the Cascob Charm Meant to Protect?
+    title_full: What Was the Cascob Charm Meant to Protect? | Radnorshire
     url: /cascob-charm/
   - title: Dragon Ring
-    title_full: Is Wales' Last Dragon Sleeping Under Radnor Forest?
+    title_full: Is Wales' Last Dragon Sleeping Under Radnor Forest? | Radnorshire
     url: /dragon-ring/
   - title: Four Stones
     title_full: Why Do Radnorshire's Four Stones Go Drinking?
@@ -846,7 +846,7 @@ sidebar_generated:
     title_full: Why Renfrewshire's Folklore Lives in Places
     url: /legendary-places/
   - title: Paisley Witches
-    title_full: Why Paisley's Witch Hunt Still Matters
+    title_full: Why Paisley's Witch Hunt Still Matters | Renfrewshire
     url: /paisley-witches/
   - title: Saints & Stones
     title_full: Did Saints Shape Renfrewshire's Sacred Landscape?
@@ -855,10 +855,10 @@ sidebar_generated:
   url: /where-ross-shires-strange-stories-live/
   children:
   - title: Baobhan Sith
-    title_full: The Blood Drinking Women of the Shieling
+    title_full: The Blood Drinking Women of the Shieling | Ross shire
     url: /baobhan-sith/
   - title: Brahan Seer
-    title_full: Did the Eagle Stone Make Prophecy Visible?
+    title_full: Did the Eagle Stone Make Prophecy Visible? | Ross shire
     url: /brahan-seer/
   - title: Fairy Hills
     title_full: Why Ross shire's Fairy Hills Felt Dangerous
@@ -867,43 +867,43 @@ sidebar_generated:
   url: /where-roxburghshires-legends-meet-the/
   children:
   - title: Hermitage
-    title_full: Why Does Hermitage Castle Feel So Haunted?
+    title_full: Why Does Hermitage Castle Feel So Haunted? | Roxburghshire
     url: /hermitage/
   - title: Linton Worm
-    title_full: Why Is There a Dragon at Linton Church?
+    title_full: Why Is There a Dragon at Linton Church? | Roxburghshire
     url: /linton-worm/
   - title: Thomas
-    title_full: Did Thomas Enter Elfland Beneath the Eildons?
+    title_full: Did Thomas Enter Elfland Beneath the Eildons? | Roxburghshire
     url: /thomas/
 - title: Rutland
   url: /why-rutlands-folklore-is-much-in-little/
   children:
   - title: Horseshoes
-    title_full: Why Does Oakham Castle Hang Horseshoes?
+    title_full: Why Does Oakham Castle Hang Horseshoes? | Rutland
     url: /horseshoes/
   - title: Wing Maze
-    title_full: Is Wing Maze Pagan, Medieval or Village Play?
+    title_full: Is Wing Maze Pagan, Medieval or Village Play? | Rutland
     url: /wing-maze/
   - title: Wise Woman
-    title_full: Was Wing's Wise Woman Really a Witch?
+    title_full: Was Wing's Wise Woman Really a Witch? | Rutland
     url: /wise-woman/
 - title: Selkirkshire
   url: /where-selkirkshire-turns-story-into/
   children:
   - title: James Hogg
-    title_full: How the Ettrick Shepherd Shaped Border Folklore
+    title_full: How the Ettrick Shepherd Shaped Border Folklore | Selkirkshire
     url: /james-hogg/
   - title: Tam Lin
-    title_full: Why Carterhaugh Still Belongs to Tam Lin
+    title_full: Why Carterhaugh Still Belongs to Tam Lin | Selkirkshire
     url: /tam-lin/
   - title: Yarrow
-    title_full: Why Is Yarrow Such a Sorrowful Valley?
+    title_full: Why Is Yarrow Such a Sorrowful Valley? | Selkirkshire
     url: /yarrow/
 - title: Shetland
   url: /shetland/
   children:
   - title: Njuggels
-    title_full: Why Fear a Horse Beside the Loch?
+    title_full: Why Fear a Horse Beside the Loch? | Shetland
     url: /njuggels/
   - title: Selkies
     title_full: Why Do Selkie Stories Haunt Shetland's Shore?
@@ -915,10 +915,10 @@ sidebar_generated:
   url: /why-shropshires-hills-are-full-of/
   children:
   - title: Mitchell s Fold
-    title_full: Why Was a Witch Turned to Stone?
+    title_full: Why Was a Witch Turned to Stone? | Shropshire
     url: /mitchell-s-fold/
   - title: The Wrekin
-    title_full: Did a Giant Really Make the Wrekin?
+    title_full: Did a Giant Really Make the Wrekin? | Shropshire
     url: /the-wrekin/
   - title: Wild Edric
     title_full: Who Was Wild Edric in Shropshire Legend?
@@ -927,37 +927,37 @@ sidebar_generated:
   url: /where-somerset-turns-into-legend/
   children:
   - title: Glastonbury
-    title_full: Why Did Glastonbury Become Avalon?
+    title_full: Why Did Glastonbury Become Avalon? | Somerset
     url: /glastonbury/
   - title: Quantock Beasts
-    title_full: Why Do Monsters Haunt the Quantocks?
+    title_full: Why Do Monsters Haunt the Quantocks? | Somerset
     url: /quantock-beasts/
   - title: Wookey Witch
-    title_full: What Made Wookey Hole Need a Witch?
+    title_full: What Made Wookey Hole Need a Witch? | Somerset
     url: /wookey-witch/
 - title: Staffordshire
   url: /why-staffordshire-feels-ancient-and/
   children:
   - title: Black Mere
-    title_full: What Haunts the Mermaid Pool on the Moor?
+    title_full: What Haunts the Mermaid Pool on the Moor? | Staffordshire
     url: /black-mere/
   - title: Horn Dance
-    title_full: Why Do Antlers Dance Through Abbots Bromley?
+    title_full: Why Do Antlers Dance Through Abbots Bromley? | Staffordshire
     url: /horn-dance/
   - title: Molly Leigh
-    title_full: Was Molly Leigh a Witch or a Scapegoat?
+    title_full: Was Molly Leigh a Witch or a Scapegoat? | Staffordshire
     url: /molly-leigh/
 - title: Stirlingshire
   url: /where-stirlingshire-crosses-into-legend/
   children:
   - title: Doon Hill
-    title_full: Was Robert Kirk Taken by the Fairies?
+    title_full: Was Robert Kirk Taken by the Fairies? | Stirlingshire
     url: /doon-hill/
   - title: Thresholds
     title_full: Why Do Stirlingshire Legends Gather at Crossings?
     url: /thresholds/
   - title: Witches
-    title_full: What Happened at Stirling's Witch Trials?
+    title_full: What Happened at Stirling's Witch Trials? | Stirlingshire
     url: /witches-8c00bb/
 - title: Suffolk
   url: /why-suffolks-legends-still-haunt-the-map/
@@ -966,22 +966,22 @@ sidebar_generated:
     title_full: Did Black Shuck Really Enter Suffolk's Churches?
     url: /black-shuck-b868bb/
   - title: Green Children
-    title_full: Were Woolpit's Green Children From Fairyland?
+    title_full: Were Woolpit's Green Children From Fairyland? | Suffolk
     url: /green-children/
   - title: Wild Man
-    title_full: Who Was the Wild Man of Orford?
+    title_full: Who Was the Wild Man of Orford? | Suffolk
     url: /wild-man/
 - title: Surrey
   url: /where-surreys-quiet-legends-still-linger/
   children:
   - title: Clandon Dragon
-    title_full: Why Does West Clandon Have a Dragon?
+    title_full: Why Does West Clandon Have a Dragon? | Surrey
     url: /clandon-dragon/
   - title: Mother Ludlam
-    title_full: Was Mother Ludlam a Witch or Fairy?
+    title_full: Was Mother Ludlam a Witch or Fairy? | Surrey
     url: /mother-ludlam/
   - title: Silent Pool
-    title_full: How Did Silent Pool Become Haunted?
+    title_full: How Did Silent Pool Become Haunted? | Surrey
     url: /silent-pool/
 - title: Sussex
   url: /why-sussex-still-feels-enchanted/
@@ -1014,7 +1014,7 @@ sidebar_generated:
     title_full: Why Tyrone's Fairy Trees Must Be Left Alone
     url: /fairy-trees/
   - title: Fairy Water
-    title_full: The Dark Changeling Story Behind Fairy Water
+    title_full: The Dark Changeling Story Behind Fairy Water | Tyrone
     url: /fairy-water/
   - title: Wells & Stones
     title_full: Where Tyrone's Cures Flow Through Stone
@@ -1023,25 +1023,25 @@ sidebar_generated:
   url: /what-legends-still-live-across/
   children:
   - title: Castle Ghosts
-    title_full: The Ghost Stories Behind Warwick Castle
+    title_full: The Ghost Stories Behind Warwick Castle | Warwickshire
     url: /castle-ghosts/
   - title: Fairy Traditions
     title_full: Fairies, Puck and Warwickshire's Enchanted Woods
     url: /fairy-traditions-1471de/
   - title: Guy of Warwick
-    title_full: 'Guy of Warwick: Hero, Monster Slayer or Legend?'
+    title_full: 'Guy of Warwick: Hero, Monster Slayer or Legend? | Warwickshire'
     url: /guy-of-warwick/
 - title: West Lothian
   url: /why-west-lothians-legends-still-hold-on/
   children:
   - title: Black Bitch
-    title_full: How a Loyal Dog Became Linlithgow's Badge
+    title_full: How a Loyal Dog Became Linlithgow's Badge | West Lothian
     url: /black-bitch/
   - title: Cairnpapple
-    title_full: What Makes Cairnpapple Hill Feel Mythic?
+    title_full: What Makes Cairnpapple Hill Feel Mythic? | West Lothian
     url: /cairnpapple/
   - title: Marches
-    title_full: Why Linlithgow Still Walks Its Boundaries
+    title_full: Why Linlithgow Still Walks Its Boundaries | West Lothian
     url: /marches/
 - title: Westmorland
   url: /westmorland/
@@ -1053,7 +1053,7 @@ sidebar_generated:
     title_full: The Black Dogs That Haunted Westmorland Roads
     url: /black-dogs-ebb86e/
   - title: Witches And Charms
-    title_full: Witches, Charms and Old Village Beliefs
+    title_full: Witches, Charms and Old Village Beliefs | Westmorland
     url: /witches-and-charms/
 - title: Wigtownshire
   url: /where-wigtownshires-hidden-stories-live/
@@ -1062,7 +1062,7 @@ sidebar_generated:
     title_full: Why Did Wigtownshire Fairies Live So Close?
     url: /fairies-f67c64/
   - title: St Ninian
-    title_full: How Did Whithorn Remake an Older Sacred Landscape?
+    title_full: How Did Whithorn Remake an Older Sacred Landscape? | Wigtownshire
     url: /st-ninian/
   - title: Stones
     title_full: Why Do Wigtownshire's Stones Attract Legends?
@@ -1074,7 +1074,7 @@ sidebar_generated:
     title_full: The Phantom Dogs Haunting Wiltshire Roads
     url: /black-dogs-1f421b/
   - title: Stonehenge Myths
-    title_full: Why Stonehenge Inspired So Many Legends
+    title_full: Why Stonehenge Inspired So Many Legends | Wiltshire
     url: /stonehenge-myths/
   - title: White Horses
     title_full: The Chalk Horses That Define Wiltshire
@@ -1086,7 +1086,7 @@ sidebar_generated:
     title_full: Ghost Stories From Worcestershire's Old Places
     url: /haunted-places-ac0519/
   - title: Malvern Legends
-    title_full: What Secrets Linger In The Malvern Hills?
+    title_full: What Secrets Linger In The Malvern Hills? | Worcestershire
     url: /malvern-legends/
   - title: Witches
     title_full: Witches, Healers And The Magic Of Worcestershire
