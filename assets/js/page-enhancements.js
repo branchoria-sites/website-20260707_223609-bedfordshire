@@ -8880,7 +8880,75 @@
   }
 
   function initPageActionButtons() {
-    return;
+    var copyLinkButtons = document.querySelectorAll("[data-page-copy-link]");
+    var copyCitationButtons = document.querySelectorAll("[data-page-copy-citation]");
+    var printButtons = document.querySelectorAll("[data-page-print]");
+    if (!copyLinkButtons.length && !copyCitationButtons.length && !printButtons.length) {
+      return;
+    }
+
+    function getCanonicalPageUrl() {
+      var canonical = document.querySelector('link[rel="canonical"]');
+      var rawUrl = canonical ? String(canonical.getAttribute("href") || "").trim() : "";
+      try {
+        var parsed = new URL(rawUrl || window.location.href, window.location.href);
+        parsed.hash = "";
+        return parsed.href;
+      } catch (err) {
+        return String(window.location.href || "").split("#")[0];
+      }
+    }
+
+    function buildPageCitation() {
+      var heading = document.querySelector(".article-hero h1, .article-content h1, h1");
+      var siteTitle = document.querySelector(".site-title-full")
+        || document.querySelector(".site-title-short")
+        || document.querySelector(".site-title");
+      var pageTitle = String(heading ? heading.textContent : document.title || "Untitled report")
+        .replace(/\s+/g, " ")
+        .trim();
+      var collectionTitle = String(siteTitle ? siteTitle.textContent : "")
+        .replace(/\s+/g, " ")
+        .trim();
+      var language = String(document.documentElement.lang || "en").trim() || "en";
+      var accessedLabel = language.toLowerCase().indexOf("fr") === 0 ? "consulté le" : "accessed";
+      var accessedDate = "";
+      try {
+        accessedDate = new Intl.DateTimeFormat(language, {
+          year: "numeric",
+          month: "long",
+          day: "numeric"
+        }).format(new Date());
+      } catch (err) {
+        accessedDate = new Date().toISOString().slice(0, 10);
+      }
+      var parts = [pageTitle];
+      if (collectionTitle && collectionTitle.toLowerCase() !== pageTitle.toLowerCase()) {
+        parts.push(collectionTitle);
+      }
+      parts.push(getCanonicalPageUrl());
+      return parts.join(". ") + " (" + accessedLabel + " " + accessedDate + ").";
+    }
+
+    function attachCopyAction(buttons, getValue, successMessageKey, successFallback) {
+      Array.prototype.forEach.call(buttons, function (button) {
+        button.addEventListener("click", function () {
+          copyTextToClipboard(getValue()).then(function () {
+            showPageActionToast(getUiString(successMessageKey, successFallback));
+          }).catch(function () {
+            showPageActionToast(getUiString("copy-failed", "Copy failed"));
+          });
+        });
+      });
+    }
+
+    attachCopyAction(copyLinkButtons, getCanonicalPageUrl, "link-copied", "Link copied");
+    attachCopyAction(copyCitationButtons, buildPageCitation, "citation-copied", "Citation copied");
+    Array.prototype.forEach.call(printButtons, function (button) {
+      button.addEventListener("click", function () {
+        window.print();
+      });
+    });
   }
 
   function initImageLightbox() {
@@ -10096,8 +10164,39 @@
         zoomToScreenBounds(bounds, targetRegionKey === 'americas' ? 1.75 : 2.05);
         root.setAttribute('data-interactive-map-region-focus', targetRegionKey);
         root.setAttribute('data-uap-world-map-region-focus', targetRegionKey);
+        Array.prototype.forEach.call(
+          root.querySelectorAll('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]'),
+          function(button) {
+            var buttonRegionKey = normaliseRegionKey(
+              button.getAttribute('data-interactive-map-continent-focus')
+              || button.getAttribute('data-uap-world-map-region-focus')
+            );
+            var isActive = buttonRegionKey === targetRegionKey;
+            button.classList.toggle('is-active', isActive);
+            if (button.classList.contains('interactive-map-region-button')) {
+              button.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+            }
+          }
+        );
         return true;
       };
+      var regionNav = root.querySelector('.interactive-map-region-nav');
+      if (regionNav) {
+        regionNav.addEventListener('click', function(event) {
+          var regionFocusButton = event.target && event.target.closest
+            ? event.target.closest('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]')
+            : null;
+          if (!regionFocusButton || !regionNav.contains(regionFocusButton)) {
+            return;
+          }
+          event.preventDefault();
+          event.stopPropagation();
+          focusMapOnRegion(
+            regionFocusButton.getAttribute('data-interactive-map-continent-focus')
+            || regionFocusButton.getAttribute('data-uap-world-map-region-focus')
+          );
+        });
+      }
       var updatePreview = function(item) {
         if (!item || !preview) {
           return;

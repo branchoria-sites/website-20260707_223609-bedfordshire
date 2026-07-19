@@ -10,10 +10,10 @@ description: Browse the full structured site index.
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="county" data-map-layout="uk-counties" data-map-item-type="county" data-map-label="UFO and UAP historic UK counties map" data-map-fallback-summary="Open this historic UK county file from the map." data-map-src="{{ 'assets/maps/uk-historic-counties.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/uk-counties.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="UK-HC-SUFFOLK" data-map-preview-preload="8">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="england" aria-label="Focus map on England"><span>England</span><small>39</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="northern-ireland" aria-label="Focus map on Northern Ireland"><span>Northern Ireland</span><small>6</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="scotland" aria-label="Focus map on Scotland"><span>Scotland</span><small>34</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="wales" aria-label="Focus map on Wales"><span>Wales</span><small>13</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="england" aria-pressed="false" aria-label="Focus map on England"><span>England</span><small>39</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="northern-ireland" aria-pressed="false" aria-label="Focus map on Northern Ireland"><span>Northern Ireland</span><small>6</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="scotland" aria-pressed="false" aria-label="Focus map on Scotland"><span>Scotland</span><small>34</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="wales" aria-pressed="false" aria-label="Focus map on Wales"><span>Wales</span><small>13</small></button>
 </nav>
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
