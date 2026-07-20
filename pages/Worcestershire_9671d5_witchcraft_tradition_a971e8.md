@@ -313,23 +313,6 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The discoverie of witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6246599-M.jpg" alt="Cover for The discoverie of witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of witchcraft">The discoverie of witchcraft</a>
-</h4>
-<p class="fr-book-author">By Reginald Scot</p>
-        
-<p class="fr-book-desc">First published 1665. Subjects: Early works to 1800, Magic, Demonology, Witchcraft, Witchcraft, juvenile literature.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -337,9 +320,26 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
         
-<p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
+<p class="fr-book-desc">Explains the social and legal background behind witch accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The discoverie of witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6246599-M.jpg" alt="Cover for The discoverie of witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of witchcraft">The discoverie of witchcraft</a>
+</h4>
+<p class="fr-book-author">By Reginald Scot</p>
+        
+<p class="fr-book-desc">Provides historical background for English witchcraft beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -354,7 +354,7 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 </h4>
 <p class="fr-book-author">By Rossell Hope Robbins</p>
         
-<p class="fr-book-desc">First published 1959. Subjects: Witchcraft, Dictionaries, Demonology, English.</p>
+<p class="fr-book-desc">Covers terminology and historical examples relevant to witch folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+encyclopedia+of+witchcraft+and+demonology+Rossell+Hope+Robbins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -381,7 +381,7 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The discoverie of witchcraft</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+encyclopedia+of+witchcraft+and+demonology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The encyclopedia of witchcraft and demonology</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The discoverie of witchcraft</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+encyclopedia+of+witchcraft+and+demonology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The encyclopedia of witchcraft and demonology</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

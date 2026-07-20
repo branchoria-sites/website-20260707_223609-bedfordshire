@@ -352,7 +352,7 @@ Banffshire’s fairy stories therefore belong to a wider heritage of hidden land
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
         
-<p class="fr-book-desc">First published 1893. Subjects: Parapsychology, Fairies, Clairvoyance, Early works to 1800, Folklore.</p>
+<p class="fr-book-desc">Explores Scottish fairy beliefs and hidden-world traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -369,7 +369,7 @@ Banffshire’s fairy stories therefore belong to a wider heritage of hidden land
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Tales, Folklore, Fiction, short stories (single author).</p>
+<p class="fr-book-desc">Contains Scottish supernatural stories and traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -386,26 +386,9 @@ Banffshire’s fairy stories therefore belong to a wider heritage of hidden land
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
+<p class="fr-book-desc">Supports understanding of Scottish cultural background.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Commonwealth+of+Elves%2C+Fauns+and+Fairies+Robert+Kirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Commonwealth of Elves, Fauns and Fairies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Secret+Commonwealth+of+Elves%2C+Fauns+and+Fairies+Robert+Kirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Commonwealth of Elves, Fauns and Fairies">The Secret Commonwealth of Elves, Fauns and Fairies</a>
-</h4>
-<p class="fr-book-author">By Robert Kirk</p>
-        
-<p class="fr-book-desc">Explores Scottish fairy beliefs and hidden-world traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Secret+Commonwealth+of+Elves%2C+Fauns+and+Fairies+Robert+Kirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

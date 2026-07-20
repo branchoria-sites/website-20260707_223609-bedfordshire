@@ -360,16 +360,33 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2898574-M.jpg" alt="Cover for The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ballad book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9708853-M.jpg" alt="Cover for The ballad book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)">The Private Memoirs and Confessions of A Justified Sinner (Wi...</a>
+<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
 </h4>
-<p class="fr-book-author">By James Hogg</p>
+<p class="fr-book-author">By MacEdward Leach</p>
         
-<p class="fr-book-desc">First published 1824. Subjects: fiction, Scottish fiction, Murderers, Classics, Psychological.</p>
+<p class="fr-book-desc">The Tam Lin story belongs to the wider traditional ballad tradition.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish folk tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13146954-M.jpg" alt="Cover for Scottish folk tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
+</h4>
+<p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
+        
+<p class="fr-book-desc">Offers comparable fairy tales and Scottish storytelling traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -384,7 +401,7 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 </h4>
 <p class="fr-book-author">By Sir Walter Scott</p>
         
-<p class="fr-book-desc">First published 1800. Subjects: Poetry, Scots Ballads, Scottish ballads and songs, Texts, English ballads and songs.</p>
+<p class="fr-book-desc">Helps place Tam Lin within the collected traditions of the Scottish Borders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -401,7 +418,7 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 </h4>
 <p class="fr-book-author">By Edmund Spenser</p>
         
-<p class="fr-book-desc">First published 1590. Subjects: Epic poetry, Knights and knighthood, Poetry, Virtues, Open Library Staff Picks.</p>
+<p class="fr-book-desc">Provides wider literary context for fairy narratives, though not specifically Scottish.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Faerie+queene+Edmund+Spenser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -409,26 +426,9 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish folk tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13146954-M.jpg" alt="Cover for Scottish folk tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
-</h4>
-<p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-        
-<p class="fr-book-desc">First published 1976. Subjects: Scottish Tales, Tales, Scottish, Children&#x27;s fiction, Fairy tales.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Private+Memoirs+Confessions+Justified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Private Memoirs Confessions Justified</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Faerie+queene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Faerie queene</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ballad+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ballad book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+folk+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish folk tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

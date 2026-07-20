@@ -785,6 +785,23 @@ That mixture of evidence, legend and landscape is what gives Wiltshire its disti
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A dictionary of English folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/131743-M.jpg" alt="Cover for A dictionary of English folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of English folklore">A dictionary of English folklore</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Reference value for readers exploring local traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -792,7 +809,7 @@ That mixture of evidence, legend and landscape is what gives Wiltshire its disti
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
+<p class="fr-book-desc">Directly covers landscape legends, customs and local stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -826,7 +843,7 @@ That mixture of evidence, legend and landscape is what gives Wiltshire its disti
 </h4>
 <p class="fr-book-author">By Joseph Jacobs</p>
         
-<p class="fr-book-desc">Subjects: Fairy tales, Folklore.</p>
+<p class="fr-book-desc">Provides wider English storytelling context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=English+folk+and+fairy+tales+Joseph+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -834,26 +851,9 @@ That mixture of evidence, legend and landscape is what gives Wiltshire its disti
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends%2C+from+Spring+Heeled+Jack+to+the+Witches+of+Warboys+Jacqueline+Simpson+and+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land: A Guide to England&#x27;s Legends, from Spring-Heeled Jack to the Witches of Warboys on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends%2C+from+Spring+Heeled+Jack+to+the+Witches+of+Warboys+Jacqueline+Simpson+and+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land: A Guide to England&#x27;s Legends, from Spring-Heeled Jack to the Witches of Warboys">The Lore of the Land: A Guide to England&#x27;s Legends, from Spri...</a>
-</h4>
-<p class="fr-book-author">By Jacqueline Simpson and Jennifer Westwood</p>
-        
-<p class="fr-book-desc">Directly covers landscape legends, customs and local stories.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends%2C+from+Spring+Heeled+Jack+to+the+Witches+of+Warboys+Jacqueline+Simpson+and+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stonehenge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stonehenge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=English+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English folk and fairy tales</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A dictionary of English folklore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stonehenge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stonehenge</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

@@ -844,7 +844,7 @@ The county also matters nationally because of Ella Mary Leather. Her work means 
 </h4>
 <p class="fr-book-author">By Ella Mary Leather</p>
         
-<p class="fr-book-desc">First published 1912. Subjects: Folklore, Social life and customs.</p>
+<p class="fr-book-desc">Definitive source for Herefordshire folklore and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folk-lore+of+Herefordshire+Ella+Mary+Leather&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -861,7 +861,7 @@ The county also matters nationally because of Ella Mary Leather. Her work means 
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
+<p class="fr-book-desc">Provides wider context for beliefs preserved in Herefordshire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -878,7 +878,7 @@ The county also matters nationally because of Ella Mary Leather. Her work means 
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
+<p class="fr-book-desc">Places Herefordshire traditions within the wider landscape of English legend.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -888,16 +888,16 @@ The county also matters nationally because of Ella Mary Leather. Her work means 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land: A Guide to England&#x27;s Legends on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stations of the Sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/120082-M.jpg" alt="Cover for The Stations of the Sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land: A Guide to England&#x27;s Legends">The Lore of the Land: A Guide to England&#x27;s Legends</a>
+<a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stations of the Sun">The Stations of the Sun</a>
 </h4>
-<p class="fr-book-author">By Jennifer Westwood</p>
+<p class="fr-book-author">By Ronald Hutton</p>
         
-<p class="fr-book-desc">Places Herefordshire traditions within the wider landscape of English legend.</p>
+<p class="fr-book-desc">Covers seasonal customs such as wassailing and rural ritual.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

@@ -337,6 +337,23 @@ Today, these places continue to shape how Banffshire is imagined. They connect a
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8740637-M.jpg" alt="Cover for The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland">The Old Stones: A Field Guide to the Megalithic Sites of Brit...</a>
+</h4>
+<p class="fr-book-author">By Andy Burnham</p>
+        
+<p class="fr-book-desc">Explains prehistoric monuments like standing stones and ritual landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret commonwealth of elves, fauns, and fairies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14849505-M.jpg" alt="Cover for The secret commonwealth of elves, fauns, and fairies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -347,23 +364,6 @@ Today, these places continue to shape how Banffshire is imagined. They connect a
 <p class="fr-book-desc">First published 1893. Subjects: Parapsychology, Fairies, Clairvoyance, Early works to 1800, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft+and+belief+in+early+modern+Scotland+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft and belief in early modern Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2336841-M.jpg" alt="Cover for Witchcraft and belief in early modern Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Witchcraft+and+belief+in+early+modern+Scotland+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft and belief in early modern Scotland">Witchcraft and belief in early modern Scotland</a>
-</h4>
-<p class="fr-book-author">By Julian Goodare, Joyce Miller</p>
-        
-<p class="fr-book-desc">First published 2007. Subjects: Witchcraft, History, Witchcraft, great britain.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Witchcraft+and+belief+in+early+modern+Scotland+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -395,7 +395,7 @@ Today, these places continue to shape how Banffshire is imagined. They connect a
 </h4>
 <p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
         
-<p class="fr-book-desc">First published 2018. Subjects: Romans, Religion, Celtic cults, Religious life and customs, History.</p>
+<p class="fr-book-desc">Provides context for sacred landscapes and continuity of ritual sites.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sacred+Britannia+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -405,7 +405,7 @@ Today, these places continue to shape how Banffshire is imagined. They connect a
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft+and+belief+in+early+modern+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft and belief in early modern Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish folk and fairy tales</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+to+the+Megalithic+Sites+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Old Stones: A Field to the Megalithic Sites of Britain and Ireland books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish folk and fairy tales</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

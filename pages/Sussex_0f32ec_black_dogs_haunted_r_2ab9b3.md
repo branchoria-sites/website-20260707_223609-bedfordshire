@@ -335,16 +335,16 @@ That is why these legends sit naturally beside Sussex fairy hills, witchcraft ta
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales+Neil+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of English Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/95600-M.jpg" alt="Cover for The Penguin Book of English Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A dictionary of English folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/131743-M.jpg" alt="Cover for A dictionary of English folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales+Neil+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of English Folktales">The Penguin Book of English Folktales</a>
+<a href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of English folklore">A dictionary of English folklore</a>
 </h4>
-<p class="fr-book-author">By Neil Philip</p>
+<p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">First published 1992. Subjects: Tales, Folklore, great britain.</p>
+<p class="fr-book-desc">Useful for black dogs, omens, ghosts and traditional belief motifs.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales+Neil+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -359,9 +359,26 @@ That is why these legends sit naturally beside Sussex fairy hills, witchcraft ta
 </h4>
 <p class="fr-book-author">By Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 1973. Subjects: Folklore, Social life and customs, Sussex, England, Folklore, great britain.</p>
+<p class="fr-book-desc">Contains the Sussex black dog traditions and related folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folklore+of+Sussex+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales+Neil+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of English Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/95600-M.jpg" alt="Cover for The Penguin Book of English Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales+Neil+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of English Folktales">The Penguin Book of English Folktales</a>
+</h4>
+<p class="fr-book-author">By Neil Philip</p>
+        
+<p class="fr-book-desc">First published 1992. Subjects: Tales, Folklore, great britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales+Neil+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -384,26 +401,9 @@ That is why these legends sit naturally beside Sussex fairy hills, witchcraft ta
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+Dictionary+of+English+Folklore+Jacqueline+Simpson+and+Steve+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary of English Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Dictionary+of+English+Folklore+Jacqueline+Simpson+and+Steve+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary of English Folklore">A Dictionary of English Folklore</a>
-</h4>
-<p class="fr-book-author">By Jacqueline Simpson and Steve Roud</p>
-        
-<p class="fr-book-desc">Useful for black dogs, omens, ghosts and traditional belief motifs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Dictionary+of+English+Folklore+Jacqueline+Simpson+and+Steve+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of English Folktales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Sussex&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Sussex</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+to+Scottish+Legends+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland: A to Scottish Legends books</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+dictionary+of+English+folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A dictionary of English folklore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Sussex&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Sussex</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+English+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of English Folktales</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

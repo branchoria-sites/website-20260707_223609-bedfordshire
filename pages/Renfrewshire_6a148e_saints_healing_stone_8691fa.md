@@ -351,6 +351,40 @@ For a modern reader, the appeal lies in the meeting of the tangible and the marv
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Celtic world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/262408-M.jpg" alt="Cover for The Celtic world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celtic world">The Celtic world</a>
+</h4>
+<p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
+        
+<p class="fr-book-desc">Provides wider Celtic religious and cultural background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Celtic way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/145266-M.jpg" alt="Cover for The Celtic way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celtic way">The Celtic way</a>
+</h4>
+<p class="fr-book-author">By Ian C. Bradley</p>
+        
+<p class="fr-book-desc">Matches saint traditions, sacred landscapes and pilgrimage themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folklore of the Scottish Highlands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/497767-M.jpg" alt="Cover for Folklore of the Scottish Highlands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -383,43 +417,9 @@ For a modern reader, the appeal lies in the meeting of the tangible and the marv
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Celtic world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/262408-M.jpg" alt="Cover for The Celtic world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celtic world">The Celtic world</a>
-</h4>
-<p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
-        
-<p class="fr-book-desc">First published 1995. Subjects: Celts, Kelten, Pays celtiques, Art celtique, Religion celtique.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Celtic way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/145266-M.jpg" alt="Cover for The Celtic way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celtic way">The Celtic way</a>
-</h4>
-<p class="fr-book-author">By Ian C. Bradley</p>
-        
-<p class="fr-book-desc">First published 1993. Subjects: Celtic Church, Religion, Celts, History, Church history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folklore of the Scottish Highlands</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Of The Unicorn Scottish Folk Tales For Children</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Celtic+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Celtic world</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Celtic+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Celtic world</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Celtic+way&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Celtic way</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folklore of the Scottish Highlands</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

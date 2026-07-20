@@ -374,7 +374,7 @@ For modern readers, the Witch of Berkeley remains compelling because it lets Glo
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
+<p class="fr-book-desc">Explores beliefs about witches, death and supernatural traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -391,7 +391,7 @@ For modern readers, the Witch of Berkeley remains compelling because it lets Glo
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
+<p class="fr-book-desc">Includes famous English legends such as the Witch of Berkeley tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -408,26 +408,9 @@ For modern readers, the Witch of Berkeley remains compelling because it lets Glo
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
+<p class="fr-book-desc">Provides historical context for witch beliefs behind the legend.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land: A Guide to England&#x27;s Legends on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land: A Guide to England&#x27;s Legends">The Lore of the Land: A Guide to England&#x27;s Legends</a>
-</h4>
-<p class="fr-book-author">By Jennifer Westwood</p>
-        
-<p class="fr-book-desc">Includes famous English legends such as the Witch of Berkeley tradition.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

@@ -383,9 +383,43 @@ These wells are not best understood as proof of supernatural cures, nor as quain
 </h4>
 <p class="fr-book-author">By Patrick Logan</p>
         
-<p class="fr-book-desc">First published 1980. Subjects: Christian shrines, Christian pilgrims and pilgrimages, Holy wells, Ireland, description and travel.</p>
+<p class="fr-book-desc">Directly covers holy wells, pilgrimage and healing traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish folk and fairy tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10068859-M.jpg" alt="Cover for Irish folk and fairy tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
+</h4>
+<p class="fr-book-author">By Michael Scott</p>
+        
+<p class="fr-book-desc">Supports wider Irish folklore themes around sacred and supernatural places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+O+hOg%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/893305-M.jpg" alt="Cover for The Lore of Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+O+hOg%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Ireland">The Lore of Ireland</a>
+</h4>
+<p class="fr-book-author">By Dáithí O hOgáin</p>
+        
+<p class="fr-book-desc">Covers saints, places and traditions behind Irish sacred landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+O+hOg%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -400,7 +434,7 @@ These wells are not best understood as proof of supernatural cures, nor as quain
 </h4>
 <p class="fr-book-author">By Dáithí Ó hÓgáin, Dáithí O hOgain et al.</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Druids and Druidism, Religion, Ancient Celtic religion, Archaeology, British &amp; Irish history: BCE to c 50...</p>
+<p class="fr-book-desc">Provides context for sacred water places and layered religious traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+sacred+isle+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -408,43 +442,9 @@ These wells are not best understood as proof of supernatural cures, nor as quain
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Celtic+Christianity+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Celtic Christianity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3740860-M.jpg" alt="Cover for Celtic Christianity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Celtic+Christianity+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic Christianity">Celtic Christianity</a>
-</h4>
-<p class="fr-book-author">By Ian C. Bradley</p>
-        
-<p class="fr-book-desc">First published 1999. Subjects: Celtic Church, Celtic Christianity, Église celtique, RELIGION, Christianity.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Celtic+Christianity+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
-</h4>
-<p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-        
-<p class="fr-book-desc">First published 2006. Subjects: Legends, Encyclopedias, Celtic Mythology, Folklore, Ireland, social life and customs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The holy wells of Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+sacred+isle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The sacred isle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Celtic+Christianity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Celtic Christianity</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The holy wells of Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish folk and fairy tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Ireland</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

@@ -370,7 +370,7 @@ The giants of the Gog Magog Hills are therefore “hidden” in two senses. No c
 </h4>
 <p class="fr-book-author">By Enid Porter</p>
         
-<p class="fr-book-desc">First published 1969. Subjects: Folk-lore, Folklore, Social life and customs, Folklore, great britain, England, social life and customs.</p>
+<p class="fr-book-desc">Provides local context for Cambridgeshire traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cambridgeshire+customs+and+folklore+Enid+Porter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -387,7 +387,7 @@ The giants of the Gog Magog Hills are therefore “hidden” in two senses. No c
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
+<p class="fr-book-desc">Places Gog Magog legends within wider English traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -407,23 +407,6 @@ The giants of the Gog Magog Hills are therefore “hidden” in two senses. No c
 <p class="fr-book-desc">Directly supports the Gog Magog Hills giant tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Giants+in+the+Landscape%3A+Folklore%2C+History+and+Archaeology+David+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land: A Guide to England&#x27;s Legends on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land: A Guide to England&#x27;s Legends">The Lore of the Land: A Guide to England&#x27;s Legends</a>
-</h4>
-<p class="fr-book-author">By Jennifer Westwood</p>
-        
-<p class="fr-book-desc">Places Gog Magog legends within wider English traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lore+of+the+Land%3A+A+Guide+to+England%27s+Legends+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

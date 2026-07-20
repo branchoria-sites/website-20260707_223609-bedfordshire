@@ -863,23 +863,6 @@ That is why the most rewarding way to read Cornwall’s folklore is not to ask o
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall+William+Bottrell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traditions and hearthside stories of West Cornwall on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6268858-M.jpg" alt="Cover for Traditions and hearthside stories of West Cornwall" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall+William+Bottrell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traditions and hearthside stories of West Cornwall">Traditions and hearthside stories of West Cornwall</a>
-</h4>
-<p class="fr-book-author">By William Bottrell</p>
-        
-<p class="fr-book-desc">First published 1870. Subjects: Fairy tales, Folklore, Legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall+William+Bottrell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular romances of the west of England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5646667-M.jpg" alt="Cover for Popular romances of the west of England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -887,9 +870,26 @@ That is why the most rewarding way to read Cornwall’s folklore is not to ask o
 </h4>
 <p class="fr-book-author">By Robert Hunt</p>
         
-<p class="fr-book-desc">First published 1865. Subjects: Folklore, Legends, Oral tradition, Social life and customs, Superstition.</p>
+<p class="fr-book-desc">Foundational collection of Cornish folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall+William+Bottrell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traditions and hearthside stories of West Cornwall on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6268858-M.jpg" alt="Cover for Traditions and hearthside stories of West Cornwall" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall+William+Bottrell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traditions and hearthside stories of West Cornwall">Traditions and hearthside stories of West Cornwall</a>
+</h4>
+<p class="fr-book-author">By William Bottrell</p>
+        
+<p class="fr-book-desc">Primary source for many Cornish oral traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall+William+Bottrell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -904,7 +904,7 @@ That is why the most rewarding way to read Cornwall’s folklore is not to ask o
 </h4>
 <p class="fr-book-author">By Mike O&#x27;Connor</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Folklore, Folklore, great britain.</p>
+<p class="fr-book-desc">Retells many of Cornwall&#x27;s best-known legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -921,7 +921,7 @@ That is why the most rewarding way to read Cornwall’s folklore is not to ask o
 </h4>
 <p class="fr-book-author">By Tony Deane</p>
         
-<p class="fr-book-desc">First published 1975. Subjects: Social life and customs, Folklore, Folklore, great britain.</p>
+<p class="fr-book-desc">Comprehensive introduction to Cornwall&#x27;s legendary traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folklore+of+Cornwall+Tony+Deane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -931,7 +931,7 @@ That is why the most rewarding way to read Cornwall’s folklore is not to ask o
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traditions and hearthside stories of West Cornwall</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popular romances of the west of England</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cornish+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cornish Folk Tales</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popular romances of the west of England</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Traditions+and+hearthside+stories+of+West+Cornwall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traditions and hearthside stories of West Cornwall</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cornish+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cornish Folk Tales</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

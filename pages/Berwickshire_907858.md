@@ -801,7 +801,7 @@ Berwickshire’s legends therefore form a record of how people have understood t
 </h4>
 <p class="fr-book-author">By Sir Walter Scott</p>
         
-<p class="fr-book-desc">First published 1800. Subjects: Poetry, Scots Ballads, Scottish ballads and songs, Texts, English ballads and songs.</p>
+<p class="fr-book-desc">Foundational collection for Border traditions and legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -818,9 +818,26 @@ Berwickshire’s legends therefore form a record of how people have understood t
 </h4>
 <p class="fr-book-author">By Michael Lynch</p>
         
-<p class="fr-book-desc">First published 2007.</p>
+<p class="fr-book-desc">Adds historical context for the county&#x27;s folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+Scottish+History+Michael+Lynch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Fairy Belief on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
+</h4>
+<p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
+        
+<p class="fr-book-desc">Explains supernatural beliefs reflected in Border traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -843,26 +860,9 @@ Berwickshire’s legends therefore form a record of how people have understood t
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Scotland+Margaret+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Folklore+of+Scotland+Margaret+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Scotland">The Folklore of Scotland</a>
-</h4>
-<p class="fr-book-author">By Margaret Bennett</p>
-        
-<p class="fr-book-desc">Provides background across folklore themes represented in Berwickshire.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Folklore+of+Scotland+Margaret+Bennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+Companion+to+Scottish+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford Companion to Scottish History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+to+Scottish+Legends+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland: A to Scottish Legends books</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+Companion+to+Scottish+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford Companion to Scottish History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Fairy Belief</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

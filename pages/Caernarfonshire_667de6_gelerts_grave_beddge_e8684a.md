@@ -357,6 +357,23 @@ Gelert’s Grave still moves visitors because it sits at the meeting-point of tr
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/100618-M.jpg" alt="Cover for History of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Wales">History of Wales</a>
+</h4>
+<p class="fr-book-author">By John Davies</p>
+        
+<p class="fr-book-desc">Adds historical setting for Llywelyn and medieval Wales.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Welsh folk-lore: a collection of the folk-tales and legends of North Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6361459-M.jpg" alt="Cover for Welsh folk-lore: a collection of the folk-tales and legends of North Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -364,7 +381,7 @@ Gelert’s Grave still moves visitors because it sits at the meeting-point of tr
 </h4>
 <p class="fr-book-author">By Elias Owen</p>
         
-<p class="fr-book-desc">First published 1896. Subjects: Folklore.</p>
+<p class="fr-book-desc">Useful for north Wales legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -381,7 +398,7 @@ Gelert’s Grave still moves visitors because it sits at the meeting-point of tr
 </h4>
 <p class="fr-book-author">By Sioned Davies</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Tales, Translations into English, Welsh literature, Celtic Mythology, Fantasy fiction.</p>
+<p class="fr-book-desc">Provides wider storytelling context around Welsh legendary figures.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -389,43 +406,9 @@ Gelert’s Grave still moves visitors because it sits at the meeting-point of tr
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/100618-M.jpg" alt="Cover for History of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Wales">History of Wales</a>
-</h4>
-<p class="fr-book-author">By John Davies</p>
-        
-<p class="fr-book-desc">First published 2007. Subjects: Wales, history, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Wales">A History of Wales</a>
-</h4>
-<p class="fr-book-author">By John Davies</p>
-        
-<p class="fr-book-desc">Adds historical setting for Llywelyn and medieval Wales.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+folk+lore%3A+a+collection+of+the+folk+tales+and+legends+of+North+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh folk lore: a collection of the folk tales and legends of North Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of Wales</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+folk+lore%3A+a+collection+of+the+folk+tales+and+legends+of+North+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh folk lore: a collection of the folk tales and legends of North Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

@@ -356,9 +356,26 @@ Within the wider county pattern, Dunnottar sits beside Stonehaven’s coastal id
 </h4>
 <p class="fr-book-author">By Martin Coventry, MARTIN COVENTRY</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Castles, Guidebooks, Registers, Gazetteers, History.</p>
+<p class="fr-book-desc">Places Dunnottar within Scotland&#x27;s wider castle landscape.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lion and the Unicorn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2751353-M.jpg" alt="Cover for The Lion and the Unicorn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lion and the Unicorn">The Lion and the Unicorn</a>
+</h4>
+<p class="fr-book-author">By Richard Harding Davis</p>
+        
+<p class="fr-book-desc">Connects with the castle&#x27;s most famous legend involving the Scottish Crown Jewels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -398,26 +415,9 @@ Within the wider county pattern, Dunnottar sits beside Stonehaven’s coastal id
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lion and the Unicorn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2751353-M.jpg" alt="Cover for The Lion and the Unicorn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lion and the Unicorn">The Lion and the Unicorn</a>
-</h4>
-<p class="fr-book-author">By Richard Harding Davis</p>
-        
-<p class="fr-book-desc">First published 1899. Subjects: American Short stories, Manners and customs, Fiction, Great britain, fiction, Fiction, action &amp; adventure.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+castles+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The castles of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scottish+Castles+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scottish Castles Story</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+castles+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The castles of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lion and the Unicorn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Scotland</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

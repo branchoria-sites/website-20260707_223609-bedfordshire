@@ -355,6 +355,23 @@ The Pendle witches matter within Lancashire because they show how folklore can g
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lancashire Witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4675734-M.jpg" alt="Cover for The Lancashire Witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lancashire Witches">The Lancashire Witches</a>
+</h4>
+<p class="fr-book-author">By Robert Poole</p>
+        
+<p class="fr-book-desc">Focused on the history, myth and legacy of the Pendle trials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lancashire+Witches%2C+a+Romance+of+Pendle+Forest+William+Harrison+Ainsworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lancashire Witches, a Romance of Pendle Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/751071-M.jpg" alt="Cover for The Lancashire Witches, a Romance of Pendle Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -372,23 +389,6 @@ The Pendle witches matter within Lancashire because they show how folklore can g
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lancashire Witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4675734-M.jpg" alt="Cover for The Lancashire Witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lancashire Witches">The Lancashire Witches</a>
-</h4>
-<p class="fr-book-author">By Robert Poole</p>
-        
-<p class="fr-book-desc">First published 2002. Subjects: Trials (Witchcraft), Congresses, Witches, Witchcraft, Paganism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The witch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -396,7 +396,7 @@ The Pendle witches matter within Lancashire because they show how folklore can g
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
+<p class="fr-book-desc">Explains the wider historical setting of witch beliefs and persecutions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -413,7 +413,7 @@ The Pendle witches matter within Lancashire because they show how folklore can g
 </h4>
 <p class="fr-book-author">By Potts, Thomas, Jennet Preston</p>
         
-<p class="fr-book-desc">First published 1613. Subjects: Witchcraft, Early works to 1800, Miscellanea.</p>
+<p class="fr-book-desc">Original published account of the 1612 trials.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+wonderfull+discoverie+of+witches+in+the+Countie+of+Lancaster+Potts%2C+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -423,7 +423,7 @@ The Pendle witches matter within Lancashire because they show how folklore can g
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lancashire+Witches%2C+a+Romance+of+Pendle+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lancashire Witches, a Romance of Pendle Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lancashire+Witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lancashire Witches</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lancashire+Witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lancashire Witches</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lancashire+Witches%2C+a+Romance+of+Pendle+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lancashire Witches, a Romance of Pendle Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

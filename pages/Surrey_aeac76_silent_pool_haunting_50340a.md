@@ -420,7 +420,7 @@ The most grounded way to tell the story is therefore this: Silent Pool near Albu
 </h4>
 <p class="fr-book-author">By Peter Ackroyd</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Ghosts, Haunted places, England, description and travel.</p>
+<p class="fr-book-desc">Explores how English ghost traditions evolve through literature, belief and place.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+English+ghost+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -430,16 +430,16 @@ The most grounded way to tell the story is therefore this: Silent Pool near Albu
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+new+Oxford+book+of+Victorian+verse+Michael+Cox+and+R.+A.+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The new Oxford book of Victorian verse on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Oxford+Book+of+English+Ghost+Stories+Michael+Cox+and+R.+A.+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Book of English Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+new+Oxford+book+of+Victorian+verse+Michael+Cox+and+R.+A.+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Oxford book of Victorian verse">The new Oxford book of Victorian verse</a>
+<a href="https://www.amazon.com/s?k=The+Oxford+Book+of+English+Ghost+Stories+Michael+Cox+and+R.+A.+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Book of English Ghost Stories">The Oxford Book of English Ghost Stories</a>
 </h4>
 <p class="fr-book-author">By Michael Cox and R. A. Gilbert</p>
         
 <p class="fr-book-desc">Matches readers interested in haunted locations, ghost legends and eerie English settings.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+new+Oxford+book+of+Victorian+verse+Michael+Cox+and+R.+A.+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Oxford+Book+of+English+Ghost+Stories+Michael+Cox+and+R.+A.+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

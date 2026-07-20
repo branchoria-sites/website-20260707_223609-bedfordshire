@@ -358,7 +358,7 @@ The charm of St Swithun’s Day is that it asks everyone to become a folklorist 
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
+<p class="fr-book-desc">Documents weather lore and traditional beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -375,7 +375,7 @@ The charm of St Swithun’s Day is that it asks everyone to become a folklorist 
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
+<p class="fr-book-desc">Includes famous place-based legends such as St Swithun.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -392,26 +392,9 @@ The charm of St Swithun’s Day is that it asks everyone to become a folklorist 
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
         
-<p class="fr-book-desc">First published 1996. Subjects: Social life and customs, Popular culture, Holidays, Folklore, Festivals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Stations+of+the+Sun%3A+A+History+of+the+Ritual+Year+in+Britain+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stations of the Sun: A History of the Ritual Year in Britain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun%3A+A+History+of+the+Ritual+Year+in+Britain+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stations of the Sun: A History of the Ritual Year in Britain">The Stations of the Sun: A History of the Ritual Year in Britain</a>
-</h4>
-<p class="fr-book-author">By Ronald Hutton</p>
-        
 <p class="fr-book-desc">Explains saint days and seasonal customs behind St Swithun&#x27;s tradition.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun%3A+A+History+of+the+Ritual+Year+in+Britain+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

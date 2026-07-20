@@ -358,26 +358,9 @@ For a modern reader, the tale is also a reminder of how local folklore preserves
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
         
-<p class="fr-book-desc">First published 1911. Subjects: Celtic Folklore, Celtic Mythology, Celts, Fairies, Folklore.</p>
+<p class="fr-book-desc">Classic study of Celtic fairy traditions including Welsh beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Welsh Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14325360-M.jpg" alt="Cover for Welsh Folk Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh Folk Tales">Welsh Folk Tales</a>
-</h4>
-<p class="fr-book-author">By Peter Stevenson</p>
-        
-<p class="fr-book-desc">First published 2017. Subjects: Folklore, great britain, Folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -392,9 +375,26 @@ For a modern reader, the tale is also a reminder of how local folklore preserves
 </h4>
 <p class="fr-book-author">By Sioned Davies</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Tales, Translations into English, Welsh literature, Celtic Mythology, Fantasy fiction.</p>
+<p class="fr-book-desc">Foundational Welsh myth collection for understanding magical traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Welsh Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14325360-M.jpg" alt="Cover for Welsh Folk Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh Folk Tales">Welsh Folk Tales</a>
+</h4>
+<p class="fr-book-author">By Peter Stevenson</p>
+        
+<p class="fr-book-desc">Accessible stories similar to the Bala fairy-midwife tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -409,7 +409,7 @@ For a modern reader, the tale is also a reminder of how local folklore preserves
 </h4>
 <p class="fr-book-author">By Katharine Mary Briggs</p>
         
-<p class="fr-book-desc">First published 1976. Subjects: Dictionaries, Fairies, Folklore, Supernatural, Dictionnaires anglais.</p>
+<p class="fr-book-desc">Useful reference for fairy beliefs and terminology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+dictionary+of+fairies+Katharine+Mary+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -419,7 +419,7 @@ For a modern reader, the tale is also a reminder of how local folklore preserves
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh Folk Tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh Folk Tales</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

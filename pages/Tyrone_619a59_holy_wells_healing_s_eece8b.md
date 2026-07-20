@@ -348,6 +348,23 @@ The most responsible modern retelling keeps the wonder without overstating the p
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The holy wells of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4371549-M.jpg" alt="Cover for The holy wells of Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The holy wells of Ireland">The holy wells of Ireland</a>
+</h4>
+<p class="fr-book-author">By Patrick Logan</p>
+        
+<p class="fr-book-desc">Focuses on sacred wells, healing traditions, and pilgrimage customs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Irish+Folk+Ways+E.+Estyn+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish Folk Ways on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/313111-M.jpg" alt="Cover for Irish Folk Ways" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -355,7 +372,7 @@ The most responsible modern retelling keeps the wonder without overstating the p
 </h4>
 <p class="fr-book-author">By E. Estyn Evans</p>
         
-<p class="fr-book-desc">First published 1957. Subjects: Folklore, Rural conditions, Social life and customs, Ireland, Irish.</p>
+<p class="fr-book-desc">Covers customs, beliefs, and rural practices around healing and landscape.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Folk+Ways+E.+Estyn+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -372,26 +389,9 @@ The most responsible modern retelling keeps the wonder without overstating the p
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
         
-<p class="fr-book-desc">First published 1976. Subjects: Folklore, Folklore, scotland, Scotland, social life and customs.</p>
+<p class="fr-book-desc">Comparable Celtic traditions around sacred places and folk belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The holy wells of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4371549-M.jpg" alt="Cover for The holy wells of Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The holy wells of Ireland">The holy wells of Ireland</a>
-</h4>
-<p class="fr-book-author">By Patrick Logan</p>
-        
-<p class="fr-book-desc">First published 1980. Subjects: Christian shrines, Christian pilgrims and pilgrimages, Holy wells, Ireland, description and travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -406,7 +406,7 @@ The most responsible modern retelling keeps the wonder without overstating the p
 </h4>
 <p class="fr-book-author">By Dáithí Ó hÓgáin, Dáithí O hOgain et al.</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Druids and Druidism, Religion, Ancient Celtic religion, Archaeology, British &amp; Irish history: BCE to c 50...</p>
+<p class="fr-book-desc">Explores older Irish sacred landscapes behind holy-place traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+sacred+isle+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -416,7 +416,7 @@ The most responsible modern retelling keeps the wonder without overstating the p
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+Folk+Ways&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish Folk Ways</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folklore of the Scottish Highlands</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The holy wells of Ireland</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The holy wells of Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+Folk+Ways&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish Folk Ways</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folklore of the Scottish Highlands</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

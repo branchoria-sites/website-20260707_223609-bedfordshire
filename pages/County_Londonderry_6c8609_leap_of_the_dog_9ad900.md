@@ -353,16 +353,16 @@ That is the key to the legend today. It is not simply a question of whether a wo
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The high deeds of Finn and other bardic romances of ancient Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2039861-M.jpg" alt="Cover for The high deeds of Finn and other bardic romances of ancient Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Celtic Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/543282-M.jpg" alt="Cover for The Mammoth Book of Celtic Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The high deeds of Finn and other bardic romances of ancient Ireland">The high deeds of Finn and other bardic romances of ancient I...</a>
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
-<p class="fr-book-author">By Thomas William Hazen Rolleston</p>
+<p class="fr-book-author">By Peter Berresford Ellis</p>
         
-<p class="fr-book-desc">First published 1973. Subjects: Bards and bardism, Celtic Mythology, Epic literature, Irish, Heroes, Irish Epic literature.</p>
+<p class="fr-book-desc">Covers heroic Celtic storytelling traditions.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -377,7 +377,7 @@ That is the key to the legend today. It is not simply a question of whether a wo
 </h4>
 <p class="fr-book-author">By Yvonne Carroll</p>
         
-<p class="fr-book-desc">First published 1994. Subjects: Children&#x27;s stories, English, Legends, Children&#x27;s fiction, Ireland, fiction, Legends, juvenile literature.</p>
+<p class="fr-book-desc">Offers approachable versions of Irish legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -387,16 +387,16 @@ That is the key to the legend today. It is not simply a question of whether a wo
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Celtic Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/543282-M.jpg" alt="Cover for The Mammoth Book of Celtic Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish folk and fairy tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10068859-M.jpg" alt="Cover for Irish folk and fairy tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
+<a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
 </h4>
-<p class="fr-book-author">By Peter Berresford Ellis</p>
+<p class="fr-book-author">By Michael Scott</p>
         
-<p class="fr-book-desc">First published 2002. Subjects: Celtic Mythology, Tales, Fiction, Celts, Mythology, Celtic.</p>
+<p class="fr-book-desc">Connects local animal and hero legends to Irish folklore.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -404,16 +404,16 @@ That is the key to the legend today. It is not simply a question of whether a wo
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The high deeds of Finn and other bardic romances of ancient Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2039861-M.jpg" alt="Cover for The high deeds of Finn and other bardic romances of ancient Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
+<a href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The high deeds of Finn and other bardic romances of ancient Ireland">The high deeds of Finn and other bardic romances of ancient I...</a>
 </h4>
-<p class="fr-book-author">By Dáithí Ó hÓgáin</p>
+<p class="fr-book-author">By Thomas William Hazen Rolleston</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Legends, Encyclopedias, Celtic Mythology, Folklore, Ireland, social life and customs.</p>
+<p class="fr-book-desc">Supports the Gaelic heroic storytelling tradition behind place legends.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -421,7 +421,7 @@ That is the key to the legend today. It is not simply a question of whether a wo
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The high deeds of Finn and other bardic romances of ancient Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+Legends+for+Children&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish Legends for Children</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Celtic Myths and Legends</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Celtic Myths and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+Legends+for+Children&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish Legends for Children</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish folk and fairy tales</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

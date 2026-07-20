@@ -834,23 +834,6 @@ Taken together, these strands make Armagh more than a county with scattered lege
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Celtic Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/543282-M.jpg" alt="Cover for The Mammoth Book of Celtic Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
-</h4>
-<p class="fr-book-author">By Peter Berresford Ellis</p>
-        
-<p class="fr-book-desc">First published 2002. Subjects: Celtic Mythology, Tales, Fiction, Celts, Mythology, Celtic.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Treasury+of+Irish+Myth%2C+Legend+%26+Folklore+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Treasury of Irish Myth, Legend &amp; Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322122-M.jpg" alt="Cover for Treasury of Irish Myth, Legend &amp; Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -858,7 +841,7 @@ Taken together, these strands make Armagh more than a county with scattered lege
 </h4>
 <p class="fr-book-author">By William Butler Yeats</p>
         
-<p class="fr-book-desc">First published 1988.</p>
+<p class="fr-book-desc">Covers the mythic and folkloric traditions that shape County Armagh stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Treasury+of+Irish+Myth%2C+Legend+%26+Folklore+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -875,9 +858,26 @@ Taken together, these strands make Armagh more than a county with scattered lege
 </h4>
 <p class="fr-book-author">By Jeffrey Gantz</p>
         
-<p class="fr-book-desc">First published 1981. Subjects: Fiction, Mythology, Epic literature, Irish, Irish Epic literature, Translations into English.</p>
+<p class="fr-book-desc">Provides essential background for Ulster legends, heroes and ancient Irish story cycles.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas+Jeffrey+Gantz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Celtic Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/543282-M.jpg" alt="Cover for The Mammoth Book of Celtic Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
+</h4>
+<p class="fr-book-author">By Peter Berresford Ellis</p>
+        
+<p class="fr-book-desc">Places Armagh folklore within the wider Celtic myth landscape.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -892,7 +892,7 @@ Taken together, these strands make Armagh more than a county with scattered lege
 </h4>
 <p class="fr-book-author">By E. Estyn Evans</p>
         
-<p class="fr-book-desc">First published 1957. Subjects: Folklore, Rural conditions, Social life and customs, Ireland, Irish.</p>
+<p class="fr-book-desc">Explores customs, places and rural beliefs that underpin county folklore traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Folk+Ways+E.+Estyn+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -902,7 +902,7 @@ Taken together, these strands make Armagh more than a county with scattered lege
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Celtic Myths and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Treasury+of+Irish+Myth%2C+Legend+%26+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Treasury of Irish Myth, Legend &amp; Folklore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Early Irish Myths and Sagas</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Treasury+of+Irish+Myth%2C+Legend+%26+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Treasury of Irish Myth, Legend &amp; Folklore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Early Irish Myths and Sagas</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Celtic Myths and Legends</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

@@ -371,7 +371,7 @@ That balance is what makes Rosslyn endure. The chapel is not just a backdrop for
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to Why Rosslyn Chapel Became a Legend Machine. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Why Rosslyn Chapel Became a Legend-Machine. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
@@ -410,16 +410,16 @@ That balance is what makes Rosslyn endure. The chapel is not just a backdrop for
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hanging+by+a+Thread&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hanging by a Thread on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12816683-M.jpg" alt="Cover for Hanging by a Thread" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9323684-M.jpg" alt="Cover for Scottish Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hanging+by+a+Thread&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hanging by a Thread">Hanging by a Thread</a>
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
-<p class="fr-book-author">By Unknown author</p>
+<p class="fr-book-author">By Judy Hamilton</p>
         
-<p class="fr-book-desc">Connects with one of the most commercially powerful legend strands associated with Rosslyn Chapel.</p>
+<p class="fr-book-desc">Provides context for the storytelling traditions that allow places, symbols and old buildings to gather legends.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hanging+by+a+Thread&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -427,16 +427,16 @@ That balance is what makes Rosslyn endure. The chapel is not just a backdrop for
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+mineworkers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mineworkers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rosslyn+Chapel+Michael+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rosslyn Chapel on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+mineworkers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mineworkers">The mineworkers</a>
+<a href="https://www.amazon.com/s?k=Rosslyn+Chapel+Michael+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rosslyn Chapel">Rosslyn Chapel</a>
 </h4>
-<p class="fr-book-author">By Unknown author</p>
+<p class="fr-book-author">By Michael Turnbull</p>
         
 <p class="fr-book-desc">Covers the chapel, its carvings, history and legends that underpin its reputation as a mystery site.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+mineworkers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Rosslyn+Chapel+Michael+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -444,7 +444,7 @@ That balance is what makes Rosslyn endure. The chapel is not just a backdrop for
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Da+Vinci+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Da Vinci Code</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Holy+blood%2C+Holy+Grail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Holy blood, Holy Grail</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hanging+by+a+Thread&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hanging by a Thread</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Da+Vinci+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Da Vinci Code</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Holy+blood%2C+Holy+Grail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Holy blood, Holy Grail</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Myths and Legends</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

@@ -377,33 +377,16 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A dictionary of Scottish history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/651616-M.jpg" alt="Cover for A dictionary of Scottish history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish place-names on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/651651-M.jpg" alt="Cover for Scottish place-names" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of Scottish history">A dictionary of Scottish history</a>
+<a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish place-names">Scottish place-names</a>
 </h4>
-<p class="fr-book-author">By Gordon Donaldson, Robert S. Morpeth</p>
+<p class="fr-book-author">By W. F. H. Nicolaisen</p>
         
-<p class="fr-book-desc">First published 1977. Subjects: Dictionaries, History, British &amp; Irish history, Reference works, History: World.</p>
+<p class="fr-book-desc">Connects landscapes, boundaries and historical identity through Scottish place history.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish folk tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13146954-M.jpg" alt="Cover for Scottish folk tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
-</h4>
-<p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-        
-<p class="fr-book-desc">First published 1976. Subjects: Scottish Tales, Tales, Scottish, Children&#x27;s fiction, Fairy tales.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -418,7 +401,7 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
+<p class="fr-book-desc">Offers general historical background for readers exploring Scottish places and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -435,7 +418,7 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 </h4>
 <p class="fr-book-author">By T. M. Devine</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Scottish National characteristics, Nationalism, History, Scotland, politics and government, Scotland, his...</p>
+<p class="fr-book-desc">Places burgh identity, civic pride and regional traditions within wider Scottish history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Scottish+nation+T.+M.+Devine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -443,9 +426,26 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 </div>
 </div>
 </article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A dictionary of Scottish history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/651616-M.jpg" alt="Cover for A dictionary of Scottish history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of Scottish history">A dictionary of Scottish history</a>
+</h4>
+<p class="fr-book-author">By Gordon Donaldson, Robert S. Morpeth</p>
+        
+<p class="fr-book-desc">First published 1977. Subjects: Dictionaries, History, British &amp; Irish history, Reference works, History: World.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A dictionary of Scottish history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+folk+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish folk tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Scotland</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+place+names&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish place names</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scottish+nation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scottish nation</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

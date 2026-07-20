@@ -361,23 +361,6 @@ For readers of folklore, Caerleon is a reminder that legends do not always begin
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Once+and+Future+King%2C+Complete+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Once and Future King, Complete Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785629-M.jpg" alt="Cover for The Once and Future King, Complete Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Once+and+Future+King%2C+Complete+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Once and Future King, Complete Edition">The Once and Future King, Complete Edition</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Connects readers with the Arthurian tradition that makes places like Caerleon culturally significant.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Once+and+Future+King%2C+Complete+Edition&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+guide+to+Arthurian+literature+and+legend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford guide to Arthurian literature and legend on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9927817-M.jpg" alt="Cover for The Oxford guide to Arthurian literature and legend" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -412,6 +395,23 @@ For readers of folklore, Caerleon is a reminder that legends do not always begin
 </article>
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Once+and+Future+King+T.+H.+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Once and Future King on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6630521-M.jpg" alt="Cover for The Once and Future King" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Once+and+Future+King+T.+H.+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Once and Future King">The Once and Future King</a>
+</h4>
+<p class="fr-book-author">By T. H. White</p>
+        
+<p class="fr-book-desc">Connects readers with the Arthurian tradition that makes places like Caerleon culturally significant.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Once+and+Future+King+T.+H.+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=King+Arthur%3A+The+Making+of+the+Legend+Nicholas+J.+Higham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Arthur: The Making of the Legend on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -429,7 +429,7 @@ For readers of folklore, Caerleon is a reminder that legends do not always begin
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Once+and+Future+King%2C+Complete+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Once and Future King, Complete Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+to+Arthurian+literature+and+legend+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford to Arthurian literature and legend books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+the+kings+of+Britain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of the kings of Britain</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+to+Arthurian+literature+and+legend+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford to Arthurian literature and legend books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+the+kings+of+Britain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of the kings of Britain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Once+and+Future+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Once and Future King</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

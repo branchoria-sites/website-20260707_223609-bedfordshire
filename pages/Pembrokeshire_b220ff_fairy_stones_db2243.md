@@ -371,7 +371,7 @@ The most honest answer is double. Neolithic people built Pentre Ifan, with skill
 </h4>
 <p class="fr-book-author">By Sioned Davies</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Tales, Translations into English, Welsh literature, Celtic Mythology, Fantasy fiction.</p>
+<p class="fr-book-desc">Connects readers interested in enchanted landscapes and Welsh storytelling traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -381,16 +381,16 @@ The most honest answer is double. Neolithic people built Pentre Ifan, with skill
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The tree on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6797670-M.jpg" alt="Cover for The tree" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2590097-M.jpg" alt="Cover for The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tree">The tree</a>
+<a href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality">The Sacred History of Britain: Landscape, Myth &amp; Power:The Fo...</a>
 </h4>
-<p class="fr-book-author">By Colin Hiram Tudge</p>
+<p class="fr-book-author">By Martin Palmer</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Naturgeschichte (Fach), Baum, Trees, Gardening, Nature.</p>
+<p class="fr-book-desc">Useful for readers interested in how ancient monuments become layered with myth.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -415,16 +415,16 @@ The most honest answer is double. Neolithic people built Pentre Ifan, with skill
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring-Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Wales">The Folklore of Wales</a>
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring-Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Wales">The Folklore of Wales</a>
 </h4>
 <p class="fr-book-author">By S. Baring-Gould</p>
         
 <p class="fr-book-desc">Provides wider Welsh fairy, giant, landscape and local tradition context for a folklore landmark page.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring-Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -432,7 +432,7 @@ The most honest answer is double. Neolithic people built Pentre Ifan, with skill
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+tree&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The tree</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Folklore+of+Pembrokeshire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Folklore of Pembrokeshire</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Folklore+of+Pembrokeshire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Folklore of Pembrokeshire</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

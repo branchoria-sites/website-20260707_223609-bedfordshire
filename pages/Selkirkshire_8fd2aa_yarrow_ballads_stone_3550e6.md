@@ -357,9 +357,26 @@ That is why the valley belongs so naturally inside a Selkirkshire folklore map. 
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Tales, Folklore, Fiction, short stories (single author).</p>
+<p class="fr-book-desc">Extends interest from one valley legend to Scotland&#x27;s wider folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ballad book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9708853-M.jpg" alt="Cover for The ballad book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
+</h4>
+<p class="fr-book-author">By MacEdward Leach</p>
+        
+<p class="fr-book-desc">Explains how oral ballads preserve memory of places and events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -382,26 +399,9 @@ That is why the valley belongs so naturally inside a Selkirkshire folklore map. 
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ballad book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9708853-M.jpg" alt="Cover for The ballad book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
-</h4>
-<p class="fr-book-author">By MacEdward Leach</p>
-        
-<p class="fr-book-desc">First published 1955. Subjects: American Narrative poetry, English Ballads, English Narrative poetry, Texts, Scots Ballads.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+book+of+ballads%2C+chosen+and+edited+by+Arthur+Quiller+Couch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford book of ballads, chosen and edited by Arthur Quiller Couch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish folk and fairy tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+Scottish+verse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of Scottish verse</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+book+of+ballads%2C+chosen+and+edited+by+Arthur+Quiller+Couch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford book of ballads, chosen and edited by Arthur Quiller Couch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish folk and fairy tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ballad+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ballad book</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

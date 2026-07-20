@@ -388,9 +388,26 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
         
-<p class="fr-book-desc">First published 1911. Subjects: Celtic Folklore, Celtic Mythology, Celts, Fairies, Folklore.</p>
+<p class="fr-book-desc">Provides wider context for Irish and Celtic beliefs in spirits, haunted landscapes and traditional supernatural stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish folk and fairy tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10068859-M.jpg" alt="Cover for Irish folk and fairy tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
+</h4>
+<p class="fr-book-author">By Michael Scott</p>
+        
+<p class="fr-book-desc">Connects well with Irish legends, fairy beliefs and the storytelling traditions behind haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -405,7 +422,7 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 </h4>
 <p class="fr-book-author">By Foster, R. F.</p>
         
-<p class="fr-book-desc">First published 1991. Subjects: Ireland, history, Ireland, civilization.</p>
+<p class="fr-book-desc">Helps readers understand the historical and cultural background surrounding Irish landscapes and traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Ireland+Foster%2C+R.+F.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -422,7 +439,7 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 </h4>
 <p class="fr-book-author">By Yvonne Carroll</p>
         
-<p class="fr-book-desc">First published 1994. Subjects: Children&#x27;s stories, English, Legends, Children&#x27;s fiction, Ireland, fiction, Legends, juvenile literature.</p>
+<p class="fr-book-desc">Represents the broader Irish legend tradition behind tales of mysterious lakes and supernatural places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -430,26 +447,9 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Irish+Folk+and+Fairy+Tales+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish Folk and Fairy Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Irish+Folk+and+Fairy+Tales+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish Folk and Fairy Tales">Irish Folk and Fairy Tales</a>
-</h4>
-<p class="fr-book-author">By W. B. Yeats</p>
-        
-<p class="fr-book-desc">Connects well with Irish legends, fairy beliefs and the storytelling traditions behind haunted places.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Irish+Folk+and+Fairy+Tales+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+Legends+for+Children&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish Legends for Children</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish folk and fairy tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of Ireland</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

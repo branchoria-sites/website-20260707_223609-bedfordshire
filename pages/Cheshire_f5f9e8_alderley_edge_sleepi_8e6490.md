@@ -365,6 +365,40 @@ For Cheshire folklore, Alderley Edge is the place where landscape, mining, oral 
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weirdstone+of+Brisingamen+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weirdstone of Brisingamen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6253333-M.jpg" alt="Cover for The Weirdstone of Brisingamen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weirdstone+of+Brisingamen+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weirdstone of Brisingamen">The Weirdstone of Brisingamen</a>
+</h4>
+<p class="fr-book-author">By Alan Garner</p>
+        
+<p class="fr-book-desc">Directly rooted in the sleeping army legend and landscape.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weirdstone+of+Brisingamen+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+moon+of+Gomrath+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The moon of Gomrath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247-M.jpg" alt="Cover for The moon of Gomrath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+moon+of+Gomrath+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The moon of Gomrath">The moon of Gomrath</a>
+</h4>
+<p class="fr-book-author">By Alan Garner</p>
+        
+<p class="fr-book-desc">Continues the Alderley Edge mythic setting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+moon+of+Gomrath+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Boneland.+by+Alan+Garner+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boneland. by Alan Garner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8364126-M.jpg" alt="Cover for Boneland. by Alan Garner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -397,43 +431,9 @@ For Cheshire folklore, Alderley Edge is the place where landscape, mining, oral 
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+moon+of+Gomrath+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The moon of Gomrath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247-M.jpg" alt="Cover for The moon of Gomrath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+moon+of+Gomrath+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The moon of Gomrath">The moon of Gomrath</a>
-</h4>
-<p class="fr-book-author">By Alan Garner</p>
-        
-<p class="fr-book-desc">First published 1963. Subjects: Fiction, Fantasy, Wizards, Magic, Brothers and sisters.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+moon+of+Gomrath+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weirdstone+of+Brisingamen+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weirdstone of Brisingamen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6253333-M.jpg" alt="Cover for The Weirdstone of Brisingamen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Weirdstone+of+Brisingamen+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weirdstone of Brisingamen">The Weirdstone of Brisingamen</a>
-</h4>
-<p class="fr-book-author">By Alan Garner</p>
-        
-<p class="fr-book-desc">First published 1960. Subjects: Fiction, Fantasy, Magic, Brothers and sisters, Wizards.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Weirdstone+of+Brisingamen+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Boneland.+by+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boneland. by Alan Garner</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+owl+service&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The owl service</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+moon+of+Gomrath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The moon of Gomrath</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weirdstone+of+Brisingamen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weirdstone of Brisingamen</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+moon+of+Gomrath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The moon of Gomrath</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Boneland.+by+Alan+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boneland. by Alan Garner</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

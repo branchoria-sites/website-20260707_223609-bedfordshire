@@ -324,7 +324,7 @@ For modern visitors, Shap’s importance lies in this combination of evidence an
 </h4>
 <p class="fr-book-author">By Aubrey Burl</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Stone circles, Guidebooks, Antiquities, Megalithic monuments, Great britain, antiquities.</p>
+<p class="fr-book-desc">Provides context for Shap and other prehistoric stone landscapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+guide+to+the+Stone+Circles+of+Britain%2C+Ireland%2C+and+Brittany+Aubrey+Burl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -351,23 +351,6 @@ For modern visitors, Shap’s importance lies in this combination of evidence an
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+Guide+to+the+Stone+Circles+of+Britain%2C+Ireland+and+Brittany+Aubrey+Burl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Guide to the Stone Circles of Britain, Ireland and Brittany on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Guide+to+the+Stone+Circles+of+Britain%2C+Ireland+and+Brittany+Aubrey+Burl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Guide to the Stone Circles of Britain, Ireland and Brittany">A Guide to the Stone Circles of Britain, Ireland and Brittany</a>
-</h4>
-<p class="fr-book-author">By Aubrey Burl</p>
-        
-<p class="fr-book-desc">Provides context for Shap and other prehistoric stone landscapes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Guide+to+the+Stone+Circles+of+Britain%2C+Ireland+and+Brittany+Aubrey+Burl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Prehistoric+Monuments+of+the+British+Isles+Aubrey+Burl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Prehistoric Monuments of the British Isles on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -385,7 +368,7 @@ For modern visitors, Shap’s importance lies in this combination of evidence an
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+to+the+Stone+Circles+of+Britain%2C+Ireland%2C+and+Brittany+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A to the Stone Circles of Britain, Ireland, and Brittany books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+to+the+Stone+Circles+of+Britain%2C+Ireland+and+Brittany+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A to the Stone Circles of Britain, Ireland and Brittany books</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+to+the+Stone+Circles+of+Britain%2C+Ireland%2C+and+Brittany+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A to the Stone Circles of Britain, Ireland, and Brittany books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Prehistoric+Monuments+of+the+British+Isles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Prehistoric Monuments of the British Isles</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

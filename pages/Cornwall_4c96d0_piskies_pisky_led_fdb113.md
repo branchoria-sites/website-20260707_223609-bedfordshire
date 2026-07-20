@@ -395,7 +395,7 @@ The phrase “pisky-led” survives because it names an experience people still 
 </h4>
 <p class="fr-book-author">By Robert Hunt</p>
         
-<p class="fr-book-desc">First published 1865. Subjects: Folklore, Legends, Oral tradition, Social life and customs, Superstition.</p>
+<p class="fr-book-desc">Primary source for Cornish fairy traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -412,7 +412,7 @@ The phrase “pisky-led” survives because it names an experience people still 
 </h4>
 <p class="fr-book-author">By Mike O&#x27;Connor</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Folklore, Folklore, great britain.</p>
+<p class="fr-book-desc">Includes pisky-led stories and fairy lore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -429,7 +429,7 @@ The phrase “pisky-led” survives because it names an experience people still 
 </h4>
 <p class="fr-book-author">By Tony Deane</p>
         
-<p class="fr-book-desc">First published 1975. Subjects: Social life and customs, Folklore, Folklore, great britain.</p>
+<p class="fr-book-desc">Explains piskies and other Cornish supernatural beings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folklore+of+Cornwall+Tony+Deane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -439,16 +439,16 @@ The phrase “pisky-led” survives because it names an experience people still 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairies">Fairies</a>
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
-<p class="fr-book-author">By Morgan Daimler</p>
+<p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Fairies, Celtic Mythology, Celts, folklore.</p>
+<p class="fr-book-desc">Provides broader context for British fairy beliefs.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

@@ -338,7 +338,7 @@ In Buteshire, fairy beliefs are valuable because they reveal how island communit
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
         
-<p class="fr-book-desc">First published 1893. Subjects: Parapsychology, Fairies, Clairvoyance, Early works to 1800, Folklore.</p>
+<p class="fr-book-desc">Foundational text on Scottish fairy belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -355,7 +355,7 @@ In Buteshire, fairy beliefs are valuable because they reveal how island communit
 </h4>
 <p class="fr-book-author">By Eddie Lenihan, Carolyn Eve Green</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Tales, Fairy tales, Fairies.</p>
+<p class="fr-book-desc">Explores traditional encounters with fairies in Celtic regions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meeting+the+other+crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -365,16 +365,16 @@ In Buteshire, fairy beliefs are valuable because they reveal how island communit
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Secret+Commonwealth+of+Elves%2C+Fauns+and+Fairies+Robert+Kirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Commonwealth of Elves, Fauns and Fairies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Fairy Belief on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Secret+Commonwealth+of+Elves%2C+Fauns+and+Fairies+Robert+Kirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Commonwealth of Elves, Fauns and Fairies">The Secret Commonwealth of Elves, Fauns and Fairies</a>
+<a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
 </h4>
-<p class="fr-book-author">By Robert Kirk</p>
+<p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
         
-<p class="fr-book-desc">Foundational text on Scottish fairy belief.</p>
+<p class="fr-book-desc">Directly matches the page subject.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Secret+Commonwealth+of+Elves%2C+Fauns+and+Fairies+Robert+Kirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -399,7 +399,7 @@ In Buteshire, fairy beliefs are valuable because they reveal how island communit
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meeting+the+other+crowd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meeting the other crowd</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Commonwealth+of+Elves%2C+Fauns+and+Fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Commonwealth of Elves, Fauns and Fairies</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meeting+the+other+crowd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meeting the other crowd</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Fairy Belief</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

@@ -349,6 +349,23 @@ Within a wider Radnorshire folklore map, the Four Stones belong beside the drago
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2590097-M.jpg" alt="Cover for The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality">The Sacred History of Britain: Landscape, Myth &amp; Power:The Fo...</a>
+</h4>
+<p class="fr-book-author">By Martin Palmer</p>
+        
+<p class="fr-book-desc">Explains links between sacred landscapes and stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+of+British+Folk-tales%2C+Part+B%3A+Folk+Legends%2C+Volume+I%3A+Katharine+Briggs+Katharine+Mary+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary of British Folk-tales, Part B: Folk Legends, Volume I: Katharine Briggs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5041214-M.jpg" alt="Cover for A Dictionary of British Folk-tales, Part B: Folk Legends, Volume I: Katharine Briggs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -383,33 +400,16 @@ Within a wider Radnorshire folklore map, the Four Stones belong beside the drago
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring-Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Wales">The Folklore of Wales</a>
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring-Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Wales">The Folklore of Wales</a>
 </h4>
 <p class="fr-book-author">By S. Baring-Gould</p>
         
 <p class="fr-book-desc">Covers Welsh legends attached to landscapes and ancient places.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+and+Archaeology+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred History of Britain: Landscape, Myth and Archaeology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+and+Archaeology+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred History of Britain: Landscape, Myth and Archaeology">The Sacred History of Britain: Landscape, Myth and Archaeology</a>
-</h4>
-<p class="fr-book-author">By Martin Palmer</p>
-        
-<p class="fr-book-desc">Explains links between sacred landscapes and stories.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+and+Archaeology+Martin+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+S.+Baring-Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -417,7 +417,7 @@ Within a wider Radnorshire folklore map, the Four Stones belong beside the drago
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+of+British+Folk+tales%2C+Part+B%3A+Folk+Legends%2C+Volume+I%3A+Katharine+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary of British Folk tales, Part B: Folk Legends, Volume I: Katharine Briggs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Folklore+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Folklore of Wales</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sacred+History+of+Britain%3A+Landscape%2C+Myth+%26+Power%3AThe+Forces+That+Have+Shaped+Britain%27s+Spirituality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sacred History of Britain: Landscape, Myth &amp; Power:The Forces That Have Shaped Britain&#x27;s Spirituality</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+of+British+Folk+tales%2C+Part+B%3A+Folk+Legends%2C+Volume+I%3A+Katharine+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary of British Folk tales, Part B: Folk Legends, Volume I: Katharine Briggs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

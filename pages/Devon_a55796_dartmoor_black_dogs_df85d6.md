@@ -352,26 +352,9 @@ The result is not a single solved origin story, but a layered Devon tradition. R
 </h4>
 <p class="fr-book-author">By Arthur Conan Doyle</p>
         
-<p class="fr-book-desc">First published 1900. Subjects: crime novel, English Civil War, mires, tors, tombs.</p>
+<p class="fr-book-desc">Directly inspired by the Dartmoor black dog tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hound+of+the+Baskervilles+Arthur+Conan+Doyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies+William+Crossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tales of the Dartmoor pixies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13832240-M.jpg" alt="Cover for Tales of the Dartmoor pixies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies+William+Crossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tales of the Dartmoor pixies">Tales of the Dartmoor pixies</a>
-</h4>
-<p class="fr-book-author">By William Crossing</p>
-        
-<p class="fr-book-desc">First published 1890. Subjects: Fairies, Tales, Fiction, fantasy, collections &amp; anthologies, England, fiction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies+William+Crossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -386,9 +369,26 @@ The result is not a single solved origin story, but a layered Devon tradition. R
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
+<p class="fr-book-desc">Explains black dog beliefs across Britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies+William+Crossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tales of the Dartmoor pixies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13832240-M.jpg" alt="Cover for Tales of the Dartmoor pixies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies+William+Crossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tales of the Dartmoor pixies">Tales of the Dartmoor pixies</a>
+</h4>
+<p class="fr-book-author">By William Crossing</p>
+        
+<p class="fr-book-desc">Captures the wider folklore world surrounding Dartmoor.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies+William+Crossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -403,7 +403,7 @@ The result is not a single solved origin story, but a layered Devon tradition. R
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
+<p class="fr-book-desc">Includes spectral hounds and regional legend traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -413,7 +413,7 @@ The result is not a single solved origin story, but a layered Devon tradition. R
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hound+of+the+Baskervilles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hound of the Baskervilles</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tales of the Dartmoor pixies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hound+of+the+Baskervilles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hound of the Baskervilles</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tales+of+the+Dartmoor+pixies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tales of the Dartmoor pixies</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
