@@ -339,7 +339,7 @@ Today, witches and second sight remain part of Argyllshire’s cultural identity
 <a href="https://www.amazon.com/s?k=Witchcraft+and+belief+in+early+modern+Scotland+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft and belief in early modern Scotland">Witchcraft and belief in early modern Scotland</a>
 </h4>
 <p class="fr-book-author">By Julian Goodare, Joyce Miller</p>
-        
+
 <p class="fr-book-desc">Provides historical context for Scottish witchcraft, accusations, belief systems and magical traditions similar to Argyll traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft+and+belief+in+early+modern+Scotland+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ Today, witches and second sight remain part of Argyllshire’s cultural identity
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-        
+
 <p class="fr-book-desc">Explores traditional stories, supernatural beliefs and oral traditions connected to Highland culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Today, witches and second sight remain part of Argyllshire’s cultural identity
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
-        
+
 <p class="fr-book-desc">Reflects Highland beliefs about hidden worlds, second sight and supernatural traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Today, witches and second sight remain part of Argyllshire’s cultural identity
 <a href="https://www.amazon.com/s?k=Witchcraft+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft">Witchcraft</a>
 </h4>
 <p class="fr-book-author">By Marion Gibson</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Witchcraft, History, Sorcellerie, Histoire, BODY, MIND &amp; SPIRIT / Parapsychology / General.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

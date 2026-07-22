@@ -840,7 +840,7 @@ Taken together, these strands make Armagh more than a county with scattered lege
 <a href="https://www.amazon.com/s?k=Treasury+of+Irish+Myth%2C+Legend+%26+Folklore+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Treasury of Irish Myth, Legend &amp; Folklore">Treasury of Irish Myth, Legend &amp; Folklore</a>
 </h4>
 <p class="fr-book-author">By William Butler Yeats</p>
-        
+
 <p class="fr-book-desc">Covers the mythic and folkloric traditions that shape County Armagh stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Treasury+of+Irish+Myth%2C+Legend+%26+Folklore+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -857,7 +857,7 @@ Taken together, these strands make Armagh more than a county with scattered lege
 <a href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas+Jeffrey+Gantz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Irish Myths and Sagas">Early Irish Myths and Sagas</a>
 </h4>
 <p class="fr-book-author">By Jeffrey Gantz</p>
-        
+
 <p class="fr-book-desc">Provides essential background for Ulster legends, heroes and ancient Irish story cycles.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas+Jeffrey+Gantz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -874,7 +874,7 @@ Taken together, these strands make Armagh more than a county with scattered lege
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
 <p class="fr-book-desc">Places Armagh folklore within the wider Celtic myth landscape.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -891,7 +891,7 @@ Taken together, these strands make Armagh more than a county with scattered lege
 <a href="https://www.amazon.com/s?k=Irish+Folk+Ways+E.+Estyn+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish Folk Ways">Irish Folk Ways</a>
 </h4>
 <p class="fr-book-author">By E. Estyn Evans</p>
-        
+
 <p class="fr-book-desc">Explores customs, places and rural beliefs that underpin county folklore traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Folk+Ways+E.+Estyn+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

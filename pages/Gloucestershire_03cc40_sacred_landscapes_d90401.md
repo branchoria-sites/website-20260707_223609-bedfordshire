@@ -388,7 +388,7 @@ Together, these places form Gloucestershire’s quieter supernatural map. They d
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland">The Old Stones: A Field Guide to the Megalithic Sites of Brit...</a>
 </h4>
 <p class="fr-book-author">By Andy Burnham</p>
-        
+
 <p class="fr-book-desc">Excellent context for Belas Knap and other Gloucestershire monuments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Together, these places form Gloucestershire’s quieter supernatural map. They d
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
 <p class="fr-book-desc">Connects sacred places with local legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Together, these places form Gloucestershire’s quieter supernatural map. They d
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stations of the Sun">The Stations of the Sun</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-        
+
 <p class="fr-book-desc">Explains seasonal customs associated with sacred landscapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ Together, these places form Gloucestershire’s quieter supernatural map. They d
 <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragons">Dragons</a>
 </h4>
 <p class="fr-book-author">By Karl Shuker</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Dragons, Mythology, Dragons in literature, Acadiens, Biographies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

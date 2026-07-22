@@ -393,7 +393,7 @@ Cornwall’s mythic landscape endures because it lets people hold several truths
 <a href="https://www.amazon.com/s?k=King+Arthur+and+His+Knights+of+the+Round+Table+Roger+Lancelyn+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Arthur and His Knights of the Round Table">King Arthur and His Knights of the Round Table</a>
 </h4>
 <p class="fr-book-author">By Roger Lancelyn Green</p>
-        
+
 <p class="fr-book-desc">First published 1953. Subjects: England, fiction, Fiction, fantasy, historical, Arthur, king, fiction, Arthurian romances, Knights and kn...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=King+Arthur+and+His+Knights+of+the+Round+Table+Roger+Lancelyn+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Cornwall’s mythic landscape endures because it lets people hold several truths
 <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular romances of the west of England">Popular romances of the west of England</a>
 </h4>
 <p class="fr-book-author">By Robert Hunt</p>
-        
+
 <p class="fr-book-desc">First published 1865. Subjects: Folklore, Legends, Oral tradition, Social life and customs, Superstition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Cornwall’s mythic landscape endures because it lets people hold several truths
 <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cornish Folk Tales">Cornish Folk Tales</a>
 </h4>
 <p class="fr-book-author">By Mike O&#x27;Connor</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Folklore, Folklore, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ Cornwall’s mythic landscape endures because it lets people hold several truths
 <a href="https://www.amazon.com/s?k=The+folklore+of+Cornwall+Tony+Deane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Cornwall">The folklore of Cornwall</a>
 </h4>
 <p class="fr-book-author">By Tony Deane</p>
-        
+
 <p class="fr-book-desc">First published 1975. Subjects: Social life and customs, Folklore, Folklore, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folklore+of+Cornwall+Tony+Deane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

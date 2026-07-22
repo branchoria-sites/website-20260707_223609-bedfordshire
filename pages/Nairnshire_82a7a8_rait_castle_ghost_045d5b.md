@@ -351,7 +351,7 @@ For public-facing folklore, the safest and most useful reading is neither scepti
 <a href="https://www.amazon.com/s?k=Macbeth+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Macbeth">Macbeth</a>
 </h4>
 <p class="fr-book-author">By William Shakespeare</p>
-        
+
 <p class="fr-book-desc">First published 1508. Subjects: Drama, Regicides, Kings and rulers, Texts, French-Canadian dialect.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Macbeth+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For public-facing folklore, the safest and most useful reading is neither scepti
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-        
+
 <p class="fr-book-desc">Adds historical context to clan and castle traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For public-facing folklore, the safest and most useful reading is neither scepti
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of witchcraft">The discoverie of witchcraft</a>
 </h4>
 <p class="fr-book-author">By Reginald Scot</p>
-        
+
 <p class="fr-book-desc">First published 1665. Subjects: Early works to 1800, Magic, Demonology, Witchcraft, Witchcraft, juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For public-facing folklore, the safest and most useful reading is neither scepti
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Scottish+short+stories+Douglas+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford book of Scottish short stories">The Oxford book of Scottish short stories</a>
 </h4>
 <p class="fr-book-author">By Douglas Dunn</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Scottish Short stories, Social life and customs, Fiction, English fiction, Scottish authors.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Scottish+short+stories+Douglas+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

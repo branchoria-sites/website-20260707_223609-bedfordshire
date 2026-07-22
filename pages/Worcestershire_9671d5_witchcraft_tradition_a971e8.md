@@ -319,7 +319,7 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-        
+
 <p class="fr-book-desc">Explains the social and legal background behind witch accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -336,7 +336,7 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of witchcraft">The discoverie of witchcraft</a>
 </h4>
 <p class="fr-book-author">By Reginald Scot</p>
-        
+
 <p class="fr-book-desc">Provides historical background for English witchcraft beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 <a href="https://www.amazon.com/s?k=The+encyclopedia+of+witchcraft+and+demonology+Rossell+Hope+Robbins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of witchcraft and demonology">The encyclopedia of witchcraft and demonology</a>
 </h4>
 <p class="fr-book-author">By Rossell Hope Robbins</p>
-        
+
 <p class="fr-book-desc">Covers terminology and historical examples relevant to witch folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+encyclopedia+of+witchcraft+and+demonology+Rossell+Hope+Robbins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Today, Worcestershire witch traditions are best understood as a record of changi
 <a href="https://www.amazon.com/s?k=English+folk+and+fairy+tales+Joseph+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English folk and fairy tales">English folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Joseph Jacobs</p>
-        
+
 <p class="fr-book-desc">Subjects: Fairy tales, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=English+folk+and+fairy+tales+Joseph+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

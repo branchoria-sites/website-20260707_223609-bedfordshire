@@ -365,7 +365,7 @@ Within the wider Huntingdonshire branch, Warboys sits naturally beside later wit
 <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discovery of witches">The discovery of witches</a>
 </h4>
 <p class="fr-book-author">By Matthew Hopkins</p>
-        
+
 <p class="fr-book-desc">First published 1928. Subjects: Early works to 1800, Witchcraft.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Within the wider Huntingdonshire branch, Warboys sits naturally beside later wit
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Within the wider Huntingdonshire branch, Warboys sits naturally beside later wit
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ Within the wider Huntingdonshire branch, Warboys sits naturally beside later wit
 <a href="https://www.amazon.com/s?k=WITCHFINDERS%3A+A+SEVENTEENTH-CENTURY+ENGLISH+TRAGEDY+MALCOLM+GASKILL&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="WITCHFINDERS: A SEVENTEENTH-CENTURY ENGLISH TRAGEDY">WITCHFINDERS: A SEVENTEENTH-CENTURY ENGLISH TRAGEDY</a>
 </h4>
 <p class="fr-book-author">By MALCOLM GASKILL</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Witchcraft, great britain, Great britain, history, stuarts, 1603-1714, Witchcraft, History, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=WITCHFINDERS%3A+A+SEVENTEENTH-CENTURY+ENGLISH+TRAGEDY+MALCOLM+GASKILL&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

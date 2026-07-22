@@ -369,7 +369,7 @@ Read this way, the Trefeglwys changeling tale remains one of Montgomeryshire’s
 <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
 </h4>
 <p class="fr-book-author">By Wirt Sikes</p>
-        
+
 <p class="fr-book-desc">Contains Welsh fairy beliefs and changeling traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Read this way, the Trefeglwys changeling tale remains one of Montgomeryshire’s
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-        
+
 <p class="fr-book-desc">Classic study of fairy belief traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Read this way, the Trefeglwys changeling tale remains one of Montgomeryshire’s
 <a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh Folk Tales">Welsh Folk Tales</a>
 </h4>
 <p class="fr-book-author">By Peter Stevenson</p>
-        
+
 <p class="fr-book-desc">Includes traditional stories appealing to folklore readers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Read this way, the Trefeglwys changeling tale remains one of Montgomeryshire’s
 <a href="https://www.amazon.com/s?k=Celtic+folklore%2C+Welsh+and+Manx+Rhys%2C+John+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic folklore, Welsh and Manx">Celtic folklore, Welsh and Manx</a>
 </h4>
 <p class="fr-book-author">By Rhys, John Sir</p>
-        
+
 <p class="fr-book-desc">First published 1901. Subjects: Folklore, Celts, Celtic Mythology, Celtic Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Celtic+folklore%2C+Welsh+and+Manx+Rhys%2C+John+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

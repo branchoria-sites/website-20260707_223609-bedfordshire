@@ -391,7 +391,7 @@ Its terror is therefore precise. It is not just the fear that something might ri
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-        
+
 <p class="fr-book-desc">First published 1976. Subjects: Folklore, Folklore, scotland, Scotland, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Its terror is therefore precise. It is not just the fear that something might ri
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Folk-tales and Legends">Scottish Folk-tales and Legends</a>
 </h4>
 <p class="fr-book-author">By Barbara Ker Wilson</p>
-        
+
 <p class="fr-book-desc">First published 1954. Subjects: Tales, Fairy tales, Juvenile fiction, Folklore, Legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Its terror is therefore precise. It is not just the fear that something might ri
 <a href="https://www.amazon.com/s?k=Orkneyinga+saga+Hermann+P%C3%A1lsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orkneyinga saga">Orkneyinga saga</a>
 </h4>
 <p class="fr-book-author">By Hermann Pálsson, Paul Edwards</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Sagas, Translations into English, Poetry, Icelandic and old norse literature, Orkney (scotland).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Orkneyinga+saga+Hermann+P%C3%A1lsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ Its terror is therefore precise. It is not just the fear that something might ri
 <a href="https://www.amazon.com/s?k=Sea+Monsters+Joseph+Nigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea Monsters">Sea Monsters</a>
 </h4>
 <p class="fr-book-author">By Joseph Nigg</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Sea monsters, Cartography, history, Authors, european.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sea+Monsters+Joseph+Nigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

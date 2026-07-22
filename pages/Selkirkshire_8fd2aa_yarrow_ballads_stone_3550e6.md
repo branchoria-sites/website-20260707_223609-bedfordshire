@@ -339,7 +339,7 @@ That is why the valley belongs so naturally inside a Selkirkshire folklore map. 
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+ballads%2C+chosen+and+edited+by+Arthur+Quiller-Couch+Arthur+Quiller-Couch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford book of ballads, chosen and edited by Arthur Quiller-Couch">The Oxford book of ballads, chosen and edited by Arthur Quill...</a>
 </h4>
 <p class="fr-book-author">By Arthur Quiller-Couch</p>
-        
+
 <p class="fr-book-desc">First published 1910. Subjects: English ballads and songs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+ballads%2C+chosen+and+edited+by+Arthur+Quiller-Couch+Arthur+Quiller-Couch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ That is why the valley belongs so naturally inside a Selkirkshire folklore map. 
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-        
+
 <p class="fr-book-desc">Extends interest from one valley legend to Scotland&#x27;s wider folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ That is why the valley belongs so naturally inside a Selkirkshire folklore map. 
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
 </h4>
 <p class="fr-book-author">By MacEdward Leach</p>
-        
+
 <p class="fr-book-desc">Explains how oral ballads preserve memory of places and events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ That is why the valley belongs so naturally inside a Selkirkshire folklore map. 
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+Scottish+verse+Tom+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of Scottish verse">The Penguin book of Scottish verse</a>
 </h4>
 <p class="fr-book-author">By Tom Scott</p>
-        
+
 <p class="fr-book-desc">First published 1970. Subjects: Scottish poetry, Poetry, Scottish authors, English poetry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+Scottish+verse+Tom+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

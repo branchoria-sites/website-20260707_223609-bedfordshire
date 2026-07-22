@@ -390,7 +390,7 @@ That combination is why Hugh Miller still shapes Cromarty folklore. He did not i
 <a href="https://www.amazon.com/s?k=Scenes+and+legends+of+the+north+of+Scotland+Hugh+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scenes and legends of the north of Scotland">Scenes and legends of the north of Scotland</a>
 </h4>
 <p class="fr-book-author">By Hugh Miller</p>
-        
+
 <p class="fr-book-desc">Directly preserves Cromarty&#x27;s folklore traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scenes+and+legends+of+the+north+of+Scotland+Hugh+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ That combination is why Hugh Miller still shapes Cromarty folklore. He did not i
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-        
+
 <p class="fr-book-desc">Broadens readers&#x27; understanding of Highland legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ That combination is why Hugh Miller still shapes Cromarty folklore. He did not i
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland History of a Nation">Scotland History of a Nation</a>
 </h4>
 <p class="fr-book-author">By David Ross</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: History, Scotland - History, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ That combination is why Hugh Miller still shapes Cromarty folklore. He did not i
 <a href="https://www.amazon.com/s?k=Folklore+of+Scotland+Margaret+Bennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of Scotland">Folklore of Scotland</a>
 </h4>
 <p class="fr-book-author">By Margaret Bennett</p>
-        
+
 <p class="fr-book-desc">Explains traditions that Miller documented.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+Scotland+Margaret+Bennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

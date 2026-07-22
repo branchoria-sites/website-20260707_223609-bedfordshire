@@ -373,7 +373,7 @@ That is why Renfrewshire’s folklore feels so local. It asks readers not simply
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish place-names">Scottish place-names</a>
 </h4>
 <p class="fr-book-author">By W. F. H. Nicolaisen</p>
-        
+
 <p class="fr-book-desc">Explains how places preserve memory, language and older traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ That is why Renfrewshire’s folklore feels so local. It asks readers not simply
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-        
+
 <p class="fr-book-desc">Supports readers exploring stories connected to Scottish locations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ That is why Renfrewshire’s folklore feels so local. It asks readers not simply
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-        
+
 <p class="fr-book-desc">Broadens place-based folklore research into Highland and Scottish traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ That is why Renfrewshire’s folklore feels so local. It asks readers not simply
 <a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lancashire Witches">The Lancashire Witches</a>
 </h4>
 <p class="fr-book-author">By Robert Poole</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Trials (Witchcraft), Congresses, Witches, Witchcraft, Paganism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

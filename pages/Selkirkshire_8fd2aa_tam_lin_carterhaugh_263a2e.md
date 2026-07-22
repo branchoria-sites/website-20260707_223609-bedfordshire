@@ -366,7 +366,7 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
 </h4>
 <p class="fr-book-author">By MacEdward Leach</p>
-        
+
 <p class="fr-book-desc">The Tam Lin story belongs to the wider traditional ballad tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-        
+
 <p class="fr-book-desc">Offers comparable fairy tales and Scottish storytelling traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minstrelsy of the Scottish border">Minstrelsy of the Scottish border</a>
 </h4>
 <p class="fr-book-author">By Sir Walter Scott</p>
-        
+
 <p class="fr-book-desc">Helps place Tam Lin within the collected traditions of the Scottish Borders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Its lasting appeal comes from the balance between strangeness and emotional clar
 <a href="https://www.amazon.com/s?k=Faerie+queene+Edmund+Spenser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Faerie queene">Faerie queene</a>
 </h4>
 <p class="fr-book-author">By Edmund Spenser</p>
-        
+
 <p class="fr-book-desc">Provides wider literary context for fairy narratives, though not specifically Scottish.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Faerie+queene+Edmund+Spenser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

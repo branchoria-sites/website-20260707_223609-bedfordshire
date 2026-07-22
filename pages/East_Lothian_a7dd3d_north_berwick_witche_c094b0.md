@@ -353,7 +353,7 @@ Within East Lothian’s folklore map, North Berwick sits alongside other local s
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-        
+
 <p class="fr-book-desc">Places witch legends within Scotland&#x27;s wider storytelling traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Within East Lothian’s folklore map, North Berwick sits alongside other local s
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of witchcraft">The discoverie of witchcraft</a>
 </h4>
 <p class="fr-book-author">By Reginald Scot</p>
-        
+
 <p class="fr-book-desc">Adds primary-source perspective to beliefs about magic and witchcraft.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Within East Lothian’s folklore map, North Berwick sits alongside other local s
 <a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ruin of All Witches">Ruin of All Witches</a>
 </h4>
 <p class="fr-book-author">By Malcolm Gaskill</p>
-        
+
 <p class="fr-book-desc">Shows how witch panics developed through communities, fear and legal systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

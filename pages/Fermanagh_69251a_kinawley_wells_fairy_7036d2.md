@@ -380,7 +380,7 @@ In the end, Kinawley’s folklore is about shared passage. Saints move through t
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Michael Scott</p>
-        
+
 <p class="fr-book-desc">Directly supports fairy paths, oral tradition and supernatural place stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ In the end, Kinawley’s folklore is about shared passage. Saints move through t
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-        
+
 <p class="fr-book-desc">A major work on fairy belief traditions across Celtic regions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ In the end, Kinawley’s folklore is about shared passage. Saints move through t
 <a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The holy wells of Ireland">The holy wells of Ireland</a>
 </h4>
 <p class="fr-book-author">By Patrick Logan</p>
-        
+
 <p class="fr-book-desc">Matches the sacred well element of Kinawley&#x27;s traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ In the end, Kinawley’s folklore is about shared passage. Saints move through t
 <a href="https://www.amazon.com/s?k=Celtic+art+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic art">Celtic art</a>
 </h4>
 <p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: Celtic Art, Art, celtic, Art, history, Decoration and ornament, celtic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Celtic+art+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

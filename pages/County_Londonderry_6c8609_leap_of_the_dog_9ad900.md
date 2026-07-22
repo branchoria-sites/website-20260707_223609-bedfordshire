@@ -359,7 +359,7 @@ That is the key to the legend today. It is not simply a question of whether a wo
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
 <p class="fr-book-desc">Covers heroic Celtic storytelling traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ That is the key to the legend today. It is not simply a question of whether a wo
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish Legends for Children">Irish Legends for Children</a>
 </h4>
 <p class="fr-book-author">By Yvonne Carroll</p>
-        
+
 <p class="fr-book-desc">Offers approachable versions of Irish legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ That is the key to the legend today. It is not simply a question of whether a wo
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Michael Scott</p>
-        
+
 <p class="fr-book-desc">Connects local animal and hero legends to Irish folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ That is the key to the legend today. It is not simply a question of whether a wo
 <a href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The high deeds of Finn and other bardic romances of ancient Ireland">The high deeds of Finn and other bardic romances of ancient I...</a>
 </h4>
 <p class="fr-book-author">By Thomas William Hazen Rolleston</p>
-        
+
 <p class="fr-book-desc">Supports the Gaelic heroic storytelling tradition behind place legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+high+deeds+of+Finn+and+other+bardic+romances+of+ancient+Ireland+Thomas+William+Hazen+Rolleston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

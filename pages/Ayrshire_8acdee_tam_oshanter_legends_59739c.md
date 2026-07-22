@@ -339,7 +339,7 @@ The lasting importance of Tam o' Shanter is therefore not that it proves a parti
 <a href="https://www.amazon.com/s?k=The+works+of+Robert+Burns+Robert+Burns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The works of Robert Burns">The works of Robert Burns</a>
 </h4>
 <p class="fr-book-author">By Robert Burns</p>
-        
+
 <p class="fr-book-desc">Contains Tam o&#x27; Shanter and related Burns poetry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+works+of+Robert+Burns+Robert+Burns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ The lasting importance of Tam o' Shanter is therefore not that it proves a parti
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-        
+
 <p class="fr-book-desc">Adds cultural and historical background.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The lasting importance of Tam o' Shanter is therefore not that it proves a parti
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-        
+
 <p class="fr-book-desc">Provides context for the oral traditions Burns adapted.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The lasting importance of Tam o' Shanter is therefore not that it proves a parti
 <a href="https://www.amazon.com/s?k=Robert+Burns%3A+The+Man+and+His+Work+David+Daiches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robert Burns: The Man and His Work">Robert Burns: The Man and His Work</a>
 </h4>
 <p class="fr-book-author">By David Daiches</p>
-        
+
 <p class="fr-book-desc">Directly explores Burns and the literary importance of Tam o&#x27; Shanter.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Robert+Burns%3A+The+Man+and+His+Work+David+Daiches&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

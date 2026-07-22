@@ -355,7 +355,7 @@ That is why Cawdor’s Macbeth myth should be treated neither as fact nor as non
 <a href="https://www.amazon.com/s?k=Macbeth+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Macbeth">Macbeth</a>
 </h4>
 <p class="fr-book-author">By William Shakespeare</p>
-        
+
 <p class="fr-book-desc">The page centres on the gap between Shakespeare&#x27;s story and Cawdor&#x27;s real history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Macbeth+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That is why Cawdor’s Macbeth myth should be treated neither as fact nor as non
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-        
+
 <p class="fr-book-desc">Provides historical context for Macbeth-era Scotland and later myths.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That is why Cawdor’s Macbeth myth should be treated neither as fact nor as non
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Scottish+short+stories+Douglas+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford book of Scottish short stories">The Oxford book of Scottish short stories</a>
 </h4>
 <p class="fr-book-author">By Douglas Dunn</p>
-        
+
 <p class="fr-book-desc">Fits the Shakespeare and literary afterlife angle.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Scottish+short+stories+Douglas+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That is why Cawdor’s Macbeth myth should be treated neither as fact nor as non
 <a href="https://www.amazon.com/s?k=Scottish+Castles+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Castles">Scottish Castles</a>
 </h4>
 <p class="fr-book-author">By Martin Coventry</p>
-        
+
 <p class="fr-book-desc">Supports Cawdor as a real historic place behind later legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Castles+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

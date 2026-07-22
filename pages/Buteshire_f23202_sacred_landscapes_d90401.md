@@ -340,7 +340,7 @@ The enduring appeal of Buteshire’s sacred landscapes comes from this mixture o
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland">The Old Stones: A Field Guide to the Megalithic Sites of Brit...</a>
 </h4>
 <p class="fr-book-author">By Andy Burnham</p>
-        
+
 <p class="fr-book-desc">Excellent fit for prehistoric stones and sacred landscapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ The enduring appeal of Buteshire’s sacred landscapes comes from this mixture o
 <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The visions of Isobel Gowdie">The visions of Isobel Gowdie</a>
 </h4>
 <p class="fr-book-author">By Emma Wilby</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Witchcraft, History, Shamanism, Witchcraft, great britain, Magic, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ The enduring appeal of Buteshire’s sacred landscapes comes from this mixture o
 <a href="https://www.amazon.com/s?k=Sacred+Britannia+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sacred Britannia">Sacred Britannia</a>
 </h4>
 <p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
-        
+
 <p class="fr-book-desc">Provides context for ritual landscapes and sacred places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sacred+Britannia+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The enduring appeal of Buteshire’s sacred landscapes comes from this mixture o
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
 </h4>
 <p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Fairies, Scottish literature, history and criticism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

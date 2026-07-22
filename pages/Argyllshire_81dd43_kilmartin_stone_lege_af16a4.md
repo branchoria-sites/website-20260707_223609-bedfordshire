@@ -331,7 +331,7 @@ Kilmartin Glen therefore represents an important part of Argyllshire’s identit
 <a href="https://www.amazon.com/s?k=The+ancient+stones+of+Scotland+William+Douglas+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ancient stones of Scotland">The ancient stones of Scotland</a>
 </h4>
 <p class="fr-book-author">By William Douglas Simpson</p>
-        
+
 <p class="fr-book-desc">Matches the page’s focus on prehistoric stones, monuments and the stories attached to them.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ancient+stones+of+Scotland+William+Douglas+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ Kilmartin Glen therefore represents an important part of Argyllshire’s identit
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-        
+
 <p class="fr-book-desc">Supports the legendary interpretations of ancient stones, giants, heroes and supernatural landscape stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ Kilmartin Glen therefore represents an important part of Argyllshire’s identit
 <a href="https://www.amazon.com/s?k=Popular+tales+of+the+west+Highlands+John+Francis+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular tales of the west Highlands">Popular tales of the west Highlands</a>
 </h4>
 <p class="fr-book-author">By John Francis Campbell</p>
-        
+
 <p class="fr-book-desc">First published 1860. Subjects: Tales, Translations into English, Celts, Folklore, Scottish Gaelic literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Popular+tales+of+the+west+Highlands+John+Francis+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Kilmartin Glen therefore represents an important part of Argyllshire’s identit
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-        
+
 <p class="fr-book-desc">First published 1911. Subjects: Celtic Folklore, Celtic Mythology, Celts, Fairies, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

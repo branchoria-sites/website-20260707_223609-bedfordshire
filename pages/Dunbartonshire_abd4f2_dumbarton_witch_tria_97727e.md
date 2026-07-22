@@ -351,7 +351,7 @@ The most honest conclusion is therefore a cautious one. Dumbarton’s witch tria
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-        
+
 <p class="fr-book-desc">Provides essential context for Scottish witch trials.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ The most honest conclusion is therefore a cautious one. Dumbarton’s witch tria
 <a href="https://www.amazon.com/s?k=A+history+of+witchcraft+in+England+from+1558+to+1718+Wallace+Notestein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of witchcraft in England from 1558 to 1718">A history of witchcraft in England from 1558 to 1718</a>
 </h4>
 <p class="fr-book-author">By Wallace Notestein</p>
-        
+
 <p class="fr-book-desc">Explains early modern legal and social context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+witchcraft+in+England+from+1558+to+1718+Wallace+Notestein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ The most honest conclusion is therefore a cautious one. Dumbarton’s witch tria
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+and+Folk+Tales+Sir+George+Brisbane+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy and Folk Tales">Scottish Fairy and Folk Tales</a>
 </h4>
 <p class="fr-book-author">By Sir George Brisbane Douglas</p>
-        
+
 <p class="fr-book-desc">Shows the wider supernatural belief landscape of Scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+and+Folk+Tales+Sir+George+Brisbane+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The most honest conclusion is therefore a cautious one. Dumbarton’s witch tria
 <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witches and Witch-Hunters">Scottish Witches and Witch-Hunters</a>
 </h4>
 <p class="fr-book-author">By J. Goodare</p>
-        
+
 <p class="fr-book-desc">Matches Dumbarton’s trial history and Scottish accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

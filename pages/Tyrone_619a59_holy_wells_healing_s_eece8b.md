@@ -354,7 +354,7 @@ The most responsible modern retelling keeps the wonder without overstating the p
 <a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The holy wells of Ireland">The holy wells of Ireland</a>
 </h4>
 <p class="fr-book-author">By Patrick Logan</p>
-        
+
 <p class="fr-book-desc">Focuses on sacred wells, healing traditions, and pilgrimage customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+holy+wells+of+Ireland+Patrick+Logan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ The most responsible modern retelling keeps the wonder without overstating the p
 <a href="https://www.amazon.com/s?k=Irish+Folk+Ways+E.+Estyn+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish Folk Ways">Irish Folk Ways</a>
 </h4>
 <p class="fr-book-author">By E. Estyn Evans</p>
-        
+
 <p class="fr-book-desc">Covers customs, beliefs, and rural practices around healing and landscape.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Folk+Ways+E.+Estyn+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The most responsible modern retelling keeps the wonder without overstating the p
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-        
+
 <p class="fr-book-desc">Comparable Celtic traditions around sacred places and folk belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The most responsible modern retelling keeps the wonder without overstating the p
 <a href="https://www.amazon.com/s?k=The+sacred+isle+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sacred isle">The sacred isle</a>
 </h4>
 <p class="fr-book-author">By Dáithí Ó hÓgáin, Dáithí O hOgain et al.</p>
-        
+
 <p class="fr-book-desc">Explores older Irish sacred landscapes behind holy-place traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+sacred+isle+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

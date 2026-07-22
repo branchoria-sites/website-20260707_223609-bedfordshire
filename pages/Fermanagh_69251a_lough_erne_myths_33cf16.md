@@ -366,7 +366,7 @@ Lough Erne’s traditions turn the lake into the trace of a woman, a burst of su
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Celtic Mythology, Tales, Fiction, Celts, Mythology, Celtic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Lough Erne’s traditions turn the lake into the trace of a woman, a burst of su
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish Legends for Children">Irish Legends for Children</a>
 </h4>
 <p class="fr-book-author">By Yvonne Carroll</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Children&#x27;s stories, English, Legends, Children&#x27;s fiction, Ireland, fiction, Legends, juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Lough Erne’s traditions turn the lake into the trace of a woman, a burst of su
 <a href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+O+hOg%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Ireland">The Lore of Ireland</a>
 </h4>
 <p class="fr-book-author">By Dáithí O hOgáin</p>
-        
+
 <p class="fr-book-desc">First published 2006.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+O+hOg%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Lough Erne’s traditions turn the lake into the trace of a woman, a burst of su
 <a href="https://www.amazon.com/s?k=Irish+Mythology+Philip+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish Mythology">Irish Mythology</a>
 </h4>
 <p class="fr-book-author">By Philip Freeman</p>
-        
+
 <p class="fr-book-desc">Directly covers Irish mythic figures and landscape traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Mythology+Philip+Freeman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -371,7 +371,7 @@ The folklore is not valuable because every detail can be proved. It is valuable 
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-        
+
 <p class="fr-book-desc">Provides wider Scottish folklore context for saints, sacred places, traditions and local beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The folklore is not valuable because every detail can be proved. It is valuable 
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+and+Folk+Tales+Sir+George+Brisbane+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy and Folk Tales">Scottish Fairy and Folk Tales</a>
 </h4>
 <p class="fr-book-author">By Sir George Brisbane Douglas</p>
-        
+
 <p class="fr-book-desc">First published 1893. Subjects: Fairy tales, Folklore, Scottish Fairy tales, Tales, Scottish Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+and+Folk+Tales+Sir+George+Brisbane+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The folklore is not valuable because every detail can be proved. It is valuable 
 <a href="https://www.amazon.com/s?k=The+living+landscape+Patrick+Whitefield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The living landscape">The living landscape</a>
 </h4>
 <p class="fr-book-author">By Patrick Whitefield</p>
-        
+
 <p class="fr-book-desc">Helps readers understand how springs, churches, place names and historic sites accumulate meaning across landscapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+living+landscape+Patrick+Whitefield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The folklore is not valuable because every detail can be proved. It is valuable 
 <a href="https://www.amazon.com/s?k=Sacred+waters+Janet+Bord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sacred waters">Sacred waters</a>
 </h4>
 <p class="fr-book-author">By Janet Bord, Colin Bord</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Folklore, Holy wells, Water.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sacred+waters+Janet+Bord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

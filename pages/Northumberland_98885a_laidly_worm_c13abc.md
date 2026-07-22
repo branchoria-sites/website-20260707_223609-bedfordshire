@@ -353,7 +353,7 @@ The tale’s caution is as important as its charm. Its “ancient” origin stor
 <a href="https://www.amazon.com/s?k=English+Fairy+Tales+Joseph+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Fairy Tales">English Fairy Tales</a>
 </h4>
 <p class="fr-book-author">By Joseph Jacobs, Joseph Jacobs</p>
-        
+
 <p class="fr-book-desc">Includes the famous Laidly Worm story.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=English+Fairy+Tales+Joseph+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ The tale’s caution is as important as its charm. Its “ancient” origin stor
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
 <p class="fr-book-desc">Helps readers compare dragon and heroic traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The tale’s caution is as important as its charm. Its “ancient” origin stor
 <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
 </h4>
 <p class="fr-book-author">By Wirt Sikes</p>
-        
+
 <p class="fr-book-desc">Broadens understanding of British supernatural tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The tale’s caution is as important as its charm. Its “ancient” origin stor
 <a href="https://www.amazon.com/s?k=Dragon+in+the+West+Daniel+Ogden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragon in the West">Dragon in the West</a>
 </h4>
 <p class="fr-book-author">By Daniel Ogden</p>
-        
+
 <p class="fr-book-desc">Places the Laidly Worm within wider dragon folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dragon+in+the+West+Daniel+Ogden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

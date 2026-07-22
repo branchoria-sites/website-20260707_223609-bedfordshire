@@ -366,7 +366,7 @@ That is why they deserve a place in Caithness folklore writing. They show how a 
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland">The Old Stones: A Field Guide to the Megalithic Sites of Brit...</a>
 </h4>
 <p class="fr-book-author">By Andy Burnham</p>
-        
+
 <p class="fr-book-desc">Covers prehistoric monuments and encourages informed exploration.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ That is why they deserve a place in Caithness folklore writing. They show how a 
 <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megalithic European">The Megalithic European</a>
 </h4>
 <p class="fr-book-author">By Julian Cope</p>
-        
+
 <p class="fr-book-desc">Provides broad context for stone circles, cairns and megalithic landscapes including Scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ That is why they deserve a place in Caithness folklore writing. They show how a 
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland History of a Nation">Scotland History of a Nation</a>
 </h4>
 <p class="fr-book-author">By David Ross</p>
-        
+
 <p class="fr-book-desc">Places Caithness prehistoric sites within the wider story of Scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ That is why they deserve a place in Caithness folklore writing. They show how a 
 <a href="https://www.amazon.com/s?k=Scotland%27s+hidden+history+Ian+Armit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland&#x27;s hidden history">Scotland&#x27;s hidden history</a>
 </h4>
 <p class="fr-book-author">By Ian Armit</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Antiquities, Scotland, antiquities, Antiquities, prehistoric, Archaeology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scotland%27s+hidden+history+Ian+Armit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

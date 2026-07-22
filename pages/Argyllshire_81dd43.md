@@ -805,7 +805,7 @@ The enduring appeal of Argyllshire’s folklore comes from its close relationshi
 <a href="https://www.amazon.com/s?k=Popular+tales+of+the+west+Highlands+John+Francis+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular tales of the west Highlands">Popular tales of the west Highlands</a>
 </h4>
 <p class="fr-book-author">By John Francis Campbell</p>
-        
+
 <p class="fr-book-desc">One of the key historical collections of Gaelic oral tales from the western Highlands, directly connected to traditions preserved in Argy...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Popular+tales+of+the+west+Highlands+John+Francis+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -822,7 +822,7 @@ The enduring appeal of Argyllshire’s folklore comes from its close relationshi
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-        
+
 <p class="fr-book-desc">Provides accessible Scottish tales involving fairies, spirits and supernatural themes similar to those found in Argyllshire storytelling.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -839,7 +839,7 @@ The enduring appeal of Argyllshire’s folklore comes from its close relationshi
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-        
+
 <p class="fr-book-desc">Offers a general-reader introduction to Scottish legends, mythical beings and stories connected to landscapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -856,7 +856,7 @@ The enduring appeal of Argyllshire’s folklore comes from its close relationshi
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-        
+
 <p class="fr-book-desc">Covers Scottish myths, legends, supernatural traditions and place-based stories that align closely with Argyllshire landscapes and folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

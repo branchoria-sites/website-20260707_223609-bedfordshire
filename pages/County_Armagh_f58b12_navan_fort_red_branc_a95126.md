@@ -359,7 +359,7 @@ For folklore readers, the best way to understand Navan Fort is to hold two truth
 <a href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas+Jeffrey+Gantz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Irish Myths and Sagas">Early Irish Myths and Sagas</a>
 </h4>
 <p class="fr-book-author">By Jeffrey Gantz</p>
-        
+
 <p class="fr-book-desc">Contains the Ulster Cycle material connected with Cú Chulainn, Conchobar and Emain Macha.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas+Jeffrey+Gantz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For folklore readers, the best way to understand Navan Fort is to hold two truth
 <a href="https://www.amazon.com/s?k=Celtic+mythology+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic mythology">Celtic mythology</a>
 </h4>
 <p class="fr-book-author">By Freeman, Philip</p>
-        
+
 <p class="fr-book-desc">Provides wider context for the mythic traditions surrounding ancient Irish places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Celtic+mythology+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For folklore readers, the best way to understand Navan Fort is to hold two truth
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Celtic Mythology, Tales, Fiction, Celts, Mythology, Celtic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For folklore readers, the best way to understand Navan Fort is to hold two truth
 <a href="https://www.amazon.com/s?k=The+Tain+Ciaran+Carson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tain">The Tain</a>
 </h4>
 <p class="fr-book-author">By Ciaran Carson</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Cuchulain (Legendary character), Legends, Celtic Mythology, Medb (Legendary character), Irish Epic litera...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Tain+Ciaran+Carson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -391,7 +391,7 @@ Bruan Broch’s value lies in precisely this overlap. It is an Iron Age monument
 <a href="https://www.amazon.com/s?k=Scotland%27s+hidden+history+Ian+Armit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland&#x27;s hidden history">Scotland&#x27;s hidden history</a>
 </h4>
 <p class="fr-book-author">By Ian Armit</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Antiquities, Scotland, antiquities, Antiquities, prehistoric, Archaeology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scotland%27s+hidden+history+Ian+Armit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Bruan Broch’s value lies in precisely this overlap. It is an Iron Age monument
 <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaelic otherworld">The Gaelic otherworld</a>
 </h4>
 <p class="fr-book-author">By Campbell, John Gregorson</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Folklore, Witchcraft, Mündliche Überlieferung, Aberglaube, Folklore, scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Bruan Broch’s value lies in precisely this overlap. It is an Iron Age monument
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief%3A+A+History+Lizanne+Henderson+and+Edward+J.+Cowan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief: A History">Scottish Fairy Belief: A History</a>
 </h4>
 <p class="fr-book-author">By Lizanne Henderson and Edward J. Cowan</p>
-        
+
 <p class="fr-book-desc">Explains how ancient monuments became associated with fairy belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief%3A+A+History+Lizanne+Henderson+and+Edward+J.+Cowan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ Bruan Broch’s value lies in precisely this overlap. It is an Iron Age monument
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Sophia+Kingshill+and+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Sophia Kingshill and Jennifer Westwood</p>
-        
+
 <p class="fr-book-desc">Includes monument legends and regional folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Sophia+Kingshill+and+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

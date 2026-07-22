@@ -355,7 +355,7 @@ Together, they make a useful rule for reading county folklore: ask what kind of 
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-        
+
 <p class="fr-book-desc">Supports supernatural interpretations of Scottish places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Together, they make a useful rule for reading county folklore: ask what kind of 
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft and superstitious record in the south-western district of Scotland">Witchcraft and superstitious record in the south-western dist...</a>
 </h4>
 <p class="fr-book-author">By John Maxwell Wood</p>
-        
+
 <p class="fr-book-desc">Useful historical folklore comparison.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Together, they make a useful rule for reading county folklore: ask what kind of 
 <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Scotland+Andrew+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Traveller&#x27;s History of Scotland">A Traveller&#x27;s History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Andrew Fisher</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: History, Scotland, guidebooks, Scotland, history, Guidebooks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Scotland+Andrew+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Together, they make a useful rule for reading county folklore: ask what kind of 
 <a href="https://www.amazon.com/s?k=Queen+of+Scots+J.+A.+%28John+Alexander%29+Guy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Queen of Scots">Queen of Scots</a>
 </h4>
 <p class="fr-book-author">By J. A. (John Alexander) Guy</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Queens, Biography, History, Great britain, history, elizabeth, 1558-1603, Mary, queen of scots, 1542-1587.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Queen+of+Scots+J.+A.+%28John+Alexander%29+Guy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
