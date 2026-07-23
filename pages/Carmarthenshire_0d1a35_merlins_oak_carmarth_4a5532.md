@@ -396,16 +396,16 @@ For readers exploring Carmarthenshire folklore, the oak is a useful doorway into
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Merlin+Stephen+Thomas+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Merlin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8537759-M.jpg" alt="Cover for Merlin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Merlin%3A+The+Prophet+and+His+History+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Merlin: The Prophet and His History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/948726-M.jpg" alt="Cover for Merlin: The Prophet and His History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Merlin+Stephen+Thomas+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merlin">Merlin</a>
+          <a href="https://www.amazon.com/s?k=Merlin%3A+The+Prophet+and+His+History+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merlin: The Prophet and His History">Merlin: The Prophet and His History</a>
         </h4>
-        <p class="fr-book-author">By Stephen Thomas Knight</p>
+        <p class="fr-book-author">By Geoffrey Ashe</p>
 
-        <p class="fr-book-desc">First published 2009. Subjects: Power (Social sciences) in literature, Merlin (Legendary character) in literature, Merlin (Legendary char...</p>
+        <p class="fr-book-desc">Directly connects to Merlin traditions and prophetic legends.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Merlin+Stephen+Thomas+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Merlin%3A+The+Prophet+and+His+History+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

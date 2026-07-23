@@ -845,16 +845,16 @@ The county’s folklore is therefore best understood not as a list of spooky sto
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Merlin+Stephen+Thomas+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Merlin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8537759-M.jpg" alt="Cover for Merlin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Merlin%3A+The+Prophet+and+His+History+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Merlin: The Prophet and His History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/948726-M.jpg" alt="Cover for Merlin: The Prophet and His History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Merlin+Stephen+Thomas+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merlin">Merlin</a>
+          <a href="https://www.amazon.com/s?k=Merlin%3A+The+Prophet+and+His+History+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merlin: The Prophet and His History">Merlin: The Prophet and His History</a>
         </h4>
-        <p class="fr-book-author">By Stephen Thomas Knight</p>
+        <p class="fr-book-author">By Geoffrey Ashe</p>
 
-        <p class="fr-book-desc">First published 2009. Subjects: Power (Social sciences) in literature, Merlin (Legendary character) in literature, Merlin (Legendary char...</p>
+        <p class="fr-book-desc">Relevant to Carmarthen&#x27;s Merlin associations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Merlin+Stephen+Thomas+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Merlin%3A+The+Prophet+and+His+History+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -879,7 +879,7 @@ The county’s folklore is therefore best understood not as a list of spooky sto
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh Folk Tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Merlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Merlin</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh Folk Tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Merlin%3A+The+Prophet+and+His+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Merlin: The Prophet and His History</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
