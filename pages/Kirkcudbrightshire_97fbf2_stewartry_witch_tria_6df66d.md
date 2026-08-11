@@ -363,7 +363,7 @@ Modern readers often approach witch stories looking for mystery. The Stewartry m
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft and superstitious record in the south-western district of Scotland">Witchcraft and superstitious record in the south-western dist...</a>
 </h4>
 <p class="fr-book-author">By John Maxwell Wood</p>
-
+        
 <p class="fr-book-desc">Regional folklore source relevant to south-west Scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Modern readers often approach witch stories looking for mystery. The Stewartry m
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Supports the broader supernatural culture behind legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Modern readers often approach witch stories looking for mystery. The Stewartry m
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Modern readers often approach witch stories looking for mystery. The Stewartry m
 <a href="https://www.amazon.com/s?k=Witchcraft+in+Scotland+Christina+Larner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft in Scotland">Witchcraft in Scotland</a>
 </h4>
 <p class="fr-book-author">By Christina Larner</p>
-
+        
 <p class="fr-book-desc">Explains Scottish witch trials and accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft+in+Scotland+Christina+Larner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

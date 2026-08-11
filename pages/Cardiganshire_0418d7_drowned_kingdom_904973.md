@@ -357,89 +357,89 @@ That is why the drowned kingdom remains one of the most memorable legends attach
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Cardigan Bay Hiding a Lost Kingdom?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Cardigan Bay Hiding a Lost Kingdom?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mabinogion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2894775-M.jpg" alt="Cover for The Mabinogion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Anonymous</p>
-
-        <p class="fr-book-desc">Provides context for ancient Welsh storytelling traditions connected to legendary landscapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mabinogion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2894775-M.jpg" alt="Cover for The Mabinogion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Anonymous</p>
+        
+<p class="fr-book-desc">Provides context for ancient Welsh storytelling traditions connected to legendary landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Welsh Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14325360-M.jpg" alt="Cover for Welsh Folk Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh Folk Tales">Welsh Folk Tales</a>
-        </h4>
-        <p class="fr-book-author">By Peter Stevenson</p>
-
-        <p class="fr-book-desc">Includes landscape legends and oral traditions comparable to Cantre’r Gwaelod.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Welsh Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14325360-M.jpg" alt="Cover for Welsh Folk Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh Folk Tales">Welsh Folk Tales</a>
+</h4>
+<p class="fr-book-author">By Peter Stevenson</p>
+        
+<p class="fr-book-desc">Includes landscape legends and oral traditions comparable to Cantre’r Gwaelod.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Welsh+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Wales+Gwilym+Morus-Baird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+Gwilym+Morus-Baird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Wales">The Folklore of Wales</a>
-        </h4>
-        <p class="fr-book-author">By Gwilym Morus-Baird</p>
-
-        <p class="fr-book-desc">Covers the relationship between Welsh places, memory and traditional stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+Gwilym+Morus-Baird&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Wales+Gwilym+Morus-Baird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+Gwilym+Morus-Baird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Wales">The Folklore of Wales</a>
+</h4>
+<p class="fr-book-author">By Gwilym Morus-Baird</p>
+        
+<p class="fr-book-desc">Covers the relationship between Welsh places, memory and traditional stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Wales+Gwilym+Morus-Baird&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Story+of+Wales+Gwynfor+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Story of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Story+of+Wales+Gwynfor+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Story of Wales">The Story of Wales</a>
-        </h4>
-        <p class="fr-book-author">By Gwynfor Evans</p>
-
-        <p class="fr-book-desc">Helps readers place drowned kingdom traditions within Welsh history and identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Story+of+Wales+Gwynfor+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Story+of+Wales+Gwynfor+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Story of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Story+of+Wales+Gwynfor+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Story of Wales">The Story of Wales</a>
+</h4>
+<p class="fr-book-author">By Gwynfor Evans</p>
+        
+<p class="fr-book-desc">Helps readers place drowned kingdom traditions within Welsh history and identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Story+of+Wales+Gwynfor+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh Folk Tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Folklore+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Folklore of Wales</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Welsh+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Welsh Folk Tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Folklore+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Folklore of Wales</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

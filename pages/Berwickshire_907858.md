@@ -783,89 +783,89 @@ Berwickshire’s legends therefore form a record of how people have understood t
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Legends Still Echo Across Berwickshire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Legends Still Echo Across Berwickshire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Minstrelsy of the Scottish border on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6046304-M.jpg" alt="Cover for Minstrelsy of the Scottish border" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minstrelsy of the Scottish border">Minstrelsy of the Scottish border</a>
-        </h4>
-        <p class="fr-book-author">By Sir Walter Scott</p>
-
-        <p class="fr-book-desc">Foundational collection for Border traditions and legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Minstrelsy of the Scottish border on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6046304-M.jpg" alt="Cover for Minstrelsy of the Scottish border" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minstrelsy of the Scottish border">Minstrelsy of the Scottish border</a>
+</h4>
+<p class="fr-book-author">By Sir Walter Scott</p>
+        
+<p class="fr-book-desc">Foundational collection for Border traditions and legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to Scottish history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10233621-M.jpg" alt="Cover for The Oxford companion to Scottish history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to Scottish history">The Oxford companion to Scottish history</a>
-        </h4>
-        <p class="fr-book-author">By Lynch, Michael</p>
-
-        <p class="fr-book-desc">Adds historical context for the county&#x27;s folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to Scottish history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10233621-M.jpg" alt="Cover for The Oxford companion to Scottish history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to Scottish history">The Oxford companion to Scottish history</a>
+</h4>
+<p class="fr-book-author">By Lynch, Michael</p>
+        
+<p class="fr-book-desc">Adds historical context for the county&#x27;s folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Fairy Belief on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
-        </h4>
-        <p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
-
-        <p class="fr-book-desc">Explains supernatural beliefs reflected in Border traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Fairy Belief on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
+</h4>
+<p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
+        
+<p class="fr-book-desc">Explains supernatural beliefs reflected in Border traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland: A Guide to Scottish Legends on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-
-        <p class="fr-book-desc">Excellent fit for a broad Berwickshire folklore overview.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland: A Guide to Scottish Legends on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
+        
+<p class="fr-book-desc">Excellent fit for a broad Berwickshire folklore overview.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford companion to Scottish history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Fairy Belief</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford companion to Scottish history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Fairy+Belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Fairy Belief</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

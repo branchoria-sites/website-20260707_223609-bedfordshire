@@ -343,7 +343,7 @@ Ayrshire’s ancient stones survive because they have carried meaning across gen
 <a href="https://www.amazon.com/s?k=The+ancient+stones+of+Scotland+William+Douglas+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ancient stones of Scotland">The ancient stones of Scotland</a>
 </h4>
 <p class="fr-book-author">By William Douglas Simpson</p>
-
+        
 <p class="fr-book-desc">Explores Scotland&#x27;s ancient monuments and their cultural significance.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ancient+stones+of+Scotland+William+Douglas+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ Ayrshire’s ancient stones survive because they have carried meaning across gen
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-
+        
 <p class="fr-book-desc">Covers traditional interpretations of landscapes and mysterious places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Ayrshire’s ancient stones survive because they have carried meaning across gen
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Of The Unicorn Scottish Folk Tales For Children">The Coming Of The Unicorn Scottish Folk Tales For Children</a>
 </h4>
 <p class="fr-book-author">By Duncan Williamson</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Folklore, Folklore, juvenile literature, Scotland, juvenile literature, Tales, Juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Ayrshire’s ancient stones survive because they have carried meaning across gen
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

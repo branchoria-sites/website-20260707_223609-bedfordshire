@@ -8,7 +8,9 @@
   "dataAsset": "uk-counties.json",
   "mapLabel": "UFO and UAP historic UK counties map",
   "fallbackSummary": "Open this historic UK county file from the map.",
-  "panelCopy": "Use the map to jump into a historic UK county file, or browse the full county list below.",
+  "panelTitle": "Explore UK UFO reports",
+  "panelCopy": "Use the map to explore a historic UK county file, or browse the full county list.",
+  "browseLabel": "Browse all counties",
   "items": [
     {
       "id": "UK-HC-WORCESTERSHIRE",

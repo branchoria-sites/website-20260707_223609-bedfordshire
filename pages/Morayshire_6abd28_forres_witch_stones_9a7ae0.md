@@ -364,7 +364,7 @@ The final picture is not simple, and that is the point. Forres is not “Moraysh
 <a href="https://www.amazon.com/s?k=Macbeth+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Macbeth">Macbeth</a>
 </h4>
 <p class="fr-book-author">By William Shakespeare</p>
-
+        
 <p class="fr-book-desc">First published 1508. Subjects: Drama, Regicides, Kings and rulers, Texts, French-Canadian dialect.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Macbeth+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The final picture is not simple, and that is the point. Forres is not “Moraysh
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The final picture is not simple, and that is the point. Forres is not “Moraysh
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Folk-tales and Legends">Scottish Folk-tales and Legends</a>
 </h4>
 <p class="fr-book-author">By Barbara Ker Wilson</p>
-
+        
 <p class="fr-book-desc">First published 1954. Subjects: Tales, Fairy tales, Juvenile fiction, Folklore, Legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The final picture is not simple, and that is the point. Forres is not “Moraysh
 <a href="https://www.amazon.com/s?k=Scottish+Witchcraft+and+Magic+Joyce+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witchcraft and Magic">Scottish Witchcraft and Magic</a>
 </h4>
 <p class="fr-book-author">By Joyce Miller</p>
-
+        
 <p class="fr-book-desc">Matches witchcraft memory and Scottish supernatural history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Witchcraft+and+Magic+Joyce+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -333,7 +333,7 @@ Aberdeenshire’s ghost castles therefore represent more than collections of spo
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
 </h4>
 <p class="fr-book-author">By Elliott O&#x27;Donnell</p>
-
+        
 <p class="fr-book-desc">Directly matches the supernatural storytelling lane of Scottish castles and historic locations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ Aberdeenshire’s ghost castles therefore represent more than collections of spo
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Tales, Folklore, Fiction, short stories (single author).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ Aberdeenshire’s ghost castles therefore represent more than collections of spo
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Folklore, Folklore, scotland, Scotland, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Aberdeenshire’s ghost castles therefore represent more than collections of spo
 <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Scotland+Andrew+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Traveller&#x27;s History of Scotland">A Traveller&#x27;s History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Andrew Fisher</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: History, Scotland, guidebooks, Scotland, history, Guidebooks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Scotland+Andrew+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

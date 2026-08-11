@@ -365,89 +365,89 @@ The chapel also shows how Christian legend and folk belief overlap. A saint’s 
 Its evidence is good enough to be taken seriously, but not simple enough to be flattened into fact. The building is real and officially recorded. The pilgrimage and cure traditions are well attested in antiquarian and heritage sources. The saint’s exact identity, the details of the pirate story and the magical powers of the bell stone are legendary. That is precisely why the site is so useful for understanding Pembrokeshire’s cliff saints: it shows how a county can preserve sacred history not only in documents, but in rocks, steps, wells and stories people still repeat when they reach the edge of the sea.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did a Saint Hide in the Cliff?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did a Saint Hide in the Cliff?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mabinogion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2894775-M.jpg" alt="Cover for The Mabinogion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
-        </h4>
-        <p class="fr-book-author">By Nathaniel Anonymous</p>
-
-        <p class="fr-book-desc">Connects readers with the mythic storytelling culture surrounding Welsh landscapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mabinogion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2894775-M.jpg" alt="Cover for The Mabinogion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
+</h4>
+<p class="fr-book-author">By Nathaniel Anonymous</p>
+        
+<p class="fr-book-desc">Connects readers with the mythic storytelling culture surrounding Welsh landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mabinogion+Nathaniel+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The tree on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6797670-M.jpg" alt="Cover for The tree" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tree">The tree</a>
-        </h4>
-        <p class="fr-book-author">By Colin Hiram Tudge</p>
-
-        <p class="fr-book-desc">First published 2006. Subjects: Naturgeschichte (Fach), Baum, Trees, Gardening, Nature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The tree on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6797670-M.jpg" alt="Cover for The tree" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tree">The tree</a>
+</h4>
+<p class="fr-book-author">By Colin Hiram Tudge</p>
+        
+<p class="fr-book-desc">First published 2006. Subjects: Naturgeschichte (Fach), Baum, Trees, Gardening, Nature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+tree+Colin+Hiram+Tudge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers+Richard+Sharpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Celtic Saints: Passionate Wanderers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers+Richard+Sharpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic Saints: Passionate Wanderers">Celtic Saints: Passionate Wanderers</a>
-        </h4>
-        <p class="fr-book-author">By Richard Sharpe</p>
-
-        <p class="fr-book-desc">Directly supports stories of saints, hermitages and early Christian landscapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers+Richard+Sharpe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers+Richard+Sharpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Celtic Saints: Passionate Wanderers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers+Richard+Sharpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic Saints: Passionate Wanderers">Celtic Saints: Passionate Wanderers</a>
+</h4>
+<p class="fr-book-author">By Richard Sharpe</p>
+        
+<p class="fr-book-desc">Directly supports stories of saints, hermitages and early Christian landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers+Richard+Sharpe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+Wales%3A+The+History%2C+Myths+and+Legends+of+Wales+Sion+Dafydd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Wales: The History, Myths and Legends of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Wales%3A+The+History%2C+Myths+and+Legends+of+Wales+Sion+Dafydd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Wales: The History, Myths and Legends of Wales">The Lore of Wales: The History, Myths and Legends of Wales</a>
-        </h4>
-        <p class="fr-book-author">By Sion Dafydd</p>
-
-        <p class="fr-book-desc">Provides the wider Welsh saint, landscape and legend context behind cliff traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Wales%3A+The+History%2C+Myths+and+Legends+of+Wales+Sion+Dafydd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Lore+of+Wales%3A+The+History%2C+Myths+and+Legends+of+Wales+Sion+Dafydd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Wales: The History, Myths and Legends of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Wales%3A+The+History%2C+Myths+and+Legends+of+Wales+Sion+Dafydd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Wales: The History, Myths and Legends of Wales">The Lore of Wales: The History, Myths and Legends of Wales</a>
+</h4>
+<p class="fr-book-author">By Sion Dafydd</p>
+        
+<p class="fr-book-desc">Provides the wider Welsh saint, landscape and legend context behind cliff traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Wales%3A+The+History%2C+Myths+and+Legends+of+Wales+Sion+Dafydd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+tree&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The tree</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Celtic Saints: Passionate Wanderers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+tree&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The tree</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Celtic+Saints%3A+Passionate+Wanderers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Celtic Saints: Passionate Wanderers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

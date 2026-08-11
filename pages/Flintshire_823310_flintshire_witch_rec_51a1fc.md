@@ -362,89 +362,89 @@ For today’s reader, the most honest retelling is not that seventeenth-century 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Flintshire&#x27;s Witch Records Reveal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Flintshire&#x27;s Witch Records Reveal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/100618-M.jpg" alt="Cover for History of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Wales">History of Wales</a>
-        </h4>
-        <p class="fr-book-author">By John Davies</p>
-
-        <p class="fr-book-desc">Adds historical context to Carmarthen and Welsh identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/100618-M.jpg" alt="Cover for History of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Wales">History of Wales</a>
+</h4>
+<p class="fr-book-author">By John Davies</p>
+        
+<p class="fr-book-desc">Adds historical context to Carmarthen and Welsh identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=History+of+Wales+John+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fairy-faith in Celtic countries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5776907-M.jpg" alt="Cover for The fairy-faith in Celtic countries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
-        </h4>
-        <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-
-        <p class="fr-book-desc">Connects supernatural belief systems across Wales and Celtic regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fairy-faith in Celtic countries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5776907-M.jpg" alt="Cover for The fairy-faith in Celtic countries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
+</h4>
+<p class="fr-book-author">By W. Y. Evans-Wentz</p>
+        
+<p class="fr-book-desc">Connects supernatural belief systems across Wales and Celtic regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of witchcraft and magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14579184-M.jpg" alt="Cover for The Oxford illustrated history of witchcraft and magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of witchcraft and magic">The Oxford illustrated history of witchcraft and magic</a>
-        </h4>
-        <p class="fr-book-author">By Owen Davies</p>
-
-        <p class="fr-book-desc">Explains European and British witchcraft traditions behind local cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of witchcraft and magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14579184-M.jpg" alt="Cover for The Oxford illustrated history of witchcraft and magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of witchcraft and magic">The Oxford illustrated history of witchcraft and magic</a>
+</h4>
+<p class="fr-book-author">By Owen Davies</p>
+        
+<p class="fr-book-desc">Explains European and British witchcraft traditions behind local cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Witchcraft Reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9946196-M.jpg" alt="Cover for The Witchcraft Reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witchcraft Reader">The Witchcraft Reader</a>
-        </h4>
-        <p class="fr-book-author">By Darren Oldridge</p>
-
-        <p class="fr-book-desc">Provides context for witchcraft accusations, belief and historical records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Witchcraft Reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9946196-M.jpg" alt="Cover for The Witchcraft Reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witchcraft Reader">The Witchcraft Reader</a>
+</h4>
+<p class="fr-book-author">By Darren Oldridge</p>
+        
+<p class="fr-book-desc">Provides context for witchcraft accusations, belief and historical records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of Wales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of witchcraft and magic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=History+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">History of Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of witchcraft and magic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

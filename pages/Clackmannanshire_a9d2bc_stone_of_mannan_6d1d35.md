@@ -349,7 +349,7 @@ For folklore, that is the point. The Stone of Mannan is not valuable because eve
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland">The Old Stones: A Field Guide to the Megalithic Sites of Brit...</a>
 </h4>
 <p class="fr-book-author">By Andy Burnham</p>
-
+        
 <p class="fr-book-desc">Helps readers understand stones like the Stone of Mannan.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ For folklore, that is the point. The Stone of Mannan is not valuable because eve
 <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megalithic European">The Megalithic European</a>
 </h4>
 <p class="fr-book-author">By Julian Cope</p>
-
+        
 <p class="fr-book-desc">Provides broad understanding of ancient standing stones.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ For folklore, that is the point. The Stone of Mannan is not valuable because eve
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland History of a Nation">Scotland History of a Nation</a>
 </h4>
 <p class="fr-book-author">By David Ross</p>
-
+        
 <p class="fr-book-desc">Provides historical context for Clackmannanshire&#x27;s heritage.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For folklore, that is the point. The Stone of Mannan is not valuable because eve
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

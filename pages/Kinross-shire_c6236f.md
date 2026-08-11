@@ -852,7 +852,7 @@ That combination makes Kinross-shire quietly distinctive. Its legends are not es
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Provides wider context for Scottish legendary landscapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -869,7 +869,7 @@ That combination makes Kinross-shire quietly distinctive. Its legends are not es
 <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Scotland+Andrew+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Traveller&#x27;s History of Scotland">A Traveller&#x27;s History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Andrew Fisher</p>
-
+        
 <p class="fr-book-desc">Helps explain the historical setting behind Kinross-shire places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Traveller%27s+History+of+Scotland+Andrew+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -886,7 +886,7 @@ That combination makes Kinross-shire quietly distinctive. Its legends are not es
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Provides comparable tales and motifs from Scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -903,7 +903,7 @@ That combination makes Kinross-shire quietly distinctive. Its legends are not es
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+S.+G.+MacLean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By S. G. MacLean</p>
-
+        
 <p class="fr-book-desc">Covers the kind of legends, places and traditions found across Kinross-shire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+S.+G.+MacLean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

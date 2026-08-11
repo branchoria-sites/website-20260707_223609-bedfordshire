@@ -364,7 +364,7 @@ That is why Boa Island belongs at the centre of Fermanagh’s folklore map. The 
 <a href="https://www.amazon.com/s?k=Celtic+art+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic art">Celtic art</a>
 </h4>
 <p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
-
+        
 <p class="fr-book-desc">Relevant to interpreting early medieval symbolic carving traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Celtic+art+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ That is why Boa Island belongs at the centre of Fermanagh’s folklore map. The 
 <a href="https://www.amazon.com/s?k=The+Celts+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celts">The Celts</a>
 </h4>
 <p class="fr-book-author">By Barry W. Cunliffe</p>
-
+        
 <p class="fr-book-desc">Provides accessible context without overclaiming the figures&#x27; origins.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Celts+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That is why Boa Island belongs at the centre of Fermanagh’s folklore map. The 
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: Celtic Mythology, Tales, Fiction, Celts, Mythology, Celtic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

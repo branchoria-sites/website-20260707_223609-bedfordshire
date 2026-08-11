@@ -371,7 +371,7 @@ The result is a place where archaeology and imagination meet without needing to 
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Broad historical context for readers interested in Scottish heritage sites.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The result is a place where archaeology and imagination meet without needing to 
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Tales, Folklore, Fiction, short stories (single author).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The result is a place where archaeology and imagination meet without needing to 
 <a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of Scottish history">A dictionary of Scottish history</a>
 </h4>
 <p class="fr-book-author">By Gordon Donaldson, Robert S. Morpeth</p>
-
+        
 <p class="fr-book-desc">First published 1977. Subjects: Dictionaries, History, British &amp; Irish history, Reference works, History: World.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The result is a place where archaeology and imagination meet without needing to 
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Scottish Tales, Tales, Scottish, Children&#x27;s fiction, Fairy tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

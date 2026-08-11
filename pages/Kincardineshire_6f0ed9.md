@@ -829,7 +829,7 @@ The most honest reading is not that Kincardineshire is packed with famous monste
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Provides wider Scottish mythic background for Mearns traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -846,7 +846,7 @@ The most honest reading is not that Kincardineshire is packed with famous monste
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Supports readers interested in the historical events behind local legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -863,7 +863,7 @@ The most honest reading is not that Kincardineshire is packed with famous monste
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-
+        
 <p class="fr-book-desc">Provides traditional belief context relevant to Scottish regional folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -880,7 +880,7 @@ The most honest reading is not that Kincardineshire is packed with famous monste
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-
+        
 <p class="fr-book-desc">Matches a county-level folklore page covering legends, saints, castles and traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

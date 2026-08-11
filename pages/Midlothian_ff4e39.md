@@ -834,7 +834,7 @@ That balance is what makes Midlothian rewarding. Its folklore is not only about 
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-
+        
 <p class="fr-book-desc">Supports local legends, tales and belief traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -851,7 +851,7 @@ That balance is what makes Midlothian rewarding. Its folklore is not only about 
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Provides broad historical context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -868,7 +868,7 @@ That balance is what makes Midlothian rewarding. Its folklore is not only about 
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish place-names">Scottish place-names</a>
 </h4>
 <p class="fr-book-author">By W. F. H. Nicolaisen</p>
-
+        
 <p class="fr-book-desc">Explains landscape names behind local traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -885,7 +885,7 @@ That balance is what makes Midlothian rewarding. Its folklore is not only about 
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-
+        
 <p class="fr-book-desc">Broadly covers Scottish legends, places and supernatural traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

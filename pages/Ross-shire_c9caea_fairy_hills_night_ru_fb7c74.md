@@ -396,7 +396,7 @@ For modern readers, these traditions change how the landscape reads. A small hil
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-
+        
 <p class="fr-book-desc">Foundational study of fairy hills and Celtic supernatural belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For modern readers, these traditions change how the landscape reads. A small hil
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
-
+        
 <p class="fr-book-desc">Classic Scottish account of fairy belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ For modern readers, these traditions change how the landscape reads. A small hil
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-
+        
 <p class="fr-book-desc">Provides traditional stories similar to Ross-shire tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ For modern readers, these traditions change how the landscape reads. A small hil
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-
+        
 <p class="fr-book-desc">Strong coverage of Scottish fairy landscapes and legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -370,7 +370,7 @@ Trow lore endures because it gives Orkney’s mounds a second life. Archaeology 
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Relevant to mound dwellers and fairy traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Trow lore endures because it gives Orkney’s mounds a second life. Archaeology 
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-
+        
 <p class="fr-book-desc">Provides wider context for fairy belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Trow lore endures because it gives Orkney’s mounds a second life. Archaeology 
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-
+        
 <p class="fr-book-desc">Explores belief systems around supernatural beings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Trow lore endures because it gives Orkney’s mounds a second life. Archaeology 
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Folk-tales and Legends">Scottish Folk-tales and Legends</a>
 </h4>
 <p class="fr-book-author">By Barbara Ker Wilson</p>
-
+        
 <p class="fr-book-desc">First published 1954. Subjects: Tales, Fairy tales, Juvenile fiction, Folklore, Legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

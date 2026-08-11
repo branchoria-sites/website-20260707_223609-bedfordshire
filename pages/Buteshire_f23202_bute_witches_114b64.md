@@ -329,7 +329,7 @@ Within the wider folklore of Buteshire, the Bute witch trials stand as a reminde
 <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witches and Witch-Hunters">Scottish Witches and Witch-Hunters</a>
 </h4>
 <p class="fr-book-author">By J. Goodare</p>
-
+        
 <p class="fr-book-desc">Direct background for the Bute witch trials.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ Within the wider folklore of Buteshire, the Bute witch trials stand as a reminde
 <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The visions of Isobel Gowdie">The visions of Isobel Gowdie</a>
 </h4>
 <p class="fr-book-author">By Emma Wilby</p>
-
+        
 <p class="fr-book-desc">Explores Scottish witch beliefs and fairy encounters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ Within the wider folklore of Buteshire, the Bute witch trials stand as a reminde
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
 </h4>
 <p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
-
+        
 <p class="fr-book-desc">Useful for understanding fairy beliefs intertwined with witchcraft accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Within the wider folklore of Buteshire, the Bute witch trials stand as a reminde
 <a href="https://www.amazon.com/s?k=The+Witch-Hunt+in+Early+Modern+Scotland+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witch-Hunt in Early Modern Scotland">The Witch-Hunt in Early Modern Scotland</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-
+        
 <p class="fr-book-desc">Places the Bute cases in national context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Witch-Hunt+in+Early+Modern+Scotland+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

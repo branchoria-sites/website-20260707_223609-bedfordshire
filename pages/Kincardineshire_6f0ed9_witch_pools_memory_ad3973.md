@@ -367,7 +367,7 @@ For Kincardineshire, that makes the witch-pool a small but significant site of â
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft and superstitious record in the south-western district of Scotland">Witchcraft and superstitious record in the south-western dist...</a>
 </h4>
 <p class="fr-book-author">By John Maxwell Wood</p>
-
+        
 <p class="fr-book-desc">Shows how local witch traditions were collected and remembered.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For Kincardineshire, that makes the witch-pool a small but significant site of â
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
 </h4>
 <p class="fr-book-author">By Elliott O&#x27;Donnell</p>
-
+        
 <p class="fr-book-desc">Useful for readers interested in haunted landscapes and local memory.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For Kincardineshire, that makes the witch-pool a small but significant site of â
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Scottish Tales, Tales, Scottish, Children&#x27;s fiction, Fairy tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For Kincardineshire, that makes the witch-pool a small but significant site of â
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

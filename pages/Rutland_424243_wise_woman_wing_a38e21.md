@@ -393,7 +393,7 @@ That is why Amelia Woodcock still belongs on Rutland’s folklore map. Her legen
 <a href="https://www.amazon.com/s?k=Cunning-Folk+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cunning-Folk">Cunning-Folk</a>
 </h4>
 <p class="fr-book-author">By Owen Davies</p>
-
+        
 <p class="fr-book-desc">Directly explains the tradition represented by Amelia Woodcock.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cunning-Folk+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ That is why Amelia Woodcock still belongs on Rutland’s folklore map. Her legen
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">Places Rutland belief traditions within England&#x27;s wider folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ That is why Amelia Woodcock still belongs on Rutland’s folklore map. Her legen
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">Provides essential context for accusations and beliefs around wise women.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ That is why Amelia Woodcock still belongs on Rutland’s folklore map. Her legen
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stations of the Sun">The Stations of the Sun</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">First published 1996. Subjects: Social life and customs, Popular culture, Holidays, Folklore, Festivals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

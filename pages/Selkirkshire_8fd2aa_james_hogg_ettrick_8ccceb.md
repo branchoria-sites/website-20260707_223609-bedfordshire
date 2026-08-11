@@ -368,7 +368,7 @@ Hogg stands in the doorway between them. He preserved material that might otherw
 <a href="https://www.amazon.com/s?k=The+queen%27s+wake+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The queen&#x27;s wake">The queen&#x27;s wake</a>
 </h4>
 <p class="fr-book-author">By James Hogg</p>
-
+        
 <p class="fr-book-desc">Shows Hogg&#x27;s use of Scottish song, oral tradition and poetic culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+queen%27s+wake+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Hogg stands in the doorway between them. He preserved material that might otherw
 <a href="https://www.amazon.com/s?k=The+three+perils+of+man+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The three perils of man">The three perils of man</a>
 </h4>
 <p class="fr-book-author">By James Hogg</p>
-
+        
 <p class="fr-book-desc">Contains supernatural and folkloric elements tied to Hogg&#x27;s Border imagination.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+three+perils+of+man+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Hogg stands in the doorway between them. He preserved material that might otherw
 <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minstrelsy of the Scottish border">Minstrelsy of the Scottish border</a>
 </h4>
 <p class="fr-book-author">By Sir Walter Scott</p>
-
+        
 <p class="fr-book-desc">Connects with the ballad collecting tradition surrounding Hogg and the Borders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Hogg stands in the doorway between them. He preserved material that might otherw
 <a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)">The Private Memoirs and Confessions of A Justified Sinner (Wi...</a>
 </h4>
 <p class="fr-book-author">By James Hogg</p>
-
+        
 <p class="fr-book-desc">First published 1824. Subjects: fiction, Scottish fiction, Murderers, Classics, Psychological.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

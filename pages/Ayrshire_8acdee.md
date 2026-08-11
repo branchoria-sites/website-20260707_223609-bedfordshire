@@ -794,7 +794,7 @@ Ayrshire’s folklore remains distinctive because it is not built around one sin
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Provides historical background for landscapes, communities and traditions behind Ayrshire stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -811,7 +811,7 @@ Ayrshire’s folklore remains distinctive because it is not built around one sin
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Connects with oral storytelling traditions behind Scottish regional legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -828,7 +828,7 @@ Ayrshire’s folklore remains distinctive because it is not built around one sin
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
 </h4>
 <p class="fr-book-author">By Elliott O&#x27;Donnell</p>
-
+        
 <p class="fr-book-desc">Matches the mysterious landscape and supernatural storytelling themes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -845,7 +845,7 @@ Ayrshire’s folklore remains distinctive because it is not built around one sin
 <a href="https://www.amazon.com/s?k=Robert+Burns%3A+The+Man+and+His+Work+David+Daiches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robert Burns: The Man and His Work">Robert Burns: The Man and His Work</a>
 </h4>
 <p class="fr-book-author">By David Daiches</p>
-
+        
 <p class="fr-book-desc">Relevant to Ayrshire identity and literary transformation of local legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Robert+Burns%3A+The+Man+and+His+Work+David+Daiches&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

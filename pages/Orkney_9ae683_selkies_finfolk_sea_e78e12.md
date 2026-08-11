@@ -375,7 +375,7 @@ They also show why Orkney folklore still travels so well. A visitor can stand on
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Contains the type of sea-folk stories discussed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ They also show why Orkney folklore still travels so well. A visitor can stand on
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Folk-tales and Legends">Scottish Folk-tales and Legends</a>
 </h4>
 <p class="fr-book-author">By Barbara Ker Wilson</p>
-
+        
 <p class="fr-book-desc">First published 1954. Subjects: Tales, Fairy tales, Juvenile fiction, Folklore, Legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ They also show why Orkney folklore still travels so well. A visitor can stand on
 <a href="https://www.amazon.com/s?k=Orkneyinga+saga+Hermann+P%C3%A1lsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orkneyinga saga">Orkneyinga saga</a>
 </h4>
 <p class="fr-book-author">By Hermann Pálsson, Paul Edwards</p>
-
+        
 <p class="fr-book-desc">Adds island storytelling context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Orkneyinga+saga+Hermann+P%C3%A1lsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ They also show why Orkney folklore still travels so well. A visitor can stand on
 <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Around Us">The Sea Around Us</a>
 </h4>
 <p class="fr-book-author">By Rachel Carson, Jeffrey S. Levinton</p>
-
+        
 <p class="fr-book-desc">Supports the sea environment behind island stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

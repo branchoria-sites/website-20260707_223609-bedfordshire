@@ -850,7 +850,7 @@ Together, these places make Inverness-shire one of the most folklore-rich histor
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-
+        
 <p class="fr-book-desc">Focuses on Highland customs and beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -867,7 +867,7 @@ Together, these places make Inverness-shire one of the most folklore-rich histor
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-
+        
 <p class="fr-book-desc">Provides Celtic myth background.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -884,7 +884,7 @@ Together, these places make Inverness-shire one of the most folklore-rich histor
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Introduces Highland stories and creatures.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -901,7 +901,7 @@ Together, these places make Inverness-shire one of the most folklore-rich histor
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
-
+        
 <p class="fr-book-desc">Connects with Highland supernatural beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

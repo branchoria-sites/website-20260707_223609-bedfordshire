@@ -336,89 +336,89 @@ The songs preserve a county where history and imagination meet. A raid may becom
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Songs That Preserved Border Legends. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Songs That Preserved Border Legends. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Minstrelsy of the Scottish border on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6046304-M.jpg" alt="Cover for Minstrelsy of the Scottish border" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minstrelsy of the Scottish border">Minstrelsy of the Scottish border</a>
-        </h4>
-        <p class="fr-book-author">By Sir Walter Scott</p>
-
-        <p class="fr-book-desc">The definitive collection of Border ballads.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Minstrelsy of the Scottish border on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6046304-M.jpg" alt="Cover for Minstrelsy of the Scottish border" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minstrelsy of the Scottish border">Minstrelsy of the Scottish border</a>
+</h4>
+<p class="fr-book-author">By Sir Walter Scott</p>
+        
+<p class="fr-book-desc">The definitive collection of Border ballads.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads+Francis+James+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The English and Scottish popular ballads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11107042-M.jpg" alt="Cover for The English and Scottish popular ballads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads+Francis+James+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The English and Scottish popular ballads">The English and Scottish popular ballads</a>
-        </h4>
-        <p class="fr-book-author">By Francis James Child</p>
-
-        <p class="fr-book-desc">Essential source for traditional Border ballads.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads+Francis+James+Child&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads+Francis+James+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The English and Scottish popular ballads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11107042-M.jpg" alt="Cover for The English and Scottish popular ballads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads+Francis+James+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The English and Scottish popular ballads">The English and Scottish popular ballads</a>
+</h4>
+<p class="fr-book-author">By Francis James Child</p>
+        
+<p class="fr-book-desc">Essential source for traditional Border ballads.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads+Francis+James+Child&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ballad book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9708853-M.jpg" alt="Cover for The ballad book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
-        </h4>
-        <p class="fr-book-author">By MacEdward Leach</p>
-
-        <p class="fr-book-desc">Explains the wider ballad tradition behind Border songs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The ballad book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9708853-M.jpg" alt="Cover for The ballad book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
+</h4>
+<p class="fr-book-author">By MacEdward Leach</p>
+        
+<p class="fr-book-desc">Explains the wider ballad tradition behind Border songs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to Scottish history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10233621-M.jpg" alt="Cover for The Oxford companion to Scottish history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to Scottish history">The Oxford companion to Scottish history</a>
-        </h4>
-        <p class="fr-book-author">By Lynch, Michael</p>
-
-        <p class="fr-book-desc">First published 2011. Subjects: Encyclopedias, History, Scotland, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to Scottish history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10233621-M.jpg" alt="Cover for The Oxford companion to Scottish history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to Scottish history">The Oxford companion to Scottish history</a>
+</h4>
+<p class="fr-book-author">By Lynch, Michael</p>
+        
+<p class="fr-book-desc">First published 2011. Subjects: Encyclopedias, History, Scotland, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+companion+to+Scottish+history+Lynch%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The English and Scottish popular ballads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ballad+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ballad book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Minstrelsy+of+the+Scottish+border&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minstrelsy of the Scottish border</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+English+and+Scottish+popular+ballads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The English and Scottish popular ballads</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+ballad+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The ballad book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

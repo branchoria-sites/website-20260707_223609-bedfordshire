@@ -8,13 +8,17 @@ description: Browse the full structured site index.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="county" data-map-layout="uk-counties" data-map-item-type="county" data-map-label="UFO and UAP historic UK counties map" data-map-fallback-summary="Open this historic UK county file from the map." data-map-src="{{ 'assets/maps/uk-historic-counties.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/uk-counties.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="UK-HC-SUFFOLK" data-map-preview-preload="8">
+<header class="home-map-panel-intro">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="england" aria-pressed="false" aria-label="Focus map on England"><span>England</span><small>39</small></button>
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="northern-ireland" aria-pressed="false" aria-label="Focus map on Northern Ireland"><span>Northern Ireland</span><small>6</small></button>
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="scotland" aria-pressed="false" aria-label="Focus map on Scotland"><span>Scotland</span><small>34</small></button>
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="wales" aria-pressed="false" aria-label="Focus map on Wales"><span>Wales</span><small>13</small></button>
 </nav>
+<h1 class="home-map-panel-title">Explore UK UFO reports</h1>
+<p class="home-map-panel-note">Use the map to explore a historic UK county file, or browse the full county list.</p>
+</header>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="county" data-map-layout="uk-counties" data-map-item-type="county" data-map-label="UFO and UAP historic UK counties map" data-map-fallback-summary="Open this historic UK county file from the map." data-map-src="{{ 'assets/maps/uk-historic-counties.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/uk-counties.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="UK-HC-SUFFOLK" data-map-preview-preload="8">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
@@ -30,9 +34,20 @@ description: Browse the full structured site index.
 <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
 </article>
 </section>
-<p class="home-map-panel-note">Use the map to jump into a historic UK county file, or browse the full county list below.</p>
 <p class="home-map-panel-source"><a href="https://commons.wikimedia.org/wiki/File:British_Isles_map_showing_UK,_Republic_of_Ireland,_and_historic_counties.svg" rel="license noopener" target="_blank">Map source (CC BY-SA 4.0)</a></p>
-<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Browse all counties</a></p>
+</section>
+
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">Research Map</h1>
+<p class="home-structure-intro-summary">Browse the main routes through the research across major topics and focused guides.</p>
+<div class="home-structure-actions" aria-label="Homepage starting points">
+<a class="home-structure-action home-structure-action-primary" href="{{ 'where-cheshires-old-stories-still-live/' | relative_url }}">Start here</a>
+<a class="home-structure-action home-structure-action-secondary" href="#browse-reports">Browse or search</a>
+</div>
+</div>
 </section>
 
 <section class="home-adaptive-home page-contents-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="92" data-home-level-1-tier="overflow" data-home-top-child-tier="few" data-home-max-breadth="276" data-home-max-depth="1">

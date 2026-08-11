@@ -357,7 +357,7 @@ The death of the Major Oak in 2026 underlines that this mapped folklore is also 
 <a href="https://www.amazon.com/s?k=The+Adventures+of+Robin+Hood+Roger+Lancelyn+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adventures of Robin Hood">The Adventures of Robin Hood</a>
 </h4>
 <p class="fr-book-author">By Roger Lancelyn Green</p>
-
+        
 <p class="fr-book-desc">A classic narrative version of the Robin Hood legend.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Adventures+of+Robin+Hood+Roger+Lancelyn+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ The death of the Major Oak in 2026 underlines that this mapped folklore is also 
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">Provides wider legendary context for Sherwood and Nottinghamshire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The death of the Major Oak in 2026 underlines that this mapped folklore is also 
 <a href="https://www.amazon.com/s?k=Howard+Pyle%27s+The+Merry+Adventures+of+Robin+Hood+Howard+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Howard Pyle&#x27;s The Merry Adventures of Robin Hood">Howard Pyle&#x27;s The Merry Adventures of Robin Hood</a>
 </h4>
 <p class="fr-book-author">By Howard Pyle</p>
-
+        
 <p class="fr-book-desc">First published 1957.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Howard+Pyle%27s+The+Merry+Adventures+of+Robin+Hood+Howard+Pyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The death of the Major Oak in 2026 underlines that this mapped folklore is also 
 <a href="https://www.amazon.com/s?k=Robin+Hood+J.+C.+Holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robin Hood">Robin Hood</a>
 </h4>
 <p class="fr-book-author">By J. C. Holt</p>
-
+        
 <p class="fr-book-desc">Explains the legend&#x27;s historical and literary development.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Robin+Hood+J.+C.+Holt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

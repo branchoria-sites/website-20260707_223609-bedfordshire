@@ -348,7 +348,7 @@ For readers exploring Inverness-shire’s wider strange history, Loch Ness is th
 <a href="https://www.amazon.com/s?k=The+Loch+Ness+mystery+solved+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness mystery solved">The Loch Ness mystery solved</a>
 </h4>
 <p class="fr-book-author">By Ronald Binns</p>
-
+        
 <p class="fr-book-desc">Examines evidence and explanations behind the legend.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Loch+Ness+mystery+solved+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ For readers exploring Inverness-shire’s wider strange history, Loch Ness is th
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Supports regional myth context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For readers exploring Inverness-shire’s wider strange history, Loch Ness is th
 <a href="https://www.amazon.com/s?k=Photographs+of+the+Loch+Ness+Monster+Roland+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photographs of the Loch Ness Monster">Photographs of the Loch Ness Monster</a>
 </h4>
 <p class="fr-book-author">By Roland Watson</p>
-
+        
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Photographs+of+the+Loch+Ness+Monster+Roland+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For readers exploring Inverness-shire’s wider strange history, Loch Ness is th
 <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Roland+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a>
 </h4>
 <p class="fr-book-author">By Roland Watson</p>
-
+        
 <p class="fr-book-desc">Directly examines Nessie history and sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Roland+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

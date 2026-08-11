@@ -384,7 +384,7 @@ The custom’s strongest lesson is simple but durable: Derbyshire’s folklore i
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">Places well dressing within wider English folk custom.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The custom’s strongest lesson is simple but durable: Derbyshire’s folklore i
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stations of the Sun">The Stations of the Sun</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">Explains the history of seasonal customs like well dressing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The custom’s strongest lesson is simple but durable: Derbyshire’s folklore i
 <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
 </h4>
 <p class="fr-book-author">By Wirt Sikes</p>
-
+        
 <p class="fr-book-desc">First published 1880. Subjects: Folklore, wales, Mythology, welsh.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ The custom’s strongest lesson is simple but durable: Derbyshire’s folklore i
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: Celtic Mythology, Tales, Fiction, Celts, Mythology, Celtic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -378,7 +378,7 @@ The Mearns holy wells therefore ask to be read as a family of places rather than
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Folklore, Folklore, scotland, Scotland, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The Mearns holy wells therefore ask to be read as a family of places rather than
 <a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The castles of Scotland">The castles of Scotland</a>
 </h4>
 <p class="fr-book-author">By Martin Coventry, MARTIN COVENTRY</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Castles, Guidebooks, Registers, Gazetteers, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The Mearns holy wells therefore ask to be read as a family of places rather than
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Scottish Tales, Tales, Scottish, Children&#x27;s fiction, Fairy tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The Mearns holy wells therefore ask to be read as a family of places rather than
 <a href="https://www.amazon.com/s?k=Legends+of+Scottish+Saints+Alan+Macquarrie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legends of Scottish Saints">Legends of Scottish Saints</a>
 </h4>
 <p class="fr-book-author">By Alan Macquarrie</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Saints, Scotland, religion, Christian saints, History, Church history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Legends+of+Scottish+Saints+Alan+Macquarrie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

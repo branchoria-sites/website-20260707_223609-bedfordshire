@@ -353,7 +353,7 @@ Ruth Osborne is now often described as the “last witch” in England, but that
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">Provides primary sources and context for witchcraft accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Ruth Osborne is now often described as the “last witch” in England, but that
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
-
+        
 <p class="fr-book-desc">Explains beliefs that fuelled witch accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Ruth Osborne is now often described as the “last witch” in England, but that
 <a href="https://www.amazon.com/s?k=The+witch+in+history+Diane+Purkiss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch in history">The witch in history</a>
 </h4>
 <p class="fr-book-author">By Diane Purkiss</p>
-
+        
 <p class="fr-book-desc">Examines the cultural history of witch beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+in+history+Diane+Purkiss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Ruth Osborne is now often described as the “last witch” in England, but that
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">Explains beliefs behind Hertfordshire witch cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -355,7 +355,7 @@ Within the wider county pattern, Dunnottar sits beside Stonehaven’s coastal id
 <a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The castles of Scotland">The castles of Scotland</a>
 </h4>
 <p class="fr-book-author">By Martin Coventry, MARTIN COVENTRY</p>
-
+        
 <p class="fr-book-desc">Places Dunnottar within Scotland&#x27;s wider castle landscape.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Within the wider county pattern, Dunnottar sits beside Stonehaven’s coastal id
 <a href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lion and the Unicorn">The Lion and the Unicorn</a>
 </h4>
 <p class="fr-book-author">By Richard Harding Davis</p>
-
+        
 <p class="fr-book-desc">Connects with the castle&#x27;s most famous legend involving the Scottish Crown Jewels.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lion+and+the+Unicorn+Richard+Harding+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Within the wider county pattern, Dunnottar sits beside Stonehaven’s coastal id
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: History, Scotland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Within the wider county pattern, Dunnottar sits beside Stonehaven’s coastal id
 <a href="https://www.amazon.com/s?k=The+Scottish+Castles+Story+Marc+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scottish Castles Story">The Scottish Castles Story</a>
 </h4>
 <p class="fr-book-author">By Marc Alexander</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Castles, History, Architecture, scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Scottish+Castles+Story+Marc+Alexander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

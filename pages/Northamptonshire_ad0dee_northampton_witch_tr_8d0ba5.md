@@ -343,7 +343,7 @@ That is why Northampton’s witch lore is best read with sympathy and caution. S
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">Collects important witchcraft documents and traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ That is why Northampton’s witch lore is best read with sympathy and caution. S
 <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discovery of witches">The discovery of witches</a>
 </h4>
 <p class="fr-book-author">By Matthew Hopkins</p>
-
+        
 <p class="fr-book-desc">Shows contemporary beliefs about witchcraft prosecutions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ That is why Northampton’s witch lore is best read with sympathy and caution. S
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
-
+        
 <p class="fr-book-desc">Explains beliefs underpinning accusations of witchcraft.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ That is why Northampton’s witch lore is best read with sympathy and caution. S
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">Ideal background for Northampton witch trials and folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

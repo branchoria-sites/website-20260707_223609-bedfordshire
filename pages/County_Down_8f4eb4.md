@@ -817,7 +817,7 @@ That approach keeps the mystery without losing judgement. County Down does not n
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Peter Berresford Ellis</p>
-
+        
 <p class="fr-book-desc">Covers the Celtic mythic landscape surrounding County Down legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -834,7 +834,7 @@ That approach keeps the mystery without losing judgement. County Down does not n
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Michael Scott</p>
-
+        
 <p class="fr-book-desc">Supports readers exploring Irish landscape legends and supernatural traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -851,7 +851,7 @@ That approach keeps the mystery without losing judgement. County Down does not n
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-
+        
 <p class="fr-book-desc">Explains Celtic supernatural belief systems relevant to local traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -868,7 +868,7 @@ That approach keeps the mystery without losing judgement. County Down does not n
 <a href="https://www.amazon.com/s?k=The+sacred+isle+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sacred isle">The sacred isle</a>
 </h4>
 <p class="fr-book-author">By Dáithí Ó hÓgáin, Dáithí O hOgain et al.</p>
-
+        
 <p class="fr-book-desc">Adds context for mountains, wells and older religious layers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+sacred+isle+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

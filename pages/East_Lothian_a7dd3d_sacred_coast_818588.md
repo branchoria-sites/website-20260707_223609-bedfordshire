@@ -369,89 +369,89 @@ For a visitor, the most memorable way to understand the sacred coast is to imagi
 That is why St Baldred remains one of East Lothian’s most important folklore figures. He is not spectacular in the way a witch trial or wizard legend is spectacular. His power lies in accumulation: a name on a chapel, a ruined kirk, a disputed body, a holy well, a seabird island, a lost monastery, a pilgrim path. Together they make East Lothian’s shore feel like a sacred map written in stone, water and local memory.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why East Lothian&#x27;s Coast Feels Sacred. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why East Lothian&#x27;s Coast Feels Sacred. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10508941-M.jpg" alt="Cover for A History of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Neil Oliver</p>
-
-        <p class="fr-book-desc">Provides background on the medieval religious world of Scotland.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10508941-M.jpg" alt="Cover for A History of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
+</h4>
+<p class="fr-book-author">By Neil Oliver</p>
+        
+<p class="fr-book-desc">Provides background on the medieval religious world of Scotland.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Old Ways on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8701934-M.jpg" alt="Cover for The Old Ways" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Ways">The Old Ways</a>
-        </h4>
-        <p class="fr-book-author">By Robert Macfarlane, Robin Sachs</p>
-
-        <p class="fr-book-desc">First published 2012. Subjects: Voyages and travels, Walking, Description and travel, Natural history, Trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Old Ways on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8701934-M.jpg" alt="Cover for The Old Ways" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Ways">The Old Ways</a>
+</h4>
+<p class="fr-book-author">By Robert Macfarlane, Robin Sachs</p>
+        
+<p class="fr-book-desc">First published 2012. Subjects: Voyages and travels, Walking, Description and travel, Natural history, Trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ruin of All Witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12568268-M.jpg" alt="Cover for Ruin of All Witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ruin of All Witches">Ruin of All Witches</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gaskill</p>
-
-        <p class="fr-book-desc">First published 2021. Subjects: Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ruin of All Witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12568268-M.jpg" alt="Cover for Ruin of All Witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ruin of All Witches">Ruin of All Witches</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gaskill</p>
+        
+<p class="fr-book-desc">First published 2021. Subjects: Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Walking+the+Old+Ways%3A+A+Journey+on+Foot+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Walking the Old Ways: A Journey on Foot on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Walking+the+Old+Ways%3A+A+Journey+on+Foot+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walking the Old Ways: A Journey on Foot">Walking the Old Ways: A Journey on Foot</a>
-        </h4>
-        <p class="fr-book-author">By Robert Macfarlane</p>
-
-        <p class="fr-book-desc">Captures the connection between paths, memory, place and meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Walking+the+Old+Ways%3A+A+Journey+on+Foot+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Walking+the+Old+Ways%3A+A+Journey+on+Foot+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Walking the Old Ways: A Journey on Foot on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Walking+the+Old+Ways%3A+A+Journey+on+Foot+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walking the Old Ways: A Journey on Foot">Walking the Old Ways: A Journey on Foot</a>
+</h4>
+<p class="fr-book-author">By Robert Macfarlane</p>
+        
+<p class="fr-book-desc">Captures the connection between paths, memory, place and meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Walking+the+Old+Ways%3A+A+Journey+on+Foot+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Old+Ways&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Old Ways</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ruin+of+All+Witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ruin of All Witches</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Old+Ways&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Old Ways</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ruin+of+All+Witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ruin of All Witches</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

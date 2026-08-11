@@ -365,7 +365,7 @@ That combination is exactly why Caithness is such a rich county for sea folklore
 <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaelic otherworld">The Gaelic otherworld</a>
 </h4>
 <p class="fr-book-author">By Campbell, John Gregorson</p>
-
+        
 <p class="fr-book-desc">Includes sea-related supernatural beliefs and Celtic tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That combination is exactly why Caithness is such a rich county for sea folklore
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Introduces Scottish sea legends and supernatural lore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ That combination is exactly why Caithness is such a rich county for sea folklore
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
 </h4>
 <p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
-
+        
 <p class="fr-book-desc">Useful for understanding seal-fairy traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ That combination is exactly why Caithness is such a rich county for sea folklore
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Sophia+Kingshill+and+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Sophia Kingshill and Jennifer Westwood</p>
-
+        
 <p class="fr-book-desc">Contains coastal legends, supernatural traditions and regional folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Sophia+Kingshill+and+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

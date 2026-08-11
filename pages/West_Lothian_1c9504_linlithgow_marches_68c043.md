@@ -383,7 +383,7 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish place-names">Scottish place-names</a>
 </h4>
 <p class="fr-book-author">By W. F. H. Nicolaisen</p>
-
+        
 <p class="fr-book-desc">Connects landscapes, boundaries and historical identity through Scottish place history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Offers general historical background for readers exploring Scottish places and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 <a href="https://www.amazon.com/s?k=The+Scottish+nation+T.+M.+Devine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scottish nation">The Scottish nation</a>
 </h4>
 <p class="fr-book-author">By T. M. Devine</p>
-
+        
 <p class="fr-book-desc">Places burgh identity, civic pride and regional traditions within wider Scottish history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Scottish+nation+T.+M.+Devine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ That is why Linlithgow still walks its boundaries. Not because the town needs a 
 <a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of Scottish history">A dictionary of Scottish history</a>
 </h4>
 <p class="fr-book-author">By Gordon Donaldson, Robert S. Morpeth</p>
-
+        
 <p class="fr-book-desc">First published 1977. Subjects: Dictionaries, History, British &amp; Irish history, Reference works, History: World.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+dictionary+of+Scottish+history+Gordon+Donaldson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

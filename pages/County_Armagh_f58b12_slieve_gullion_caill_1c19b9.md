@@ -361,7 +361,7 @@ That is why Slieve Gullion remains one of County Armagh’s most memorable legen
 <a href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas+Jeffrey+Gantz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Early Irish Myths and Sagas">Early Irish Myths and Sagas</a>
 </h4>
 <p class="fr-book-author">By Jeffrey Gantz</p>
-
+        
 <p class="fr-book-desc">Covers Fionn Mac Cumhaill traditions and the heroic storytelling world behind Slieve Gullion legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Early+Irish+Myths+and+Sagas+Jeffrey+Gantz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ That is why Slieve Gullion remains one of County Armagh’s most memorable legen
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-
+        
 <p class="fr-book-desc">Explores beliefs in enchanted landscapes, magical beings and dangerous supernatural encounters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ That is why Slieve Gullion remains one of County Armagh’s most memorable legen
 <a href="https://www.amazon.com/s?k=Celtic+mythology+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic mythology">Celtic mythology</a>
 </h4>
 <p class="fr-book-author">By Freeman, Philip</p>
-
+        
 <p class="fr-book-desc">Places Slieve Gullion&#x27;s legend within the larger Celtic myth tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Celtic+mythology+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ That is why Slieve Gullion remains one of County Armagh’s most memorable legen
 <a href="https://www.amazon.com/s?k=Fionn+mac+Cumhaill+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fionn mac Cumhaill">Fionn mac Cumhaill</a>
 </h4>
 <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-
+        
 <p class="fr-book-desc">The page connects directly to Fionn traditions, but general Irish mythology books are more reliable purchases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fionn+mac+Cumhaill+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

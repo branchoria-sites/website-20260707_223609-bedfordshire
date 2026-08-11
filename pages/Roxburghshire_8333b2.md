@@ -827,7 +827,7 @@ For visitors and readers, the most memorable way to understand Roxburghshire fol
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Scottish Tales, Tales, Scottish, Children&#x27;s fiction, Fairy tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -844,7 +844,7 @@ For visitors and readers, the most memorable way to understand Roxburghshire fol
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
 </h4>
 <p class="fr-book-author">By MacEdward Leach</p>
-
+        
 <p class="fr-book-desc">First published 1955. Subjects: American Narrative poetry, English Ballads, English Narrative poetry, Texts, Scots Ballads.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -861,7 +861,7 @@ For visitors and readers, the most memorable way to understand Roxburghshire fol
 <a href="https://www.amazon.com/s?k=The+Borders+Alistair+Moffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Borders">The Borders</a>
 </h4>
 <p class="fr-book-author">By Alistair Moffat</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: History, Great britain, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Borders+Alistair+Moffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -878,7 +878,7 @@ For visitors and readers, the most memorable way to understand Roxburghshire fol
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-
+        
 <p class="fr-book-desc">Covers Border legends, supernatural stories and place traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

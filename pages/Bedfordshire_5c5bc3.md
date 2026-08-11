@@ -844,7 +844,7 @@ Read together, these traditions make Bedfordshire feel less like a county withou
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">Excellent overview placing Bedfordshire traditions in the wider landscape of English folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -861,7 +861,7 @@ Read together, these traditions make Bedfordshire feel less like a county withou
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stations of the Sun">The Stations of the Sun</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">Explains May Day and other customs reflected across Bedfordshire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -878,7 +878,7 @@ Read together, these traditions make Bedfordshire feel less like a county withou
 <a href="https://www.amazon.com/s?k=Little+Book+of+the+Green+Man+Mike+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Little Book of the Green Man">Little Book of the Green Man</a>
 </h4>
 <p class="fr-book-author">By Mike Harding</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Gargoyles, Green Man (Tale), In art, Decoration and ornament, architectural.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Little+Book+of+the+Green+Man+Mike+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

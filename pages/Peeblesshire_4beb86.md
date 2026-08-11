@@ -792,7 +792,7 @@ For a modern reader or visitor, the best way to approach Peeblesshire folklore i
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Places local legends in national context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -809,7 +809,7 @@ For a modern reader or visitor, the best way to approach Peeblesshire folklore i
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Covers the kind of local legends found across Peeblesshire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -826,7 +826,7 @@ For a modern reader or visitor, the best way to approach Peeblesshire folklore i
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Folk-tales and Legends">Scottish Folk-tales and Legends</a>
 </h4>
 <p class="fr-book-author">By Barbara Ker Wilson</p>
-
+        
 <p class="fr-book-desc">First published 1954. Subjects: Tales, Fairy tales, Juvenile fiction, Folklore, Legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Folk-tales+and+Legends+Barbara+Ker+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -843,7 +843,7 @@ For a modern reader or visitor, the best way to approach Peeblesshire folklore i
 <a href="https://www.amazon.com/s?k=Scottish+Castles+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Castles">Scottish Castles</a>
 </h4>
 <p class="fr-book-author">By Martin Coventry</p>
-
+        
 <p class="fr-book-desc">Useful for Peeblesshire&#x27;s ruins and heritage places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Castles+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

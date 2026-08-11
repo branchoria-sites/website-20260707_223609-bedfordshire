@@ -357,7 +357,7 @@ For a modern reader, the appeal lies in the meeting of the tangible and the marv
 <a href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celtic world">The Celtic world</a>
 </h4>
 <p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
-
+        
 <p class="fr-book-desc">Provides wider Celtic religious and cultural background.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Celtic+world+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For a modern reader, the appeal lies in the meeting of the tangible and the marv
 <a href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celtic way">The Celtic way</a>
 </h4>
 <p class="fr-book-author">By Ian C. Bradley</p>
-
+        
 <p class="fr-book-desc">Matches saint traditions, sacred landscapes and pilgrimage themes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Celtic+way+Ian+C.+Bradley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For a modern reader, the appeal lies in the meeting of the tangible and the marv
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of the Scottish Highlands">Folklore of the Scottish Highlands</a>
 </h4>
 <p class="fr-book-author">By Anne Ross</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Folklore, Folklore, scotland, Scotland, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+the+Scottish+Highlands+Anne+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For a modern reader, the appeal lies in the meeting of the tangible and the marv
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Of The Unicorn Scottish Folk Tales For Children">The Coming Of The Unicorn Scottish Folk Tales For Children</a>
 </h4>
 <p class="fr-book-author">By Duncan Williamson</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Folklore, Folklore, juvenile literature, Scotland, juvenile literature, Tales, Juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

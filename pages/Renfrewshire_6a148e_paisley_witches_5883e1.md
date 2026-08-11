@@ -363,7 +363,7 @@ That is why Paisley’s witch hunt still matters. It is not a ghost story floati
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-
+        
 <p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That is why Paisley’s witch hunt still matters. It is not a ghost story floati
 <a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lancashire Witches">The Lancashire Witches</a>
 </h4>
 <p class="fr-book-author">By Robert Poole</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: Trials (Witchcraft), Congresses, Witches, Witchcraft, Paganism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That is why Paisley’s witch hunt still matters. It is not a ghost story floati
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Of The Unicorn Scottish Folk Tales For Children">The Coming Of The Unicorn Scottish Folk Tales For Children</a>
 </h4>
 <p class="fr-book-author">By Duncan Williamson</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Folklore, Folklore, juvenile literature, Scotland, juvenile literature, Tales, Juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ That is why Paisley’s witch hunt still matters. It is not a ghost story floati
 <a href="https://www.amazon.com/s?k=The+witch%27s+daughter+Paula+Brackston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch&#x27;s daughter">The witch&#x27;s daughter</a>
 </h4>
 <p class="fr-book-author">By Paula Brackston</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Immortality, Witches, Warlocks, Fiction, Fiction, romance, paranormal.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch%27s+daughter+Paula+Brackston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

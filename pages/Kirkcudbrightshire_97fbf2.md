@@ -832,7 +832,7 @@ The result is a folklore landscape that feels grounded rather than showy. Kirkcu
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Covers broad Scottish storytelling traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -849,7 +849,7 @@ The result is a folklore landscape that feels grounded rather than showy. Kirkcu
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Provides historical setting for local stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -866,7 +866,7 @@ The result is a folklore landscape that feels grounded rather than showy. Kirkcu
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft and superstitious record in the south-western district of Scotland">Witchcraft and superstitious record in the south-western dist...</a>
 </h4>
 <p class="fr-book-author">By John Maxwell Wood</p>
-
+        
 <p class="fr-book-desc">Important regional folklore source for Galloway.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -883,7 +883,7 @@ The result is a folklore landscape that feels grounded rather than showy. Kirkcu
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+S.+G.+MacLean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By S. G. MacLean</p>
-
+        
 <p class="fr-book-desc">Fits the county&#x27;s layered legends and place traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+S.+G.+MacLean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

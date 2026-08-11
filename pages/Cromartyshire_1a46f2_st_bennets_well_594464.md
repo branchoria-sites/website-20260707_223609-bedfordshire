@@ -355,7 +355,7 @@ The most honest way to answer the page’s central question, “Did St Bennet’
 <a href="https://www.amazon.com/s?k=Scenes+and+legends+of+the+north+of+Scotland+Hugh+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scenes and legends of the north of Scotland">Scenes and legends of the north of Scotland</a>
 </h4>
 <p class="fr-book-author">By Hugh Miller</p>
-
+        
 <p class="fr-book-desc">Records traditions surrounding Cromarty&#x27;s sacred sites.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scenes+and+legends+of+the+north+of+Scotland+Hugh+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ The most honest way to answer the page’s central question, “Did St Bennet’
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Adds wider folklore context for holy wells and fairy lore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The most honest way to answer the page’s central question, “Did St Bennet’
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland History of a Nation">Scotland History of a Nation</a>
 </h4>
 <p class="fr-book-author">By David Ross</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: History, Scotland - History, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The most honest way to answer the page’s central question, “Did St Bennet’
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
 </h4>
 <p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
-
+        
 <p class="fr-book-desc">Covers changelings and fairy beliefs central to the page.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

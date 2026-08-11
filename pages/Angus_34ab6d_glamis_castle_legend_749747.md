@@ -347,7 +347,7 @@ Glamis Castle therefore remains one of Angus’s clearest examples of how histor
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
 </h4>
 <p class="fr-book-author">By Elliott O&#x27;Donnell</p>
-
+        
 <p class="fr-book-desc">Provides a wider Scottish ghost folklore background for Glamis legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Elliott+O%27Donnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ Glamis Castle therefore remains one of Angus’s clearest examples of how histor
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
-
+        
 <p class="fr-book-desc">First published 1893. Subjects: Parapsychology, Fairies, Clairvoyance, Early works to 1800, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Glamis Castle therefore remains one of Angus’s clearest examples of how histor
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of witchcraft">The discoverie of witchcraft</a>
 </h4>
 <p class="fr-book-author">By Reginald Scot</p>
-
+        
 <p class="fr-book-desc">First published 1665. Subjects: Early works to 1800, Magic, Demonology, Witchcraft, Witchcraft, juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Glamis Castle therefore remains one of Angus’s clearest examples of how histor
 <a href="https://www.amazon.com/s?k=The+Scottish+witch-hunt+in+context+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scottish witch-hunt in context">The Scottish witch-hunt in context</a>
 </h4>
 <p class="fr-book-author">By Julian Goodare</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: Witchcraft, Witchcraft, great britain, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Scottish+witch-hunt+in+context+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

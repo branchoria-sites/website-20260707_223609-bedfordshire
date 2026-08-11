@@ -827,7 +827,7 @@ The most honest way to read Selkirkshire is to let its traditions keep their lay
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Provides accessible examples of Scottish storytelling traditions similar to Selkirkshire tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -844,7 +844,7 @@ The most honest way to read Selkirkshire is to let its traditions keep their lay
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ballad book">The ballad book</a>
 </h4>
 <p class="fr-book-author">By MacEdward Leach</p>
-
+        
 <p class="fr-book-desc">Relevant to Selkirkshire&#x27;s Yarrow, Tam Lin and Border ballad heritage.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ballad+book+MacEdward+Leach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -861,7 +861,7 @@ The most honest way to read Selkirkshire is to let its traditions keep their lay
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+Scottish+verse+Tom+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of Scottish verse">The Penguin book of Scottish verse</a>
 </h4>
 <p class="fr-book-author">By Tom Scott</p>
-
+        
 <p class="fr-book-desc">Includes the poetic tradition connected with Scottish landscapes and memory.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+Scottish+verse+Tom+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -878,7 +878,7 @@ The most honest way to read Selkirkshire is to let its traditions keep their lay
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-
+        
 <p class="fr-book-desc">Covers the legends, customs and supernatural traditions that frame Selkirkshire folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -378,7 +378,7 @@ In that sense, Scotlandwell’s real power is not the claim that its water can b
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Covers supernatural and sacred traditions related to place.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ In that sense, Scotlandwell’s real power is not the claim that its water can b
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Provides historical context for Bruce traditions and medieval Scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ In that sense, Scotlandwell’s real power is not the claim that its water can b
 <a href="https://www.amazon.com/s?k=Sacred+waters+Janet+Bord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sacred waters">Sacred waters</a>
 </h4>
 <p class="fr-book-author">By Janet Bord, Colin Bord</p>
-
+        
 <p class="fr-book-desc">Explores healing waters and sacred spring traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sacred+waters+Janet+Bord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ In that sense, Scotlandwell’s real power is not the claim that its water can b
 <a href="https://www.amazon.com/s?k=Queen+of+Scots+J.+A.+%28John+Alexander%29+Guy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Queen of Scots">Queen of Scots</a>
 </h4>
 <p class="fr-book-author">By J. A. (John Alexander) Guy</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Queens, Biography, History, Great britain, history, elizabeth, 1558-1603, Mary, queen of scots, 1542-1587.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Queen+of+Scots+J.+A.+%28John+Alexander%29+Guy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

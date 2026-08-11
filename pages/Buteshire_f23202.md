@@ -786,7 +786,7 @@ Buteshire’s folklore is therefore not simply a collection of ghost stories. It
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Stones: A Field Guide to the Megalithic Sites of Britain and Ireland">The Old Stones: A Field Guide to the Megalithic Sites of Brit...</a>
 </h4>
 <p class="fr-book-author">By Andy Burnham</p>
-
+        
 <p class="fr-book-desc">Supports interest in island prehistoric monuments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Old+Stones%3A+A+Field+Guide+to+the+Megalithic+Sites+of+Britain+and+Ireland+Andy+Burnham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -803,7 +803,7 @@ Buteshire’s folklore is therefore not simply a collection of ghost stories. It
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
-
+        
 <p class="fr-book-desc">Influential work on fairy belief in Scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -820,7 +820,7 @@ Buteshire’s folklore is therefore not simply a collection of ghost stories. It
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Fairy Belief">Scottish Fairy Belief</a>
 </h4>
 <p class="fr-book-author">By Lizanne Henderson, Edward J. Cowan</p>
-
+        
 <p class="fr-book-desc">Relevant to island supernatural traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Fairy+Belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -837,7 +837,7 @@ Buteshire’s folklore is therefore not simply a collection of ghost stories. It
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-
+        
 <p class="fr-book-desc">Ideal overview for Buteshire&#x27;s varied legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

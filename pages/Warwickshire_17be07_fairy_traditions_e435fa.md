@@ -354,7 +354,7 @@ Today, Warwickshire’s fairies, Puck and enchanted woods remain part of the cou
 <a href="https://www.amazon.com/s?k=A+Midsummer+Night%27s+Dream+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Midsummer Night&#x27;s Dream">A Midsummer Night&#x27;s Dream</a>
 </h4>
 <p class="fr-book-author">By William Shakespeare</p>
-
+        
 <p class="fr-book-desc">Direct connection to Puck and Warwickshire fairy associations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Midsummer+Night%27s+Dream+William+Shakespeare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Today, Warwickshire’s fairies, Puck and enchanted woods remain part of the cou
 <a href="https://www.amazon.com/s?k=The+Fairies+in+Tradition+and+Literature+Katharine+Mary+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fairies in Tradition and Literature">The Fairies in Tradition and Literature</a>
 </h4>
 <p class="fr-book-author">By Katharine Mary Briggs</p>
-
+        
 <p class="fr-book-desc">Directly covers fairy folklore and literary transformation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Fairies+in+Tradition+and+Literature+Katharine+Mary+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Today, Warwickshire’s fairies, Puck and enchanted woods remain part of the cou
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Michael Scott</p>
-
+        
 <p class="fr-book-desc">Provides broader Celtic fairy context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Today, Warwickshire’s fairies, Puck and enchanted woods remain part of the cou
 <a href="https://www.amazon.com/s?k=A+dictionary+of+fairies+Katharine+Mary+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of fairies">A dictionary of fairies</a>
 </h4>
 <p class="fr-book-author">By Katharine Mary Briggs</p>
-
+        
 <p class="fr-book-desc">Reference for fairy names, beliefs and motifs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+dictionary+of+fairies+Katharine+Mary+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -361,7 +361,7 @@ That split is useful for modern retelling. The national museum objects show the 
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Explores belief traditions surrounding places and rituals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ That split is useful for modern retelling. The national museum objects show the 
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
-
+        
 <p class="fr-book-desc">First published 1893. Subjects: Parapsychology, Fairies, Clairvoyance, Early works to 1800, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ That split is useful for modern retelling. The national museum objects show the 
 <a href="https://www.amazon.com/s?k=Scottish+history+Edward+J.+Cowan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish history">Scottish history</a>
 </h4>
 <p class="fr-book-author">By Edward J. Cowan, Richard J. Finlay</p>
-
+        
 <p class="fr-book-desc">Adds historical context around Scottish religious traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+history+Edward+J.+Cowan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ That split is useful for modern retelling. The national museum objects show the 
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Of The Unicorn Scottish Folk Tales For Children">The Coming Of The Unicorn Scottish Folk Tales For Children</a>
 </h4>
 <p class="fr-book-author">By Duncan Williamson</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Folklore, Folklore, juvenile literature, Scotland, juvenile literature, Tales, Juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Coming+Of+The+Unicorn+Scottish+Folk+Tales+For+Children+Duncan+Williamson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

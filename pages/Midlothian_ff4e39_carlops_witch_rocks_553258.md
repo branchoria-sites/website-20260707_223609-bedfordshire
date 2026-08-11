@@ -370,7 +370,7 @@ The best way to tell the Carlops story, then, is neither to dismiss it as “jus
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-
+        
 <p class="fr-book-desc">Provides surrounding folk belief context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The best way to tell the Carlops story, then, is neither to dismiss it as “jus
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish place-names">Scottish place-names</a>
 </h4>
 <p class="fr-book-author">By W. F. H. Nicolaisen</p>
-
+        
 <p class="fr-book-desc">Useful for understanding folklore embedded in names.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The best way to tell the Carlops story, then, is neither to dismiss it as “jus
 <a href="https://www.amazon.com/s?k=The+Scottish+witch-hunt+in+context+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scottish witch-hunt in context">The Scottish witch-hunt in context</a>
 </h4>
 <p class="fr-book-author">By Julian Goodare</p>
-
+        
 <p class="fr-book-desc">Adds historical context to witch traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Scottish+witch-hunt+in+context+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ The best way to tell the Carlops story, then, is neither to dismiss it as “jus
 <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witches and Witch-Hunters">Scottish Witches and Witch-Hunters</a>
 </h4>
 <p class="fr-book-author">By J. Goodare</p>
-
+        
 <p class="fr-book-desc">Matches witch legends and Scottish belief history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -345,7 +345,7 @@ For Lanarkshire folklore, their importance is that they make public memory visib
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk and fairy tales">Scottish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gordon Jarvie</p>
-
+        
 <p class="fr-book-desc">Supports understanding of living traditions and community storytelling.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+and+fairy+tales+Gordon+Jarvie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ For Lanarkshire folklore, their importance is that they make public memory visib
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Scotland">A History of Scotland</a>
 </h4>
 <p class="fr-book-author">By Neil Oliver</p>
-
+        
 <p class="fr-book-desc">Provides broad historical background behind local traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Scotland+Neil+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For Lanarkshire folklore, their importance is that they make public memory visib
 <a href="https://www.amazon.com/s?k=Scottish+history+Edward+J.+Cowan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish history">Scottish history</a>
 </h4>
 <p class="fr-book-author">By Edward J. Cowan, Richard J. Finlay</p>
-
+        
 <p class="fr-book-desc">Adds historical context for burgh rights and civic identity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+history+Edward+J.+Cowan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For Lanarkshire folklore, their importance is that they make public memory visib
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish place-names">Scottish place-names</a>
 </h4>
 <p class="fr-book-author">By W. F. H. Nicolaisen</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Geographical Names, Local History, History, Names, geographical, scotland, Scotland, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+place-names+W.+F.+H.+Nicolaisen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

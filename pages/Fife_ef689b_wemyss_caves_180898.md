@@ -365,7 +365,7 @@ That is why Wemyss should be retold carefully. Calling it merely â€œmysteriousâ€
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-
+        
 <p class="fr-book-desc">Adds folklore context around caves and sacred landscapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That is why Wemyss should be retold carefully. Calling it merely â€œmysteriousâ€
 <a href="https://www.amazon.com/s?k=Celtic+art+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Celtic art">Celtic art</a>
 </h4>
 <p class="fr-book-author">By Miranda J. Aldhouse-Green</p>
-
+        
 <p class="fr-book-desc">Strong match for Pictish symbols and early medieval carving traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Celtic+art+Miranda+J.+Aldhouse-Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ That is why Wemyss should be retold carefully. Calling it merely â€œmysteriousâ€
 <a href="https://www.amazon.com/s?k=The+Celts+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Celts">The Celts</a>
 </h4>
 <p class="fr-book-author">By Barry W. Cunliffe</p>
-
+        
 <p class="fr-book-desc">Useful context for Celtic and early medieval identity questions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Celts+Barry+W.+Cunliffe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ That is why Wemyss should be retold carefully. Calling it merely â€œmysteriousâ€
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">First published 1976. Subjects: Scottish Tales, Tales, Scottish, Children&#x27;s fiction, Fairy tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

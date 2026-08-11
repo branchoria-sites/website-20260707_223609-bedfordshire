@@ -376,7 +376,7 @@ Today, Essex’s witch-trial history belongs beside the county’s other superna
 <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discovery of witches">The discovery of witches</a>
 </h4>
 <p class="fr-book-author">By Matthew Hopkins</p>
-
+        
 <p class="fr-book-desc">First published 1928. Subjects: Early works to 1800, Witchcraft.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Today, Essex’s witch-trial history belongs beside the county’s other superna
 <a href="https://www.amazon.com/s?k=Cunning-Folk+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cunning-Folk">Cunning-Folk</a>
 </h4>
 <p class="fr-book-author">By Owen Davies</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: History, Magic, Magic, history, Magicians, Witchcraft.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cunning-Folk+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Today, Essex’s witch-trial history belongs beside the county’s other superna
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Today, Essex’s witch-trial history belongs beside the county’s other superna
 <a href="https://www.amazon.com/s?k=The+witchfinder%27s+sister+Beth+Underdown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witchfinder&#x27;s sister">The witchfinder&#x27;s sister</a>
 </h4>
 <p class="fr-book-author">By Beth Underdown</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Family secrets, Women, Witch hunting, Brothers and sisters, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witchfinder%27s+sister+Beth+Underdown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

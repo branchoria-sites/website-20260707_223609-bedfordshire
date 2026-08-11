@@ -331,7 +331,7 @@ Today, witch stories remain part of Angus’s cultural landscape because they co
 <a href="https://www.amazon.com/s?k=The+Scottish+witch-hunt+in+context+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scottish witch-hunt in context">The Scottish witch-hunt in context</a>
 </h4>
 <p class="fr-book-author">By Julian Goodare</p>
-
+        
 <p class="fr-book-desc">Provides wider Scottish context for Angus witch accusations, legal records and community beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Scottish+witch-hunt+in+context+Julian+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ Today, witch stories remain part of Angus’s cultural landscape because they co
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discoverie of witchcraft">The discoverie of witchcraft</a>
 </h4>
 <p class="fr-book-author">By Reginald Scot</p>
-
+        
 <p class="fr-book-desc">Helps readers understand early modern beliefs about magic, superstition and accusations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+discoverie+of+witchcraft+Reginald+Scot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ Today, witch stories remain part of Angus’s cultural landscape because they co
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish folk tales">Scottish folk tales</a>
 </h4>
 <p class="fr-book-author">By Ruth Manning-Sanders, William Stobbs</p>
-
+        
 <p class="fr-book-desc">Connects Angus charm traditions and remembered supernatural stories with wider Scottish folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+folk+tales+Ruth+Manning-Sanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Today, witch stories remain part of Angus’s cultural landscape because they co
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
 </h4>
 <p class="fr-book-author">By Kirk, Robert</p>
-
+        
 <p class="fr-book-desc">First published 1893. Subjects: Parapsychology, Fairies, Clairvoyance, Early works to 1800, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

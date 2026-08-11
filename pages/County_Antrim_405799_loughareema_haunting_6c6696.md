@@ -387,7 +387,7 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
 </h4>
 <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-
+        
 <p class="fr-book-desc">Provides wider context for Irish and Celtic beliefs in spirits, haunted landscapes and traditional supernatural stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish folk and fairy tales">Irish folk and fairy tales</a>
 </h4>
 <p class="fr-book-author">By Michael Scott</p>
-
+        
 <p class="fr-book-desc">Connects well with Irish legends, fairy beliefs and the storytelling traditions behind haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+folk+and+fairy+tales+Michael+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Ireland+Foster%2C+R.+F.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of Ireland">The Oxford illustrated history of Ireland</a>
 </h4>
 <p class="fr-book-author">By Foster, R. F.</p>
-
+        
 <p class="fr-book-desc">Helps readers understand the historical and cultural background surrounding Irish landscapes and traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Ireland+Foster%2C+R.+F.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For County Antrim, Loughareema is one of the clearest examples of a haunted land
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish Legends for Children">Irish Legends for Children</a>
 </h4>
 <p class="fr-book-author">By Yvonne Carroll</p>
-
+        
 <p class="fr-book-desc">Represents the broader Irish legend tradition behind tales of mysterious lakes and supernatural places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+Legends+for+Children+Yvonne+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
