@@ -830,7 +830,6 @@ Aberdeenshire’s ghost castles therefore represent more than collections of spo
 
 23.<a id="endnote-23"></a>
    Source: hiddenscotland.com  
-   Link:https://hiddenscotland.com/listings/ghost-investigation-at-crathes-castle-with-highland-paranormal/inspiration  
 
 24.<a id="endnote-24"></a>
    Source: spookyscotland.net  
